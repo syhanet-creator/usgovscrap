@@ -426,8 +426,14 @@ def gemini_post(url, body, timeout, tries=5):
     """무료 등급의 분당 호출 제한(429)·일시 과부하(503)면 기다렸다가 재시도한다.
     실패하면 서버가 알려준 오류 내용을 예외 메시지에 담는다."""
     for attempt in range(1, tries + 1):
-        resp = requests.post(url, json=body, timeout=timeout,
-                             headers={"x-goog-api-key": GEMINI_API_KEY})
+        try:
+            resp = requests.post(url, json=body, timeout=timeout,
+                                 headers={"x-goog-api-key": GEMINI_API_KEY})
+        except (requests.exceptions.Timeout, requests.exceptions.ConnectionError) as e:
+            if attempt >= tries:
+                raise
+            print(f"  [안내] Gemini 응답 지연/연결 오류({type(e).__name__}), 재시도 ({attempt}/{tries - 1})")
+            continue
         if resp.status_code in (429, 503) and attempt < tries:
             wait = 15 * attempt
             print(f"  [안내] Gemini {resp.status_code} 응답, {wait}초 후 재시도 ({attempt}/{tries - 1})")
@@ -477,7 +483,7 @@ def gemini_summary(agencies):
     lines = []
     for a in agencies:
         for it in a["items"]:
-            lines.append(f"[{a['name_ko']}] {it['date']} {it['title_en']} / {it['title_ko']}")
+            lines.append(f"[{a['name_ko']}] {it['date']} {it['title_ko']}")
     if len(lines) < 5:
         return None
 
@@ -526,7 +532,7 @@ def gemini_summary(agencies):
     url = ("https://generativelanguage.googleapis.com/v1beta/models/"
            f"{GEMINI_MODEL}:generateContent")
     try:
-        resp = gemini_post(url, body, timeout=120)
+        resp = gemini_post(url, body, timeout=240, tries=3)
         text = resp.json()["candidates"][0]["content"]["parts"][0]["text"]
         summary = json.loads(text)
         summary["model"] = GEMINI_MODEL
