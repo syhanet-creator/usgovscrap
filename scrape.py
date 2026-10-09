@@ -421,6 +421,22 @@ def filter_recent(items, days=PERIOD_DAYS, max_items=MAX_ITEMS_PER_AGENCY):
     return recent[:max_items]
 
 
+def gemini_post(url, body, timeout, tries=5):
+    """무료 등급의 분당 호출 제한(429)·일시 과부하(503)면 기다렸다가 재시도한다.
+    실패하면 서버가 알려준 오류 내용을 예외 메시지에 담는다."""
+    for attempt in range(1, tries + 1):
+        resp = requests.post(url, json=body, timeout=timeout,
+                             headers={"x-goog-api-key": GEMINI_API_KEY})
+        if resp.status_code in (429, 503) and attempt < tries:
+            wait = 15 * attempt
+            print(f"  [안내] Gemini {resp.status_code} 응답, {wait}초 후 재시도 ({attempt}/{tries - 1})")
+            time.sleep(wait)
+            continue
+        if not resp.ok:
+            raise RuntimeError(f"HTTP {resp.status_code}: {resp.text[:300]}")
+        return resp
+
+
 def gemini_translate(titles):
     """Gemini API로 제목 목록을 한 번에 한글 번역. 실패하면 None."""
     url = ("https://generativelanguage.googleapis.com/v1beta/models/"
@@ -442,9 +458,7 @@ def gemini_translate(titles):
         },
     }
     try:
-        resp = requests.post(url, json=body, timeout=60,
-                             headers={"x-goog-api-key": GEMINI_API_KEY})
-        resp.raise_for_status()
+        resp = gemini_post(url, body, timeout=60)
         text = resp.json()["candidates"][0]["content"]["parts"][0]["text"]
         out = json.loads(text)
         if isinstance(out, list) and len(out) == len(titles):
@@ -509,9 +523,7 @@ def gemini_summary(agencies):
     url = ("https://generativelanguage.googleapis.com/v1beta/models/"
            f"{GEMINI_MODEL}:generateContent")
     try:
-        resp = requests.post(url, json=body, timeout=120,
-                             headers={"x-goog-api-key": GEMINI_API_KEY})
-        resp.raise_for_status()
+        resp = gemini_post(url, body, timeout=120)
         text = resp.json()["candidates"][0]["content"]["parts"][0]["text"]
         summary = json.loads(text)
         summary["model"] = GEMINI_MODEL
