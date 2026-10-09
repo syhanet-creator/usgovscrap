@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10 06:18:47",
+  "generated_at": "2026-10-09 21:29:17",
   "period_days": 7,
   "translation_available": true,
   "agencies": [
@@ -39,6 +39,30 @@
           "title_ko": "화재 예방 주간 대통령 메시지",
           "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-fire-prevention-week/",
           "date": "2026-10-05"
+        },
+        {
+          "title_en": "Presidential Message on Down Syndrome Awareness Month",
+          "title_ko": "다운증후군 인식의 달 대통령 메시지",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-down-syndrome-awareness-month-6778/",
+          "date": "2026-10-02"
+        },
+        {
+          "title_en": "Presidential Message on National Cybersecurity Awareness Month",
+          "title_ko": "국가 사이버 보안 인식의 달에 대한 대통령 메시지",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-cybersecurity-awareness-month/",
+          "date": "2026-10-02"
+        },
+        {
+          "title_en": "Presidential Message on National Domestic Violence Awareness Month",
+          "title_ko": "가정 폭력 인식의 달 대통령 메시지",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-domestic-violence-awareness-month/",
+          "date": "2026-10-02"
+        },
+        {
+          "title_en": "Presidential Message on National Breast Cancer Awareness Month",
+          "title_ko": "전국 유방암 인식의 달 대통령 메시지",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-breast-cancer-awareness-month-a680/",
+          "date": "2026-10-02"
         }
       ],
       "note": ""
@@ -149,6 +173,24 @@
           "title_ko": "재무부, 3차 제재 철폐 및 현대화 이니셔티브 업데이트 발표",
           "url": "https://home.treasury.gov/news/press-releases/sb0650/",
           "date": "2026-10-05"
+        },
+        {
+          "title_en": "URIF Approves Additional Investments and Partnerships in Energy and Critical Minerals",
+          "title_ko": "URIF, 에너지 및 중요 광물에 대한 추가 투자 및 파트너십 승인",
+          "url": "https://home.treasury.gov/news/press-releases/sb0648/",
+          "date": "2026-10-02"
+        },
+        {
+          "title_en": "Treasury Dismantles Major Hamas Financing Network",
+          "title_ko": "재무부, 주요 하마스 자금 조달 네트워크 해체",
+          "url": "https://home.treasury.gov/news/press-releases/sb0647/",
+          "date": "2026-10-02"
+        },
+        {
+          "title_en": "The Financial Literacy and Education Commission Releases the 2026 Update to the U.S. National Strategy for Financial Literacy",
+          "title_ko": "금융 리터러시 및 교육 위원회 (Financial Literacy and Education Commission) 가 미국 금융 리터러시 국가 전략에 대한 2026년 업데이트를 발표했습니다.",
+          "url": "https://home.treasury.gov/news/press-releases/sb0646/",
+          "date": "2026-10-02"
         }
       ],
       "note": ""
@@ -183,6 +225,12 @@
           "title_ko": "명예 훈장 월요일: 육군 상사 앨빈 요크",
           "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4574729/medal-of-honor-monday-army-sgt-alvin-york/",
           "date": "2026-10-05"
+        },
+        {
+          "title_en": "Signers of the Declaration of Independence: Connecticut, Part 2",
+          "title_ko": "독립선언서 서명인: 코네티컷, 2부",
+          "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4567953/signers-of-the-declaration-of-independence-connecticut-part-2/",
+          "date": "2026-10-02"
         }
       ],
       "note": ""
@@ -275,8 +323,15 @@
       "name_en": "Department of the Interior",
       "color": "#6b4423",
       "list_url": "https://www.doi.gov/news",
-      "items": [],
-      "note": "최근 7일간 새 보도자료를 찾지 못했거나 사이트 구조 변경으로 수집에 실패했습니다."
+      "items": [
+        {
+          "title_en": "Department of the Interior Designated Whittier, Alaska an American World War II Heritage City",
+          "title_ko": "미국 제2차 세계대전 헤리티지 도시인 알래스카 휘티어 내무부 지정",
+          "url": "https://www.doi.gov/pressreleases/department-interior-designated-whittier-alaska-american-world-war-ii-heritage-city",
+          "date": "2026-10-02"
+        }
+      ],
+      "note": ""
     },
     {
       "key": "agriculture",
@@ -340,9 +395,9 @@
       "list_url": "https://www.energy.gov/news",
       "items": [
         {
-          "title_en": "Energy Department Announces New Genesis Mission Awards to Advance Super Intelligence for Science",
-          "title_ko": "에너지부, 과학을 위한 슈퍼 인텔리전스 발전을 위한 새로운 제네시스 미션 어워드 발표",
-          "url": "https://www.energy.gov/articles/energy-department-announces-new-genesis-mission-awards-advance-super-intelligence-science",
+          "title_en": "U.S. Department of Energy Awards $96 Million to 67 Early Career Scientists",
+          "title_ko": "미국 에너지부, 조기 취업 과학자 67명에게 $ 96 Million 상 수여",
+          "url": "https://www.energy.gov/articles/us-department-energy-awards-96-million-67-early-career-scientists",
           "date": "2026-10-08"
         }
       ],
