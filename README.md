@@ -72,3 +72,11 @@ cd govscrap-us
 - **일부 기관의 보도자료 수가 유난히 적거나 0건인 경우**: 실제로 해당 기관이 최근
   7일간 보도자료를 내지 않았거나, 목록 페이지에 날짜 정보가 부족해 안전하게 걸러낸
   것일 수 있습니다. 상단의 "기관 보도자료 페이지 바로가기" 링크로 원본을 확인하세요.
+
+## 매일 자동 갱신 (GitHub Actions + Vercel)
+- `.github/workflows/daily-update.yml`이 매일 06:00(KST)에 `scrape.py`를 실행해 `data.json`을 갱신·커밋하고,
+  그 푸시를 Vercel이 감지해 자동으로 다시 배포합니다. 수동 실행은 GitHub의 Actions 탭에서 "Run workflow".
+- 번역은 `GEMINI_API_KEY`가 있으면 Gemini를 우선 사용합니다(없으면 구글 번역/MyMemory로 대체).
+  **Vercel에 등록한 키는 GitHub Actions에서 읽을 수 없으므로**, 저장소 Settings → Secrets and variables →
+  Actions에 `GEMINI_API_KEY`를 별도로 등록해야 합니다.
+- 수집 항목이 10건 미만이거나 번역이 절반 이상 실패하면 기존 `data.json`을 덮어쓰지 않고 실패 처리합니다.
