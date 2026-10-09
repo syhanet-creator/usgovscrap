@@ -46,6 +46,7 @@ GOOGLE_TRANSLATE_BROKEN = False
 # Gemini API 키는 코드에 적지 말고 환경변수로만 전달한다 (저장소에 올라가면 안 됨).
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
+LAST_GEMINI_ERROR = ""
 
 HEADERS = {
     "User-Agent": (
@@ -465,6 +466,8 @@ def gemini_translate(titles):
             return [str(x) for x in out]
         print("  [경고] Gemini 응답 개수가 입력과 달라 다른 번역기로 전환합니다.")
     except Exception as e:
+        global LAST_GEMINI_ERROR
+        LAST_GEMINI_ERROR = f"translate: {e}"[:400]
         print(f"  [경고] Gemini 번역 실패, 다른 번역기로 전환합니다: {e}")
     return None
 
@@ -529,6 +532,8 @@ def gemini_summary(agencies):
         summary["model"] = GEMINI_MODEL
         return summary
     except Exception as e:
+        global LAST_GEMINI_ERROR
+        LAST_GEMINI_ERROR = f"summary: {e}"[:400]
         print(f"  [경고] AI 요약 생성 실패: {e}")
         return None
 
@@ -629,6 +634,11 @@ def main():
         summary = gemini_summary(result["agencies"])
         if summary:
             result["ai_summary"] = summary
+    result["debug"] = {
+        "gemini_key_present": bool(GEMINI_API_KEY),
+        "gemini_model": GEMINI_MODEL,
+        "last_gemini_error": LAST_GEMINI_ERROR,
+    }
 
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
