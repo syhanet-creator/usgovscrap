@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>미국 중앙부처 보도자료 모자이크 (자동 번역)</title>
+<style>
+  :root {
+    --bg: #f2f3f6;
+    --card-bg: #ffffff;
+    --border: #e2e4e9;
+    --text: #1c1e21;
+    --muted: #6b7280;
+    --accent: #1a56db;
+    --accent-soft: #eaf1fd;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: "Pretendard", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+    background: var(--bg);
+    color: var(--text);
+  }
+  header {
+    background: #fff;
+    border-bottom: 1px solid var(--border);
+    padding: 18px 24px;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+  header h1 { font-size: 19px; margin: 0; }
+  header .meta { font-size: 12.5px; color: var(--muted); margin-top: 2px; }
+  .controls { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+  input#searchBox {
+    padding: 8px 12px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    font-size: 14px;
+    min-width: 220px;
+  }
+  select#agencyFilter {
+    padding: 8px 10px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    font-size: 13px;
+    background: #fff;
+  }
+  button#refreshBtn {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 8px;
+    background: var(--accent);
+    color: #fff;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  button#refreshBtn:hover { background: #1747b8; }
+  main { max-width: 1400px; margin: 0 auto; padding: 22px 24px 60px; }
+  .status-banner {
+    background: var(--accent-soft);
+    border: 1px solid #c3d9fb;
+    border-radius: 10px;
+    padding: 12px 16px;
+    font-size: 12.5px;
+    color: #16406e;
+    margin-bottom: 18px;
+    line-height: 1.6;
+  }
+  .status-banner.warn { background: #fff4e5; border-color: #ffd9a0; color: #7a4a00; }
+  .mosaic {
+    column-count: 4;
+    column-gap: 16px;
+  }
+  @media (max-width: 1200px) { .mosaic { column-count: 3; } }
+  @media (max-width: 860px)  { .mosaic { column-count: 2; } }
+  @media (max-width: 560px)  { .mosaic { column-count: 1; } }
+
+  .tile {
+    break-inside: avoid;
+    -webkit-column-break-inside: avoid;
+    display: block;
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-left: 5px solid var(--tile-color, var(--accent));
+    border-radius: 10px;
+    padding: 14px 16px;
+    margin-bottom: 16px;
+    text-decoration: none;
+    color: var(--text);
+    transition: transform .12s ease, box-shadow .12s ease;
+  }
+  .tile:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(20, 30, 60, 0.10);
+  }
+  .tile-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    margin-bottom: 8px;
+  }
+  .agency-badge {
+    font-size: 11.5px;
+    font-weight: 700;
+    color: var(--tile-color, var(--accent));
+    background: color-mix(in srgb, var(--tile-color, var(--accent)) 12%, white);
+    padding: 2px 8px;
+    border-radius: 999px;
+    white-space: nowrap;
+  }
+  .tile-date { font-size: 11px; color: var(--muted); white-space: nowrap; }
+  .tile-title-ko {
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1.4;
+    margin: 0 0 6px 0;
+  }
+  .tile-title-en {
+    font-size: 12px;
+    color: var(--muted);
+    line-height: 1.4;
+    margin: 0;
+  }
+  .tile-link-hint {
+    margin-top: 10px;
+    font-size: 11.5px;
+    color: var(--tile-color, var(--accent));
+    font-weight: 600;
+  }
+  .agency-card.tile {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .agency-card .agency-name { font-size: 15px; font-weight: 700; }
+  .agency-card .agency-note { font-size: 12.5px; color: var(--muted); line-height: 1.5; }
+  .agency-card .agency-link {
+    margin-top: 6px;
+    font-size: 12.5px;
+    font-weight: 600;
+    color: var(--tile-color, var(--accent));
+  }
+  .empty-note { font-size: 13px; color: var(--muted); padding: 30px 0; text-align: center; }
+</style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h1>🇺🇸 미국 중앙부처 보도자료 모자이크</h1>
+    <div class="meta" id="genMeta">데이터 없음 — scrape.py를 먼저 실행하세요</div>
+  </div>
+  <div class="controls">
+    <input type="text" id="searchBox" placeholder="기관명 또는 제목 검색 (한글/영문)">
+    <select id="agencyFilter"><option value="">전체 기관</option></select>
+    <button id="refreshBtn" onclick="loadData()">🔄 새로고침</button>
+  </div>
+</header>
+
+<main>
+  <div class="status-banner" id="statusBanner"></div>
+  <div class="mosaic" id="mosaic"></div>
+</main>
+
+<script>
+let allData = null;
+
+async function loadData() {
+  const banner = document.getElementById('statusBanner');
+  banner.className = 'status-banner';
+  banner.textContent = '불러오는 중...';
+  try {
+    const res = await fetch('data.json?_=' + Date.now());
+    if (!res.ok) throw new Error('data.json을 찾을 수 없습니다');
+    allData = await res.json();
+    populateAgencyFilter();
+    render();
+  } catch (e) {
+    banner.className = 'status-banner warn';
+    banner.innerHTML =
+      '<b>data.json을 불러오지 못했습니다.</b><br>' +
+      '같은 폴더에서 먼저 <code>python scrape.py</code>를 실행해 데이터를 생성한 뒤, ' +
+      '이 페이지를 새로고침하세요.<br>오류: ' + e.message;
+    document.getElementById('mosaic').innerHTML = '';
+  }
+}
+
+function populateAgencyFilter() {
+  const sel = document.getElementById('agencyFilter');
+  const current = sel.value;
+  sel.innerHTML = '<option value="">전체 기관</option>' +
+    allData.agencies.map(a => `<option value="${a.key}">${a.name_ko}</option>`).join('');
+  sel.value = current;
+}
+
+function render() {
+  const banner = document.getElementById('statusBanner');
+  const genMeta = document.getElementById('genMeta');
+  const mosaic = document.getElementById('mosaic');
+
+  const totalItems = allData.agencies.reduce((s, a) => s + a.items.length, 0);
+  genMeta.textContent =
+    `생성 시각: ${allData.generated_at} · 최근 ${allData.period_days}일 · 기관 ${allData.agencies.length}곳 · 보도자료 ${totalItems}건`;
+
+  banner.className = 'status-banner' + (allData.translation_available ? '' : ' warn');
+  banner.innerHTML = allData.translation_available
+    ? '각 기관 공식 사이트에서 수집한 보도자료 제목을 <b>자동으로 한글 번역</b>하여 보여줍니다. 정확한 원문은 타일을 클릭해 원본 페이지에서 확인하세요.'
+    : '<b>번역 패키지(deep-translator)가 설치되어 있지 않아 번역 없이 원문으로 표시됩니다.</b> ' +
+      'pip install deep-translator 설치 후 scrape.py를 다시 실행하면 한글로 번역됩니다.';
+
+  const q = (document.getElementById('searchBox').value || '').trim().toLowerCase();
+  const agencyKey = document.getElementById('agencyFilter').value;
+
+  mosaic.innerHTML = '';
+  let shown = 0;
+
+  allData.agencies.forEach(a => {
+    if (agencyKey && a.key !== agencyKey) return;
+
+    const items = a.items.filter(it => {
+      if (!q) return true;
+      return a.name_ko.toLowerCase().includes(q) ||
+             a.name_en.toLowerCase().includes(q) ||
+             it.title_ko.toLowerCase().includes(q) ||
+             it.title_en.toLowerCase().includes(q);
+    });
+
+    if (items.length === 0) {
+      // 검색어가 있고 매칭이 없으면 이 기관은 건너뜀 (전체 보기일 때만 안내 타일 표시)
+      if (q) return;
+      const card = document.createElement('a');
+      card.href = a.list_url;
+      card.target = '_blank';
+      card.rel = 'noopener';
+      card.className = 'tile agency-card';
+      card.style.setProperty('--tile-color', a.color);
+      card.innerHTML = `
+        <div class="agency-name">${a.name_ko}</div>
+        <div class="agency-note">${escapeHtml(a.note || '최근 7일간 새 보도자료가 없습니다.')}</div>
+        <div class="agency-link">기관 보도자료 페이지 바로가기 ↗</div>
+      `;
+      mosaic.appendChild(card);
+      shown++;
+      return;
+    }
+
+    items.forEach(it => {
+      const tile = document.createElement('a');
+      tile.href = it.url;
+      tile.target = '_blank';
+      tile.rel = 'noopener';
+      tile.className = 'tile';
+      tile.style.setProperty('--tile-color', a.color);
+      tile.innerHTML = `
+        <div class="tile-top">
+          <span class="agency-badge">${a.name_ko}</span>
+          ${it.date ? `<span class="tile-date">${it.date}</span>` : ''}
+        </div>
+        <p class="tile-title-ko">${escapeHtml(it.title_ko)}</p>
+        <p class="tile-title-en">${escapeHtml(it.title_en)}</p>
+        <div class="tile-link-hint">원문 보기 ↗</div>
+      `;
+      mosaic.appendChild(tile);
+      shown++;
+    });
+  });
+
+  if (shown === 0) {
+    mosaic.innerHTML = '<div class="empty-note">검색/필터 결과가 없습니다.</div>';
+  }
+}
+
+function escapeHtml(str) {
+  const div = document.createElement('div');
+  div.textContent = str == null ? '' : str;
+  return div.innerHTML;
+}
+
+document.getElementById('searchBox').addEventListener('input', () => { if (allData) render(); });
+document.getElementById('agencyFilter').addEventListener('change', () => { if (allData) render(); });
+
+loadData();
+</script>
+
+</body>
+</html>
