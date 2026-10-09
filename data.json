@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09 22:32:27",
+  "generated_at": "2026-10-09 22:58:55",
   "period_days": 7,
   "translation_available": true,
   "agencies": [
@@ -12,25 +12,25 @@
       "items": [
         {
           "title_en": "Congressional Bills S. 195 Signed into Law",
-          "title_ko": "의회 법안 S. 195 서명 및 공포",
+          "title_ko": "의회 법안 S. 195 법률에 서명",
           "url": "https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-s-195-signed-into-law/",
           "date": "2026-10-09"
         },
         {
           "title_en": "Congressional Bills H.R. 5345 and S. 766 Signed into Law",
-          "title_ko": "의회 법안 H.R. 5345 및 S. 766 서명 및 공포",
+          "title_ko": "의회 법안 H.R. 5345 및 S. 766 법률에 서명",
           "url": "https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-h-r-5345-and-s-766-signed-into-law/",
           "date": "2026-10-07"
         },
         {
           "title_en": "Presidential Message on German American Day",
-          "title_ko": "독일계 미국인의 날 대통령 메시지",
+          "title_ko": "독일계 미국인의 날에 보내는 대통령 메시지",
           "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-german-american-day/",
           "date": "2026-10-06"
         },
         {
           "title_en": "Presidential Message on Child Health Day",
-          "title_ko": "어린이 건강의 날 대통령 메시지",
+          "title_ko": "어린이 보건의 날 대통령 메시지",
           "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-child-health-day-c67c/",
           "date": "2026-10-05"
         },
@@ -48,13 +48,13 @@
         },
         {
           "title_en": "Presidential Message on National Cybersecurity Awareness Month",
-          "title_ko": "전국 사이버 보안 인식의 달 대통령 메시지",
+          "title_ko": "국가 사이버 보안 인식의 달에 대한 대통령 메시지",
           "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-cybersecurity-awareness-month/",
           "date": "2026-10-02"
         },
         {
           "title_en": "Presidential Message on National Domestic Violence Awareness Month",
-          "title_ko": "전국 가정폭력 인식의 달 대통령 메시지",
+          "title_ko": "가정 폭력 인식의 달 대통령 메시지",
           "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-domestic-violence-awareness-month/",
           "date": "2026-10-02"
         },
@@ -393,8 +393,15 @@
       "name_en": "Department of Energy",
       "color": "#b8860b",
       "list_url": "https://www.energy.gov/news",
-      "items": [],
-      "note": "최근 7일간 새 보도자료를 찾지 못했거나 사이트 구조 변경으로 수집에 실패했습니다."
+      "items": [
+        {
+          "title_en": "Energy Department Announces New Genesis Mission Awards to Advance Super Intelligence for Science",
+          "title_ko": "에너지부, 과학을 위한 슈퍼 인텔리전스 발전을 위한 새로운 제네시스 미션 어워드 발표",
+          "url": "https://www.energy.gov/articles/energy-department-announces-new-genesis-mission-awards-advance-super-intelligence-science",
+          "date": "2026-10-08"
+        }
+      ],
+      "note": ""
     },
     {
       "key": "education",
@@ -534,6 +541,10 @@
   "debug": {
     "gemini_key_present": true,
     "gemini_model": "gemini-3.8-flash",
+    "gemini_translate_batches": {
+      "translate_ok": 0,
+      "translate_fail": 9
+    },
     "last_gemini_error": "summary: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota ex"
   }
 }
