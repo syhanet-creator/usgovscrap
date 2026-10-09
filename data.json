@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09 22:09:32",
+  "generated_at": "2026-10-09 22:12:45",
   "period_days": 7,
   "translation_available": true,
   "agencies": [
@@ -537,5 +537,10 @@
       "items": [],
       "note": "자동 접속 차단(봇 감지)으로 목록 페이지 링크만 제공합니다."
     }
-  ]
+  ],
+  "debug": {
+    "gemini_key_present": true,
+    "gemini_model": "gemini-2.5-flash",
+    "last_gemini_error": "summary: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs"
+  }
 }
