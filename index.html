@@ -147,6 +147,31 @@
     font-weight: 600;
     color: var(--tile-color, var(--accent));
   }
+  .ai-summary {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-top: 4px solid var(--accent);
+    border-radius: 12px;
+    padding: 18px 22px;
+    margin-bottom: 20px;
+  }
+  .ai-summary[hidden] { display: none; }
+  .ai-head { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-bottom: 6px; }
+  .ai-head h2 { font-size: 16px; margin: 0; }
+  .ai-badge {
+    font-size: 11px; font-weight: 700; color: var(--accent);
+    background: var(--accent-soft); padding: 2px 8px; border-radius: 999px;
+  }
+  .ai-headline { font-size: 17px; font-weight: 700; line-height: 1.5; margin: 6px 0 14px; }
+  .ai-cols { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+  @media (max-width: 860px) { .ai-cols { grid-template-columns: 1fr; gap: 16px; } }
+  .ai-col h3 { font-size: 13px; color: var(--muted); margin: 0 0 8px; letter-spacing: .02em; }
+  .ai-item { margin: 0 0 12px; font-size: 13.5px; line-height: 1.55; }
+  .ai-item b { display: block; font-size: 14px; margin-bottom: 2px; }
+  .ai-tags { margin-top: 4px; display: flex; gap: 4px; flex-wrap: wrap; }
+  .ai-tag { font-size: 11px; color: var(--accent); background: var(--accent-soft); padding: 1px 7px; border-radius: 999px; }
+  .ai-basis { font-size: 12px; color: var(--muted); }
+  .ai-note { font-size: 11.5px; color: var(--muted); margin: 6px 0 0; border-top: 1px dashed var(--border); padding-top: 10px; }
   .empty-note { font-size: 13px; color: var(--muted); padding: 30px 0; text-align: center; }
 </style>
 </head>
@@ -165,6 +190,7 @@
 </header>
 
 <main>
+  <section class="ai-summary" id="aiSummary" hidden></section>
   <div class="status-banner" id="statusBanner"></div>
   <div class="mosaic" id="mosaic"></div>
 </main>
@@ -181,6 +207,7 @@ async function loadData() {
     if (!res.ok) throw new Error('data.json을 찾을 수 없습니다');
     allData = await res.json();
     populateAgencyFilter();
+    renderAiSummary();
     render();
   } catch (e) {
     banner.className = 'status-banner warn';
@@ -275,6 +302,35 @@ function render() {
   if (shown === 0) {
     mosaic.innerHTML = '<div class="empty-note">검색/필터 결과가 없습니다.</div>';
   }
+}
+
+function renderAiSummary() {
+  const box = document.getElementById('aiSummary');
+  const s = allData && allData.ai_summary;
+  if (!s) { box.hidden = true; box.innerHTML = ''; return; }
+
+  const news = (s.top_news || []).map(n => `
+    <div class="ai-item">
+      <b>${escapeHtml(n.title)}</b>
+      ${escapeHtml(n.detail)}
+      <div class="ai-tags">${(n.agencies || []).map(a => `<span class="ai-tag">${escapeHtml(a)}</span>`).join('')}</div>
+    </div>`).join('');
+  const outlook = (s.outlook || []).map(o => `
+    <div class="ai-item">
+      <b>${escapeHtml(o.agency)}</b>
+      ${escapeHtml(o.forecast)}
+      <div class="ai-basis">근거: ${escapeHtml(o.basis)}</div>
+    </div>`).join('');
+
+  box.innerHTML = `
+    <div class="ai-head"><h2>오늘의 AI 요약</h2><span class="ai-badge">Gemini AI</span></div>
+    <p class="ai-headline">${escapeHtml(s.headline)}</p>
+    <div class="ai-cols">
+      <div class="ai-col"><h3>주요 뉴스</h3>${news}</div>
+      <div class="ai-col"><h3>부처별 움직임 전망</h3>${outlook}</div>
+    </div>
+    <p class="ai-note">AI가 수집된 보도자료 제목만을 바탕으로 생성한 요약과 추정입니다. 본문을 읽지 않았고 전망은 예측일 뿐이므로, 정확한 내용은 각 타일의 원문에서 확인하세요.</p>`;
+  box.hidden = false;
 }
 
 function escapeHtml(str) {

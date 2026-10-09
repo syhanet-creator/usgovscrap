@@ -455,6 +455,72 @@ def gemini_translate(titles):
     return None
 
 
+def gemini_summary(agencies):
+    """수집한 보도자료 제목 전체로 '오늘의 주요 뉴스 요약 + 부처별 움직임 전망'을 생성."""
+    lines = []
+    for a in agencies:
+        for it in a["items"]:
+            lines.append(f"[{a['name_ko']}] {it['date']} {it['title_en']} / {it['title_ko']}")
+    if len(lines) < 5:
+        return None
+
+    prompt = (
+        "너는 미국 정치·행정을 다루는 한국어 뉴스 에디터다. 아래는 미국 연방정부 부처가 "
+        "최근 7일간 낸 보도자료 제목 목록이다(제목만 있고 본문은 없다).\n"
+        "1) headline: 이번 주 전체 흐름을 한 문장으로.\n"
+        "2) top_news: 가장 중요한 뉴스 3~5개. 각 항목에 title(짧은 제목), detail(1~2문장 요약), "
+        "agencies(관련 부처 한글명 배열).\n"
+        "3) outlook: 부처별 향후 움직임 전망 3~5개. 각 항목에 agency, forecast(1~2문장), "
+        "basis(근거가 된 제목의 한글 표현).\n"
+        "규칙: 목록에 없는 사실을 지어내지 말고, 전망은 제목에서 읽히는 추세에 근거해 "
+        "'~할 가능성이 있다'처럼 단정하지 않는 어투로 쓴다. 모두 자연스러운 한국어로.\n\n"
+        + "\n".join(lines)
+    )
+    string = {"type": "STRING"}
+    body = {
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {
+            "responseMimeType": "application/json",
+            "responseSchema": {
+                "type": "OBJECT",
+                "properties": {
+                    "headline": string,
+                    "top_news": {"type": "ARRAY", "items": {
+                        "type": "OBJECT",
+                        "properties": {
+                            "title": string, "detail": string,
+                            "agencies": {"type": "ARRAY", "items": string},
+                        },
+                        "required": ["title", "detail", "agencies"],
+                    }},
+                    "outlook": {"type": "ARRAY", "items": {
+                        "type": "OBJECT",
+                        "properties": {
+                            "agency": string, "forecast": string, "basis": string,
+                        },
+                        "required": ["agency", "forecast", "basis"],
+                    }},
+                },
+                "required": ["headline", "top_news", "outlook"],
+            },
+            "temperature": 0.4,
+        },
+    }
+    url = ("https://generativelanguage.googleapis.com/v1beta/models/"
+           f"{GEMINI_MODEL}:generateContent")
+    try:
+        resp = requests.post(url, json=body, timeout=120,
+                             headers={"x-goog-api-key": GEMINI_API_KEY})
+        resp.raise_for_status()
+        text = resp.json()["candidates"][0]["content"]["parts"][0]["text"]
+        summary = json.loads(text)
+        summary["model"] = GEMINI_MODEL
+        return summary
+    except Exception as e:
+        print(f"  [경고] AI 요약 생성 실패: {e}")
+        return None
+
+
 def translate_titles(titles):
     """제목 목록을 한글로 번역. GEMINI_API_KEY가 있으면 Gemini를 우선 사용하고,
     실패하면 구글 번역 → MyMemory 순으로 전환한다. 모두 실패하면 원문을 그대로 둔다."""
@@ -545,6 +611,12 @@ def main():
 
         result["agencies"].append(entry)
         time.sleep(0.3)
+
+    if GEMINI_API_KEY:
+        print("[AI 요약] Gemini로 오늘의 주요 뉴스/전망 생성 중...")
+        summary = gemini_summary(result["agencies"])
+        if summary:
+            result["ai_summary"] = summary
 
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
