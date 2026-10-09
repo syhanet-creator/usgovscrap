@@ -45,7 +45,7 @@ GOOGLE_TRANSLATE_BROKEN = False
 
 # Gemini API 키는 코드에 적지 말고 환경변수로만 전달한다 (저장소에 올라가면 안 됨).
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.8-flash")
 LAST_GEMINI_ERROR = ""
 
 HEADERS = {
