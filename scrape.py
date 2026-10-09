@@ -47,6 +47,7 @@ GOOGLE_TRANSLATE_BROKEN = False
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.8-flash")
 LAST_GEMINI_ERROR = ""
+GEMINI_STATS = {"translate_ok": 0, "translate_fail": 0}
 
 HEADERS = {
     "User-Agent": (
@@ -469,11 +470,13 @@ def gemini_translate(titles):
         text = resp.json()["candidates"][0]["content"]["parts"][0]["text"]
         out = json.loads(text)
         if isinstance(out, list) and len(out) == len(titles):
+            GEMINI_STATS["translate_ok"] += 1
             return [str(x) for x in out]
         print("  [경고] Gemini 응답 개수가 입력과 달라 다른 번역기로 전환합니다.")
     except Exception as e:
         global LAST_GEMINI_ERROR
-        LAST_GEMINI_ERROR = f"translate: {e}"[:400]
+        LAST_GEMINI_ERROR = f"translate: {e}"[:1500]
+        GEMINI_STATS["translate_fail"] += 1
         print(f"  [경고] Gemini 번역 실패, 다른 번역기로 전환합니다: {e}")
     return None
 
@@ -539,7 +542,7 @@ def gemini_summary(agencies):
         return summary
     except Exception as e:
         global LAST_GEMINI_ERROR
-        LAST_GEMINI_ERROR = f"summary: {e}"[:400]
+        LAST_GEMINI_ERROR = f"summary: {e}"[:1500]
         print(f"  [경고] AI 요약 생성 실패: {e}")
         return None
 
@@ -643,6 +646,7 @@ def main():
     result["debug"] = {
         "gemini_key_present": bool(GEMINI_API_KEY),
         "gemini_model": GEMINI_MODEL,
+        "gemini_translate_batches": dict(GEMINI_STATS),
         "last_gemini_error": LAST_GEMINI_ERROR,
     }
 
