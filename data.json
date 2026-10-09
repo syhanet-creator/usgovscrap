@@ -1,0 +1,486 @@
+{
+  "generated_at": "2026-10-10 06:18:47",
+  "period_days": 7,
+  "translation_available": true,
+  "agencies": [
+    {
+      "key": "white_house",
+      "name_ko": "백악관",
+      "name_en": "The White House",
+      "color": "#1f3a5f",
+      "list_url": "https://www.whitehouse.gov/briefing-room/statements-releases/",
+      "items": [
+        {
+          "title_en": "Congressional Bills S. 195 Signed into Law",
+          "title_ko": "의회 법안 S. 195 법률에 서명",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-s-195-signed-into-law/",
+          "date": "2026-10-09"
+        },
+        {
+          "title_en": "Congressional Bills H.R. 5345 and S. 766 Signed into Law",
+          "title_ko": "의회 법안 H.R. 5345 및 S. 766 법률에 서명",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-h-r-5345-and-s-766-signed-into-law/",
+          "date": "2026-10-07"
+        },
+        {
+          "title_en": "Presidential Message on German American Day",
+          "title_ko": "독일계 미국인의 날에 보내는 대통령 메시지",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-german-american-day/",
+          "date": "2026-10-06"
+        },
+        {
+          "title_en": "Presidential Message on Child Health Day",
+          "title_ko": "어린이 보건의 날 대통령 메시지",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-child-health-day-c67c/",
+          "date": "2026-10-05"
+        },
+        {
+          "title_en": "Presidential Message on Fire Prevention Week",
+          "title_ko": "화재 예방 주간 대통령 메시지",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-fire-prevention-week/",
+          "date": "2026-10-05"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "key": "state",
+      "name_ko": "국무부",
+      "name_en": "Department of State",
+      "color": "#0b3d91",
+      "list_url": "https://www.state.gov/press-releases/",
+      "items": [
+        {
+          "title_en": "Reconciliation Talks Deliver Concrete Progress for Venezuela’s Democratic Transition",
+          "title_ko": "화해 회담, 베네수엘라의 민주적 전환을 위한 구체적인 진전 제공",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/reconciliation-talks-deliver-concrete-progress-for-venezuelas-democratic-transition/",
+          "date": "2026-10-09"
+        },
+        {
+          "title_en": "Secretary Rubio’s Meeting with Venezuela’s 2015 National Assembly President Dinorah Figuera",
+          "title_ko": "루비오 장관과 베네수엘라의 2015년 국회의장 디노라 피게라와의 만남",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-meeting-with-venezuelas-2015-national-assembly-president-dinorah-figuera/",
+          "date": "2026-10-09"
+        },
+        {
+          "title_en": "Secretary of State Marco Rubio and 2015 Venezuelan National Assembly President Dinorah Figuera Before Their Meeting",
+          "title_ko": "마르코 루비오 (Marco Rubio) 국무장관과 2015년 베네수엘라 국회의장 디노라 피게라 (Dinorah Figuera) 는 회의 전",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-and-2015-venezuelan-national-assembly-president-dinorah-figuera-before-their-meeting/",
+          "date": "2026-10-09"
+        },
+        {
+          "title_en": "Fiji National Day",
+          "title_ko": "피지 국경일",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/fiji-national-day-2/",
+          "date": "2026-10-09"
+        },
+        {
+          "title_en": "Imposing Sanctions on the International Criminal Court",
+          "title_ko": "국제형사재판소 제재",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court-2/",
+          "date": "2026-10-09"
+        },
+        {
+          "title_en": "Imposing Sanctions on the International Criminal Court",
+          "title_ko": "국제형사재판소 제재",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/",
+          "date": "2026-10-09"
+        },
+        {
+          "title_en": "Uganda National Day",
+          "title_ko": "우간다 국경일",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/uganda-national-day-2/",
+          "date": "2026-10-09"
+        },
+        {
+          "title_en": "Release of the 2026 Trafficking in Persons Report",
+          "title_ko": "2026년 인신매매 보고서 발표",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/release-of-the-2026-trafficking-in-persons-report/",
+          "date": "2026-10-08"
+        },
+        {
+          "title_en": "Operation Economic Outcast Sanctions on Iran’s Shadow Fleet Network",
+          "title_ko": "이란의 그림자 함대 네트워크에 대한 경제 추방 작전 제재",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/operation-economic-outcast-sanctions-on-irans-shadow-fleet-network/",
+          "date": "2026-10-08"
+        },
+        {
+          "title_en": "U.S. Intensifies Operation Economic Outcast Against Iran’s Shadow Fleet Network",
+          "title_ko": "미국, 이란의 그림자 함대 네트워크에 대항하는 경제 외곽 작전 강화",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/u-s-intensifies-operation-economic-outcast-against-irans-shadow-fleet-networks-fact-sheet/",
+          "date": "2026-10-08"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "key": "treasury",
+      "name_ko": "재무부",
+      "name_en": "Department of the Treasury",
+      "color": "#0a6847",
+      "list_url": "https://home.treasury.gov/news/press-releases",
+      "items": [
+        {
+          "title_en": "United States Department of the Treasury Announces New Appointment",
+          "title_ko": "미국 재무부, 새로운 임명 발표",
+          "url": "https://home.treasury.gov/news/press-releases/sb0654/",
+          "date": "2026-10-09"
+        },
+        {
+          "title_en": "Operation Economic Outcast Neutralizes Iranian Regime’s Remaining Shadow Fleet Network",
+          "title_ko": "경제 열세 작전은 이란 정권의 남은 그림자 함대 네트워크를 무력화시킵니다",
+          "url": "https://home.treasury.gov/news/press-releases/sb0653/",
+          "date": "2026-10-08"
+        },
+        {
+          "title_en": "Treasury Announces Enforcement Penalty for Violation of Outbound Program",
+          "title_ko": "재무부, 아웃바운드 프로그램 위반에 대한 처벌 발표",
+          "url": "https://home.treasury.gov/news/press-releases/sb0652/",
+          "date": "2026-10-07"
+        },
+        {
+          "title_en": "Treasury Reports Major Progress in Preventing Fraud and Improper Payments",
+          "title_ko": "재무부는 사기 및 부적절한 지급을 방지하기 위한 주요 진행 상황을 보고합니다.",
+          "url": "https://home.treasury.gov/news/press-releases/sb0651/",
+          "date": "2026-10-06"
+        },
+        {
+          "title_en": "Treasury Announces Third Round of Sanctions Removals, Updates in Modernization Initiative",
+          "title_ko": "재무부, 3차 제재 철폐 및 현대화 이니셔티브 업데이트 발표",
+          "url": "https://home.treasury.gov/news/press-releases/sb0650/",
+          "date": "2026-10-05"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "key": "war",
+      "name_ko": "국방부(전쟁부)",
+      "name_en": "Department of War",
+      "color": "#3c4a3e",
+      "list_url": "https://www.war.gov/News/Releases/",
+      "items": [
+        {
+          "title_en": "Legendary Fighter Takes Final Flight: Air Force Reserve Delivers F-117A to Smithsonian",
+          "title_ko": "전설적인 전투기가 마지막 비행을 합니다: 공군 예비군이 스미소니언에게 F-117A를 전달합니다",
+          "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4623431/legendary-fighter-takes-final-flight-air-force-reserve-delivers-f-117a-to-smith/",
+          "date": "2026-10-09"
+        },
+        {
+          "title_en": "Signers of the Declaration of Independence: New Jersey, Part 1",
+          "title_ko": "독립선언서 서명인: 뉴저지, 1부",
+          "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4568583/signers-of-the-declaration-of-independence-new-jersey-part-1/",
+          "date": "2026-10-09"
+        },
+        {
+          "title_en": "Air Force Captain Finds Resilience Through Endurance Running",
+          "title_ko": "공군 함장, 지구력 달리기를 통해 회복력 찾기",
+          "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4619080/air-force-captain-finds-resilience-through-endurance-running/",
+          "date": "2026-10-05"
+        },
+        {
+          "title_en": "Medal of Honor Monday: Army Sgt. Alvin York",
+          "title_ko": "명예 훈장 월요일: 육군 상사 앨빈 요크",
+          "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4574729/medal-of-honor-monday-army-sgt-alvin-york/",
+          "date": "2026-10-05"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "key": "justice",
+      "name_ko": "법무부",
+      "name_en": "Department of Justice",
+      "color": "#4b2e83",
+      "list_url": "https://www.justice.gov/news",
+      "items": [
+        {
+          "title_en": "Department of Justice Announces Updates to Emergency Scheduling Actions for 7-OH and Related Opioid Substances",
+          "title_ko": "법무부, 7-OH 및 관련 오피오이드 물질에 대한 긴급 예약 조치 업데이트 발표",
+          "url": "https://www.justice.gov/opa/pr/department-justice-announces-updates-emergency-scheduling-actions-7-oh-and-related-opioid",
+          "date": "2026-10-09"
+        },
+        {
+          "title_en": "Medical Supply Company Owner Sentenced to 14 Years in Prison for $30M Medicare, TRICARE, and CHAMPVA Fraud",
+          "title_ko": "의료 공급 회사 소유자는 $ 30M 메디케어, TRICARE 및 CHAMPVA 사기 혐의로 14년 징역형을 선고받았습니다",
+          "url": "https://www.justice.gov/opa/pr/medical-supply-company-owner-sentenced-14-years-prison-30m-medicare-tricare-and-champva",
+          "date": "2026-10-09"
+        },
+        {
+          "title_en": "Leader of Global Violent Extremist Network ‘764’ Pleads Guilty to Conspiracy to Sexually Exploit Minors",
+          "title_ko": "글로벌 폭력 극단주의 네트워크 ‘764‘ 의 리더는 미성년자를 성적으로 착취하는 음모에 유죄를 인정합니다",
+          "url": "https://www.justice.gov/opa/pr/leader-global-violent-extremist-network-764-pleads-guilty-conspiracy-sexually-exploit-minors",
+          "date": "2026-10-09"
+        },
+        {
+          "title_en": "Illinois Woman Sentenced to 31 Months in Prison for Distributing and Conspiring to Create and Distribute Sexual Torture and Mutilation Videos of Baby Monkeys",
+          "title_ko": "일리노이주 여성, 아기 원숭이 고문 및 성희롱 동영상 제작 및 배포 공모 혐의로 징역 31개월 선고",
+          "url": "https://www.justice.gov/opa/pr/illinois-woman-sentenced-31-months-prison-distributing-and-conspiring-create-and-distribute",
+          "date": "2026-10-09"
+        },
+        {
+          "title_en": "Assistant Attorney General Colin M. McDonald Issues Memorandum on the National Fraud Enforcement Division’s Comprehensive Approach in the Fight Against Fraud",
+          "title_ko": "Colin M. McDonald 법무부 차관보가 사기와의 싸움에서 국가 사기 집행 부서의 포괄적 인 접근 방식에 대한 각서를 발행합니다.",
+          "url": "https://www.justice.gov/opa/pr/assistant-attorney-general-colin-m-mcdonald-issues-memorandum-national-fraud-enforcement-1",
+          "date": "2026-10-08"
+        },
+        {
+          "title_en": "New Update to the Department of Justice Guide to the Freedom of Information Act",
+          "title_ko": "정보자유법 (Freedom of Information Act) 에 대한 법무부 가이드의 새로운 업데이트",
+          "url": "https://www.justice.gov/oip/blog/new-update-department-justice-guide-freedom-information-act",
+          "date": "2026-10-08"
+        },
+        {
+          "title_en": "OIP Announces New FOIA Training Dates for Fiscal Year 2027",
+          "title_ko": "OIP, 2027 회계 연도의 새로운 FOIA 교육 날짜 발표",
+          "url": "https://www.justice.gov/oip/blog/oip-announces-new-foia-training-dates-fiscal-year-2027",
+          "date": "2026-10-08"
+        },
+        {
+          "title_en": "Attorney General Blanche Hosts Roundtable on Violent Crime Reduction Efforts",
+          "title_ko": "블랜치 법무장관, 폭력 범죄 감소 노력에 대한 라운드테이블 개최",
+          "url": "https://www.justice.gov/opa/video/attorney-general-blanche-hosts-roundtable-violent-crime-reduction-efforts",
+          "date": "2026-10-08"
+        },
+        {
+          "title_en": "Ukrainian-Russian Dual Citizen Pleads Guilty to Running International Money Laundering Organization for Cybercriminals",
+          "title_ko": "우크라이나-러시아 이중 시민, 사이버 범죄자를 위한 국제 자금 세탁 기구 운영에 유죄 인정",
+          "url": "https://www.justice.gov/opa/pr/ukrainian-russian-dual-citizen-pleads-guilty-running-international-money-laundering",
+          "date": "2026-10-08"
+        },
+        {
+          "title_en": "Nicolás Maduro Moros and Cilia Adela Flores de Maduro Charged with Torture",
+          "title_ko": "니콜라스 마두로 모로스 (Nicolás Maduro Moros) 와 실리아 아델라 플로레스 데 마두로 (Cilia Adela Flores de Maduro) 고",
+          "url": "https://www.justice.gov/opa/pr/nicolas-maduro-moros-and-cilia-adela-flores-de-maduro-charged-torture",
+          "date": "2026-10-08"
+        },
+        {
+          "title_en": "Justice Department Files Complaint Against the City and County of Denver, Colorado Challenging Mask Ban and Identification Requirements for Federal Officers",
+          "title_ko": "법무부, 콜로라도주 덴버 시 및 카운티에 마스크 착용 금지 및 연방 공무원 신원 확인 요건에 대한 불만 제기",
+          "url": "https://www.justice.gov/opa/pr/justice-department-files-complaint-against-city-and-county-denver-colorado-challenging-mask",
+          "date": "2026-10-08"
+        },
+        {
+          "title_en": "Minnesota Woman Convicted in $3.6M Scheme to Defraud  Medicaid Housing Services Program",
+          "title_ko": "미네소타 여성, 메디케이드 주택 서비스 프로그램 사기 혐의로 $ 3.6M 제도로 유죄 판결",
+          "url": "https://www.justice.gov/opa/pr/minnesota-woman-convicted-36m-scheme-defraud-medicaid-housing-services-program",
+          "date": "2026-10-08"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "key": "interior",
+      "name_ko": "내무부",
+      "name_en": "Department of the Interior",
+      "color": "#6b4423",
+      "list_url": "https://www.doi.gov/news",
+      "items": [],
+      "note": "최근 7일간 새 보도자료를 찾지 못했거나 사이트 구조 변경으로 수집에 실패했습니다."
+    },
+    {
+      "key": "agriculture",
+      "name_ko": "농무부",
+      "name_en": "Department of Agriculture",
+      "color": "#2e7d32",
+      "list_url": "https://www.usda.gov/about-usda/news/press-releases",
+      "items": [],
+      "note": "최근 7일간 새 보도자료를 찾지 못했거나 사이트 구조 변경으로 수집에 실패했습니다."
+    },
+    {
+      "key": "commerce",
+      "name_ko": "상무부",
+      "name_en": "Department of Commerce",
+      "color": "#00537a",
+      "list_url": "https://www.commerce.gov/news",
+      "items": [],
+      "note": "최근 7일간 새 보도자료를 찾지 못했거나 사이트 구조 변경으로 수집에 실패했습니다."
+    },
+    {
+      "key": "labor",
+      "name_ko": "노동부",
+      "name_en": "Department of Labor",
+      "color": "#8a5a00",
+      "list_url": "https://www.dol.gov/newsroom/releases",
+      "items": [],
+      "note": "최근 7일간 새 보도자료를 찾지 못했거나 사이트 구조 변경으로 수집에 실패했습니다."
+    },
+    {
+      "key": "hhs",
+      "name_ko": "보건복지부",
+      "name_en": "Dept. of Health and Human Services",
+      "color": "#0f6e84",
+      "list_url": "https://www.hhs.gov/press-room/index.html",
+      "items": [],
+      "note": "최근 7일간 새 보도자료를 찾지 못했거나 사이트 구조 변경으로 수집에 실패했습니다."
+    },
+    {
+      "key": "hud",
+      "name_ko": "주택도시개발부",
+      "name_en": "Dept. of Housing and Urban Development",
+      "color": "#7a1f3d",
+      "list_url": "https://www.hud.gov/press",
+      "items": [],
+      "note": "최근 7일간 새 보도자료를 찾지 못했거나 사이트 구조 변경으로 수집에 실패했습니다."
+    },
+    {
+      "key": "transportation",
+      "name_ko": "교통부",
+      "name_en": "Department of Transportation",
+      "color": "#154360",
+      "list_url": "https://www.transportation.gov/briefing-room",
+      "items": [],
+      "note": "최근 7일간 새 보도자료를 찾지 못했거나 사이트 구조 변경으로 수집에 실패했습니다."
+    },
+    {
+      "key": "energy",
+      "name_ko": "에너지부",
+      "name_en": "Department of Energy",
+      "color": "#b8860b",
+      "list_url": "https://www.energy.gov/news",
+      "items": [
+        {
+          "title_en": "Energy Department Announces New Genesis Mission Awards to Advance Super Intelligence for Science",
+          "title_ko": "에너지부, 과학을 위한 슈퍼 인텔리전스 발전을 위한 새로운 제네시스 미션 어워드 발표",
+          "url": "https://www.energy.gov/articles/energy-department-announces-new-genesis-mission-awards-advance-super-intelligence-science",
+          "date": "2026-10-08"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "key": "education",
+      "name_ko": "교육부",
+      "name_en": "Department of Education",
+      "color": "#5a2d82",
+      "list_url": "https://www.ed.gov/about/news",
+      "items": [],
+      "note": "최근 7일간 새 보도자료를 찾지 못했거나 사이트 구조 변경으로 수집에 실패했습니다."
+    },
+    {
+      "key": "dhs",
+      "name_ko": "국토안보부",
+      "name_en": "Dept. of Homeland Security",
+      "color": "#00274d",
+      "list_url": "https://www.dhs.gov/news-releases",
+      "items": [
+        {
+          "title_en": "DHS Highlights Worst Illegal Aliens Arrested in Syracuse, New York",
+          "title_ko": "미국 국토안보부 (DHS), 뉴욕주 시러큐스에서 체포된 최악의 불법 체류 외국인",
+          "url": "https://www.dhs.gov/news/2026/10/09/dhs-highlights-worst-illegal-aliens-arrested-syracuse-new-york",
+          "date": "2026-10-09"
+        },
+        {
+          "title_en": "MAKE AMERICA SAFE AGAIN: DHS Deports Illegal Alien Gangsters, Including Attempted Murderers, Violent Assailants, Robbers, and Drunk Drivers",
+          "title_ko": "미국을 다시 안전하게 만들기: 미국 국토안보부는 살인미수자, 폭력 가해자, 강도, 음주 운전자를 포함한 불법 체류 외국인 갱스터를 감금합니다.",
+          "url": "https://www.dhs.gov/news/2026/10/09/make-america-safe-again-dhs-deports-illegal-alien-gangsters-including-attempted",
+          "date": "2026-10-09"
+        },
+        {
+          "title_en": "DHS Debunks New York Sanctuary Politicians’ Lies About ICE Shooting of Illegal Alien Gang Member, Condemns Sanctuary New York for Refusing to Honor Nearly 15,000 ICE Detainers",
+          "title_ko": "미국 국토안보부 (DHS) 는 ICE에 대한 뉴욕 보호구역 정치인들의 거짓말을 폭로했다. 불법 체류 외국인 갱단원 총격 사건, 거의 15,000명의 ICE 억류자를 기리는 것을 거부한 뉴욕 보호구역 규탄",
+          "url": "https://www.dhs.gov/news/2026/10/09/dhs-debunks-new-york-sanctuary-politicians-lies-about-ice-shooting-illegal-alien",
+          "date": "2026-10-09"
+        },
+        {
+          "title_en": "WORST OF THE WORST: ICE Arrests Murderers, Pedophiles, and Rapists",
+          "title_ko": "최악의 상황: ICE, 살인자, 소아성애자, 강간범 체포",
+          "url": "https://www.dhs.gov/news/2026/10/09/worst-worst-ice-arrests-murderers-pedophiles-and-rapists",
+          "date": "2026-10-09"
+        },
+        {
+          "title_en": "MAKE AMERICA SAFE AGAIN: ICE Deports Illegal Alien Gang Members, Murderers, Pedophiles, Violent Assailants, Burglars, and Drunk Drivers",
+          "title_ko": "미국을 다시 안전하게 만들기: ICE, 불법 외국인 갱단 구성원, 살인자, 소아 성애자, 폭력 가해자, 도둑 및 음주 운전자 유출",
+          "url": "https://www.dhs.gov/news/2026/10/08/make-america-safe-again-ice-deports-illegal-alien-gang-members-murderers-pedophiles",
+          "date": "2026-10-08"
+        },
+        {
+          "title_en": "WORST OF THE WORST: ICE Arrests Murderers, Sexual Predators, and Kidnappers",
+          "title_ko": "최악의 상황: ICE, 살인자, 성적 약탈자, 납치범 체포",
+          "url": "https://www.dhs.gov/news/2026/10/08/worst-worst-ice-arrests-murderers-sexual-predators-and-kidnappers",
+          "date": "2026-10-08"
+        },
+        {
+          "title_en": "HSTF Investigation Leads to Sentencing of Illegal Alien Drug Trafficker to 20 Years in Prison",
+          "title_ko": "HSTF 조사, 불법 외국인 마약 밀매자 징역 20년 선고",
+          "url": "https://www.dhs.gov/news/2026/10/08/hstf-investigation-leads-sentencing-illegal-alien-drug-trafficker-20-years-prison",
+          "date": "2026-10-08"
+        },
+        {
+          "title_en": "DHS Issues Statement After ICE Arrests Illegal Alien from Nigeria Who Exposed Himself in Public While Working for Congressional Campaign in Pennsylvania",
+          "title_ko": "ICE, 펜실베이니아에서 의회 캠페인을 위해 일하는 동안 공개적으로 자신을 드러낸 나이지리아의 불법 체류자를 체포 한 후 DHS 문제 진술",
+          "url": "https://www.dhs.gov/news/2026/10/07/dhs-issues-statement-after-ice-arrests-illegal-alien-nigeria-who-exposed-himself",
+          "date": "2026-10-07"
+        },
+        {
+          "title_en": "WORST OF THE WORST: ICE Arrests Pedophiles, Animal Abusers, and Drug Traffickers",
+          "title_ko": "최악의 상황: 소아 성애자, 동물 학대자 및 마약 밀매자를 체포하는 ICE",
+          "url": "https://www.dhs.gov/news/2026/10/07/worst-worst-ice-arrests-pedophiles-animal-abusers-and-drug-traffickers",
+          "date": "2026-10-07"
+        },
+        {
+          "title_en": "DHS Highlights Worst Illegal Aliens Arrested or Convicted in San Antonio, Texas",
+          "title_ko": "텍사스주 샌안토니오에서 체포되거나 유죄 판결을 받은 최악의 불법 체류 외국인",
+          "url": "https://www.dhs.gov/news/2026/10/07/dhs-highlights-worst-illegal-aliens-arrested-or-convicted-san-antonio-texas",
+          "date": "2026-10-07"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "key": "va",
+      "name_ko": "보훈부",
+      "name_en": "Dept. of Veterans Affairs",
+      "color": "#003462",
+      "list_url": "https://news.va.gov/",
+      "items": [
+        {
+          "title_en": "Tijeras Senior Center Veteran Outreach Event",
+          "title_ko": "티제라스 시니어 센터 재향 군인 봉사 활동 이벤트",
+          "url": "https://discover.va.gov/events/tijeras-senior-center-veteran-outreach-event-4/",
+          "date": "2026-10-09"
+        },
+        {
+          "title_en": "Veterans Resource Fair – Leyden Township",
+          "title_ko": "재향 군인 자원 박람회 – 레이든 타운십",
+          "url": "https://discover.va.gov/events/veterans-resource-fair-leyden-township/",
+          "date": "2026-10-09"
+        },
+        {
+          "title_en": "Homeless Veterans Standdown",
+          "title_ko": "노숙자 퇴역 군인 스탠드다운",
+          "url": "https://discover.va.gov/events/homeless-veterans-standdown/",
+          "date": "2026-10-09"
+        },
+        {
+          "title_en": "Bedford VA Healthcare System Choose VA Tele-Town Hall",
+          "title_ko": "베드포드 버지니아 헬스케어 시스템 버지니아 텔레타운 홀 선택",
+          "url": "https://discover.va.gov/events/bedford-va-healthcare-system-choose-va-tele-town-hall/",
+          "date": "2026-10-09"
+        },
+        {
+          "title_en": "Delta Veteran Health Care and Benefits Expo",
+          "title_ko": "델타 베테랑 의료 및 복지 엑스포",
+          "url": "https://discover.va.gov/events/delta-veteran-health-care-and-benefits-expo/",
+          "date": "2026-10-09"
+        },
+        {
+          "title_en": "Veterans Date night in South Haven",
+          "title_ko": "사우스헤이븐에서 즐기는 베테랑 데이트",
+          "url": "https://discover.va.gov/events/veterans-date-night-in-south-haven/",
+          "date": "2026-10-09"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "key": "epa",
+      "name_ko": "환경보호청",
+      "name_en": "Environmental Protection Agency",
+      "color": "#00693e",
+      "list_url": "https://www.epa.gov/newsreleases",
+      "items": [],
+      "note": "자동 접속 차단(봇 감지)으로 목록 페이지 링크만 제공합니다."
+    }
+  ]
+}

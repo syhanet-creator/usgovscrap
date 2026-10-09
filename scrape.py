@@ -17,6 +17,7 @@
 """
 
 import json
+import os
 import re
 import sys
 import time
@@ -41,6 +42,10 @@ except ImportError:
 # 세션 중 구글 번역이 한 번이라도 막히면(요청 과다 등) 이후로는 바로
 # MyMemory로 전환해 매 기관마다 실패-재시도로 시간을 낭비하지 않는다.
 GOOGLE_TRANSLATE_BROKEN = False
+
+# Gemini API 키는 코드에 적지 말고 환경변수로만 전달한다 (저장소에 올라가면 안 됨).
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
 
 HEADERS = {
     "User-Agent": (
@@ -416,11 +421,51 @@ def filter_recent(items, days=PERIOD_DAYS, max_items=MAX_ITEMS_PER_AGENCY):
     return recent[:max_items]
 
 
+def gemini_translate(titles):
+    """Gemini API로 제목 목록을 한 번에 한글 번역. 실패하면 None."""
+    url = ("https://generativelanguage.googleapis.com/v1beta/models/"
+           f"{GEMINI_MODEL}:generateContent")
+    prompt = (
+        "다음은 미국 연방정부 기관 보도자료의 영어 제목 목록(JSON 배열)이다. "
+        "각 제목을 자연스러운 한국어 보도자료 제목으로 번역하라. "
+        "기관·인명·법안 번호 등 고유명사는 널리 쓰이는 한국어 표기가 있으면 그것을, "
+        "없으면 원문을 병기하지 말고 음역하라. "
+        "입력과 같은 길이·같은 순서의 JSON 문자열 배열만 출력하라.\n\n"
+        + json.dumps(titles, ensure_ascii=False)
+    )
+    body = {
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {
+            "responseMimeType": "application/json",
+            "responseSchema": {"type": "ARRAY", "items": {"type": "STRING"}},
+            "temperature": 0.2,
+        },
+    }
+    try:
+        resp = requests.post(url, json=body, timeout=60,
+                             headers={"x-goog-api-key": GEMINI_API_KEY})
+        resp.raise_for_status()
+        text = resp.json()["candidates"][0]["content"]["parts"][0]["text"]
+        out = json.loads(text)
+        if isinstance(out, list) and len(out) == len(titles):
+            return [str(x) for x in out]
+        print("  [경고] Gemini 응답 개수가 입력과 달라 다른 번역기로 전환합니다.")
+    except Exception as e:
+        print(f"  [경고] Gemini 번역 실패, 다른 번역기로 전환합니다: {e}")
+    return None
+
+
 def translate_titles(titles):
-    """제목 목록을 한글로 번역. 구글 번역이 막혀 있으면(요청 과다 등)
-    MyMemory 번역으로 자동 전환한다. 둘 다 실패하면 원문을 그대로 둔다."""
+    """제목 목록을 한글로 번역. GEMINI_API_KEY가 있으면 Gemini를 우선 사용하고,
+    실패하면 구글 번역 → MyMemory 순으로 전환한다. 모두 실패하면 원문을 그대로 둔다."""
     global GOOGLE_TRANSLATE_BROKEN
-    if not TRANSLATOR_AVAILABLE or not titles:
+    if not titles:
+        return []
+    if GEMINI_API_KEY:
+        translated = gemini_translate(titles)
+        if translated:
+            return translated
+    if not TRANSLATOR_AVAILABLE:
         return list(titles)
 
     if not GOOGLE_TRANSLATE_BROKEN:
@@ -455,7 +500,7 @@ def main():
     result = {
         "generated_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         "period_days": PERIOD_DAYS,
-        "translation_available": TRANSLATOR_AVAILABLE,
+        "translation_available": TRANSLATOR_AVAILABLE or bool(GEMINI_API_KEY),
         "agencies": [],
     }
 
