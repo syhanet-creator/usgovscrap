@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09 22:58:55",
+  "generated_at": "2026-10-11 21:08:36",
   "period_days": 7,
   "translation_available": true,
   "agencies": [
@@ -10,6 +10,12 @@
       "color": "#1f3a5f",
       "list_url": "https://www.whitehouse.gov/briefing-room/statements-releases/",
       "items": [
+        {
+          "title_en": "Presidential Message on Leif Erikson Day",
+          "title_ko": "레이프 에릭슨 데이 대통령 메시지",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-leif-erikson-day/",
+          "date": "2026-10-09"
+        },
         {
           "title_en": "Congressional Bills S. 195 Signed into Law",
           "title_ko": "의회 법안 S. 195 법률에 서명",
@@ -39,30 +45,6 @@
           "title_ko": "화재 예방 주간 대통령 메시지",
           "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-fire-prevention-week/",
           "date": "2026-10-05"
-        },
-        {
-          "title_en": "Presidential Message on Down Syndrome Awareness Month",
-          "title_ko": "다운증후군 인식의 달 대통령 메시지",
-          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-down-syndrome-awareness-month-6778/",
-          "date": "2026-10-02"
-        },
-        {
-          "title_en": "Presidential Message on National Cybersecurity Awareness Month",
-          "title_ko": "국가 사이버 보안 인식의 달에 대한 대통령 메시지",
-          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-cybersecurity-awareness-month/",
-          "date": "2026-10-02"
-        },
-        {
-          "title_en": "Presidential Message on National Domestic Violence Awareness Month",
-          "title_ko": "가정 폭력 인식의 달 대통령 메시지",
-          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-domestic-violence-awareness-month/",
-          "date": "2026-10-02"
-        },
-        {
-          "title_en": "Presidential Message on National Breast Cancer Awareness Month",
-          "title_ko": "전국 유방암 인식의 달 대통령 메시지",
-          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-breast-cancer-awareness-month-a680/",
-          "date": "2026-10-02"
         }
       ],
       "note": ""
@@ -74,6 +56,24 @@
       "color": "#0b3d91",
       "list_url": "https://www.state.gov/press-releases/",
       "items": [
+        {
+          "title_en": "The United States Mobilizes Immediate Response to the Panama Earthquakes",
+          "title_ko": "미국, 파나마 지진에 즉각 대응",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/the-united-states-mobilizes-immediate-response-to-the-panama-earthquakes/",
+          "date": "2026-10-10"
+        },
+        {
+          "title_en": "Secretary Rubio’s Call with Japanese Foreign Minister Motegi",
+          "title_ko": "모테기 일본 외무장관과 루비오 장관의 통화",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-japanese-foreign-minister-motegi/",
+          "date": "2026-10-10"
+        },
+        {
+          "title_en": "Earthquake in Panama",
+          "title_ko": "파나마 지진",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/earthquake-in-panama/",
+          "date": "2026-10-09"
+        },
         {
           "title_en": "Reconciliation Talks Deliver Concrete Progress for Venezuela’s Democratic Transition",
           "title_ko": "화해 회담, 베네수엘라의 민주적 전환을 위한 구체적인 진전 제공",
@@ -115,24 +115,6 @@
           "title_ko": "우간다 국경일",
           "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/uganda-national-day-2/",
           "date": "2026-10-09"
-        },
-        {
-          "title_en": "Release of the 2026 Trafficking in Persons Report",
-          "title_ko": "2026년 인신매매 보고서 발표",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/release-of-the-2026-trafficking-in-persons-report/",
-          "date": "2026-10-08"
-        },
-        {
-          "title_en": "Operation Economic Outcast Sanctions on Iran’s Shadow Fleet Network",
-          "title_ko": "이란의 그림자 함대 네트워크에 대한 경제 추방 작전 제재",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/operation-economic-outcast-sanctions-on-irans-shadow-fleet-network/",
-          "date": "2026-10-08"
-        },
-        {
-          "title_en": "U.S. Intensifies Operation Economic Outcast Against Iran’s Shadow Fleet Network",
-          "title_ko": "미국, 이란의 그림자 함대 네트워크에 대항하는 경제 외곽 작전 강화",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/u-s-intensifies-operation-economic-outcast-against-irans-shadow-fleet-networks-fact-sheet/",
-          "date": "2026-10-08"
         }
       ],
       "note": ""
@@ -173,24 +155,6 @@
           "title_ko": "재무부, 3차 제재 철폐 및 현대화 이니셔티브 업데이트 발표",
           "url": "https://home.treasury.gov/news/press-releases/sb0650/",
           "date": "2026-10-05"
-        },
-        {
-          "title_en": "URIF Approves Additional Investments and Partnerships in Energy and Critical Minerals",
-          "title_ko": "URIF, 에너지 및 중요 광물에 대한 추가 투자 및 파트너십 승인",
-          "url": "https://home.treasury.gov/news/press-releases/sb0648/",
-          "date": "2026-10-02"
-        },
-        {
-          "title_en": "Treasury Dismantles Major Hamas Financing Network",
-          "title_ko": "재무부, 주요 하마스 자금 조달 네트워크 해체",
-          "url": "https://home.treasury.gov/news/press-releases/sb0647/",
-          "date": "2026-10-02"
-        },
-        {
-          "title_en": "The Financial Literacy and Education Commission Releases the 2026 Update to the U.S. National Strategy for Financial Literacy",
-          "title_ko": "금융 리터러시 및 교육 위원회 (Financial Literacy and Education Commission) 가 미국 금융 리터러시 국가 전략에 대한 2026년 업데이트를 발표했습니다.",
-          "url": "https://home.treasury.gov/news/press-releases/sb0646/",
-          "date": "2026-10-02"
         }
       ],
       "note": ""
@@ -225,12 +189,6 @@
           "title_ko": "명예 훈장 월요일: 육군 상사 앨빈 요크",
           "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4574729/medal-of-honor-monday-army-sgt-alvin-york/",
           "date": "2026-10-05"
-        },
-        {
-          "title_en": "Signers of the Declaration of Independence: Connecticut, Part 2",
-          "title_ko": "독립선언서 서명인: 코네티컷, 2부",
-          "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4567953/signers-of-the-declaration-of-independence-connecticut-part-2/",
-          "date": "2026-10-02"
         }
       ],
       "note": ""
@@ -323,15 +281,8 @@
       "name_en": "Department of the Interior",
       "color": "#6b4423",
       "list_url": "https://www.doi.gov/news",
-      "items": [
-        {
-          "title_en": "Department of the Interior Designated Whittier, Alaska an American World War II Heritage City",
-          "title_ko": "미국 제2차 세계대전 헤리티지 도시인 알래스카 휘티어 내무부 지정",
-          "url": "https://www.doi.gov/pressreleases/department-interior-designated-whittier-alaska-american-world-war-ii-heritage-city",
-          "date": "2026-10-02"
-        }
-      ],
-      "note": ""
+      "items": [],
+      "note": "최근 7일간 새 보도자료를 찾지 못했거나 사이트 구조 변경으로 수집에 실패했습니다."
     },
     {
       "key": "agriculture",
@@ -395,9 +346,9 @@
       "list_url": "https://www.energy.gov/news",
       "items": [
         {
-          "title_en": "Energy Department Announces New Genesis Mission Awards to Advance Super Intelligence for Science",
-          "title_ko": "에너지부, 과학을 위한 슈퍼 인텔리전스 발전을 위한 새로운 제네시스 미션 어워드 발표",
-          "url": "https://www.energy.gov/articles/energy-department-announces-new-genesis-mission-awards-advance-super-intelligence-science",
+          "title_en": "U.S. Department of Energy Awards $96 Million to 67 Early Career Scientists",
+          "title_ko": "미국 에너지부, 조기 취업 과학자 67명에게 $ 96 Million 상 수여",
+          "url": "https://www.energy.gov/articles/us-department-energy-awards-96-million-67-early-career-scientists",
           "date": "2026-10-08"
         }
       ],
@@ -490,40 +441,40 @@
       "list_url": "https://news.va.gov/",
       "items": [
         {
-          "title_en": "Tijeras Senior Center Veteran Outreach Event",
-          "title_ko": "티제라스 시니어 센터 재향 군인 봉사 활동 이벤트",
-          "url": "https://discover.va.gov/events/tijeras-senior-center-veteran-outreach-event-4/",
-          "date": "2026-10-09"
+          "title_en": "Highland Senior Center Veterans Outreach",
+          "title_ko": "하이랜드 시니어 센터 재향 군인 봉사 활동",
+          "url": "https://discover.va.gov/events/highland-senior-center-veterans-outreach-3/",
+          "date": "2026-10-13"
         },
         {
-          "title_en": "Veterans Resource Fair – Leyden Township",
-          "title_ko": "재향 군인 자원 박람회 – 레이든 타운십",
-          "url": "https://discover.va.gov/events/veterans-resource-fair-leyden-township/",
-          "date": "2026-10-09"
+          "title_en": "Veteran Resource Fair –  Addison Township",
+          "title_ko": "베테랑 자원 박람회 – 애디슨 타운십",
+          "url": "https://discover.va.gov/events/veteran-resource-fair-addison-township/",
+          "date": "2026-10-13"
         },
         {
-          "title_en": "Homeless Veterans Standdown",
-          "title_ko": "노숙자 퇴역 군인 스탠드다운",
-          "url": "https://discover.va.gov/events/homeless-veterans-standdown/",
-          "date": "2026-10-09"
+          "title_en": "Mission Belonging: Writing in the Arena Orientation",
+          "title_ko": "소속감: 아레나 오리엔테이션에서 글쓰기",
+          "url": "https://discover.va.gov/events/mission-belonging-writing-in-the-arena-orientation/",
+          "date": "2026-10-12"
         },
         {
-          "title_en": "Bedford VA Healthcare System Choose VA Tele-Town Hall",
-          "title_ko": "베드포드 버지니아 헬스케어 시스템 버지니아 텔레타운 홀 선택",
-          "url": "https://discover.va.gov/events/bedford-va-healthcare-system-choose-va-tele-town-hall/",
-          "date": "2026-10-09"
+          "title_en": "Fall Vet Fest",
+          "title_ko": "가을 수의사 축제",
+          "url": "https://discover.va.gov/events/fall-vet-fest-2/",
+          "date": "2026-10-11"
         },
         {
-          "title_en": "Delta Veteran Health Care and Benefits Expo",
-          "title_ko": "델타 베테랑 의료 및 복지 엑스포",
-          "url": "https://discover.va.gov/events/delta-veteran-health-care-and-benefits-expo/",
-          "date": "2026-10-09"
+          "title_en": "Oklahoma City VA Health Care System attending the DAV #29 Car Show",
+          "title_ko": "DAV # 29 자동차 쇼에 참석하는 오클라호마 시티 VA 건강 관리 시스템",
+          "url": "https://discover.va.gov/events/oklahoma-city-va-health-care-system-attending-the-dav-29-car-show/",
+          "date": "2026-10-11"
         },
         {
-          "title_en": "Veterans Date night in South Haven",
-          "title_ko": "사우스헤이븐에서 즐기는 베테랑 데이트",
-          "url": "https://discover.va.gov/events/veterans-date-night-in-south-haven/",
-          "date": "2026-10-09"
+          "title_en": "Radio on the River 2026",
+          "title_ko": "2026년 강 위의 라디오",
+          "url": "https://discover.va.gov/events/radio-on-the-river-2026/",
+          "date": "2026-10-11"
         }
       ],
       "note": ""
@@ -543,7 +494,7 @@
     "gemini_model": "gemini-3.8-flash",
     "gemini_translate_batches": {
       "translate_ok": 0,
-      "translate_fail": 9
+      "translate_fail": 8
     },
     "last_gemini_error": "summary: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota ex"
   }
