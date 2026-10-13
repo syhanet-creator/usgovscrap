@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12 21:09:37",
+  "generated_at": "2026-10-13 21:19:01",
   "period_days": 7,
   "translation_available": true,
   "agencies": [
@@ -11,40 +11,40 @@
       "list_url": "https://www.whitehouse.gov/briefing-room/statements-releases/",
       "items": [
         {
+          "title_en": "First Lady Melania Trump Launches 2027 Presidential SI Challenge and Establishes First Lady Seal of SI Readiness",
+          "title_ko": "영부인 멜라니아 트럼프, 2027년 대통령 SI 챌린지 시작 및 SI 준비상황의 영부인 인장 제정",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-launches-2027-presidential-si-challenge-and-establishes-first-lady-seal-of-si-readiness/",
+          "date": "2026-10-13"
+        },
+        {
+          "title_en": "Presidential Message on General Pulaski Memorial Day",
+          "title_ko": "풀라스키 장군 기념일에 대한 대통령 메시지",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-general-pulaski-memorial-day/",
+          "date": "2026-10-11"
+        },
+        {
           "title_en": "Presidential Message on Leif Erikson Day",
-          "title_ko": "레이프 에릭손의 날 대통령 메시지",
+          "title_ko": "레이프 에릭슨 데이 대통령 메시지",
           "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-leif-erikson-day/",
           "date": "2026-10-09"
         },
         {
           "title_en": "Congressional Bills S. 195 Signed into Law",
-          "title_ko": "연방의회 법안 S. 195 법률 공포 서명",
+          "title_ko": "의회 법안 S. 195 법률에 서명",
           "url": "https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-s-195-signed-into-law/",
           "date": "2026-10-09"
         },
         {
           "title_en": "Congressional Bills H.R. 5345 and S. 766 Signed into Law",
-          "title_ko": "연방의회 법안 H.R. 5345 및 S. 766 법률 공포 서명",
+          "title_ko": "의회 법안 H.R. 5345 및 S. 766 법률에 서명",
           "url": "https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-h-r-5345-and-s-766-signed-into-law/",
           "date": "2026-10-07"
         },
         {
           "title_en": "Presidential Message on German American Day",
-          "title_ko": "독일계 미국인의 날 대통령 메시지",
+          "title_ko": "독일계 미국인의 날에 보내는 대통령 메시지",
           "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-german-american-day/",
           "date": "2026-10-06"
-        },
-        {
-          "title_en": "Presidential Message on Child Health Day",
-          "title_ko": "어린이 건강의 날 대통령 메시지",
-          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-child-health-day-c67c/",
-          "date": "2026-10-05"
-        },
-        {
-          "title_en": "Presidential Message on Fire Prevention Week",
-          "title_ko": "화재 예방 주간 대통령 메시지",
-          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-fire-prevention-week/",
-          "date": "2026-10-05"
         }
       ],
       "note": ""
@@ -57,26 +57,44 @@
       "list_url": "https://www.state.gov/press-releases/",
       "items": [
         {
+          "title_en": "Disrupting Cartel del Noreste’s Financial Network",
+          "title_ko": "카르텔 델 노레스테의 금융 네트워크 교란",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/disrupting-cartel-del-norestes-financial-network/",
+          "date": "2026-10-13"
+        },
+        {
+          "title_en": "Secretary Rubio’s Call with El Salvador President Bukele",
+          "title_ko": "부켈레 엘살바도르 대통령과 루비오 장관의 통화",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-el-salvador-president-bukele/",
+          "date": "2026-10-13"
+        },
+        {
+          "title_en": "One-Year Anniversary of the Gaza Peace Summit",
+          "title_ko": "가자 평화 서밋 1주년",
+          "url": "https://www.state.gov/one-year-anniversary-of-the-gaza-peace-summit/",
+          "date": "2026-10-13"
+        },
+        {
           "title_en": "Secretary Rubio’s Call with Colombian President De La Espriella",
-          "title_ko": "루비오 국무장관, 데 라 에스프리에야 콜롬비아 대통령과 전화 통화",
+          "title_ko": "루비오 장관과 콜롬비아의 데 라 에스프리엘라 대통령과의 통화",
           "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-colombian-president-de-la-espriella-2/",
           "date": "2026-10-12"
         },
         {
           "title_en": "Secretary of State Rubio’s Call with UK Foreign Secretary Miliband",
-          "title_ko": "루비오 국무장관, 밀리밴드 영국 외무장관과 전화 통화",
+          "title_ko": "루비오 국무장관이 밀리밴드 영국 외무장관과 통화한 내용",
           "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-rubios-call-with-uk-foreign-secretary-miliband/",
           "date": "2026-10-12"
         },
         {
           "title_en": "Second U.S.-Japan Free and Open Indo-Pacific (FOIP) Dialogue",
-          "title_ko": "제2차 미·일 자유롭고 열린 인도·태평양(FOIP) 대화",
+          "title_ko": "제2차 미국-일본 자유 개방 인도 태평양 (FOIP) 대화",
           "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/second-u-s-japan-free-and-open-indo-pacific-foip-dialogue/",
           "date": "2026-10-12"
         },
         {
           "title_en": "Joint Statement on the United Kingdom’s Attribution of Iran’s Involvement in Attempted Terrorist Attack at RAF Fairford",
-          "title_ko": "영국 공군 페어퍼드 기지 테러 미수 사건에 대한 영국의 이란 개입 규탄 공동성명",
+          "title_ko": "영국의 RAF 페어포드 테러 시도에 대한 이란의 관여에 대한 공동 성명서",
           "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/joint-statement-on-the-united-kingdoms-attribution-of-irans-involvement-in-attempted-terrorist-attack-at-raf-fairford/",
           "date": "2026-10-12"
         },
@@ -88,33 +106,15 @@
         },
         {
           "title_en": "Equatorial Guinea National Day",
-          "title_ko": "적도기니 국경일",
+          "title_ko": "적도 기니의 날",
           "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/equatorial-guinea-national-day-2/",
           "date": "2026-10-12"
         },
         {
           "title_en": "The United States Mobilizes Immediate Response to the Panama Earthquakes",
-          "title_ko": "미국, 파나마 지진 피해 대응을 위한 긴급 지원 착수",
+          "title_ko": "미국, 파나마 지진에 즉각 대응",
           "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/the-united-states-mobilizes-immediate-response-to-the-panama-earthquakes/",
           "date": "2026-10-10"
-        },
-        {
-          "title_en": "Secretary Rubio’s Call with Japanese Foreign Minister Motegi",
-          "title_ko": "루비오 국무장관, 모테기 일본 외무상과 전화 통화",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-japanese-foreign-minister-motegi/",
-          "date": "2026-10-10"
-        },
-        {
-          "title_en": "Earthquake in Panama",
-          "title_ko": "파나마 지진",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/earthquake-in-panama/",
-          "date": "2026-10-09"
-        },
-        {
-          "title_en": "Reconciliation Talks Deliver Concrete Progress for Venezuela’s Democratic Transition",
-          "title_ko": "화해 회담, 베네수엘라 민주주의 전환을 위한 구체적 진전 도출",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/reconciliation-talks-deliver-concrete-progress-for-venezuelas-democratic-transition/",
-          "date": "2026-10-09"
         }
       ],
       "note": ""
@@ -127,34 +127,46 @@
       "list_url": "https://home.treasury.gov/news/press-releases",
       "items": [
         {
+          "title_en": "U.S. Treasury Announces Record Enforcement Actions Against Bank of America",
+          "title_ko": "미 재무부, 뱅크오브아메리카에 역대 최대 규모 제재 조치 발표",
+          "url": "https://home.treasury.gov/news/press-releases/sb0657/",
+          "date": "2026-10-13"
+        },
+        {
+          "title_en": "Treasury Targets Cartel del Noreste’s Horse Racing Enterprise and Expansive Criminal Network",
+          "title_ko": "미 재무부, 카르텔 델 노레스테의 경마 사업 및 광범위한 범죄 네트워크 제재",
+          "url": "https://home.treasury.gov/news/press-releases/sb0656/",
+          "date": "2026-10-13"
+        },
+        {
+          "title_en": "READOUT: Secretary of the Treasury Scott Bessent’s Introductory Call with Republic of Korea Deputy Prime Minister Lee Hyoung-il",
+          "title_ko": "[통화 결과] 스콧 베센트 미 재무장관, 이형일 대한민국 부총리와 첫 유선 협의",
+          "url": "https://home.treasury.gov/news/press-releases/sb0655/",
+          "date": "2026-10-13"
+        },
+        {
           "title_en": "United States Department of the Treasury Announces New Appointment",
-          "title_ko": "미국 재무부, 신임 인사 발표",
+          "title_ko": "미 재무부, 신규 인사 발표",
           "url": "https://home.treasury.gov/news/press-releases/sb0654/",
           "date": "2026-10-09"
         },
         {
           "title_en": "Operation Economic Outcast Neutralizes Iranian Regime’s Remaining Shadow Fleet Network",
-          "title_ko": "이코노믹 아웃캐스트 작전, 이란 정권의 잔여 그림자 함대 네트워크 무력화",
+          "title_ko": "'경제적 추방 작전', 이란 정권의 잔존 그림자 선단 네트워크 무력화",
           "url": "https://home.treasury.gov/news/press-releases/sb0653/",
           "date": "2026-10-08"
         },
         {
           "title_en": "Treasury Announces Enforcement Penalty for Violation of Outbound Program",
-          "title_ko": "재무부, 대외투자 규제 프로그램 위반에 따른 제재금 부과 발표",
+          "title_ko": "미 재무부, 대외투자 규제 프로그램 위반에 따른 제재금 부과 발표",
           "url": "https://home.treasury.gov/news/press-releases/sb0652/",
           "date": "2026-10-07"
         },
         {
           "title_en": "Treasury Reports Major Progress in Preventing Fraud and Improper Payments",
-          "title_ko": "재무부, 사기 및 부적정 지급 방지 부문 주요 진전 보고",
+          "title_ko": "미 재무부, 사기 및 부정 지급 방지 부문 주요 성과 발표",
           "url": "https://home.treasury.gov/news/press-releases/sb0651/",
           "date": "2026-10-06"
-        },
-        {
-          "title_en": "Treasury Announces Third Round of Sanctions Removals, Updates in Modernization Initiative",
-          "title_ko": "재무부, 제3차 제재 해제 및 제재 현대화 이니셔티브 현황 발표",
-          "url": "https://home.treasury.gov/news/press-releases/sb0650/",
-          "date": "2026-10-05"
         }
       ],
       "note": ""
@@ -168,33 +180,21 @@
       "items": [
         {
           "title_en": "Medal of Honor Monday: Marine Corps Gunnery Sgt. John Basilone",
-          "title_ko": "이주의 명예훈장: 해병대 존 바실론 중사",
+          "title_ko": "명예훈장 월요일: 해병대 존 바실론 중사",
           "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4577016/medal-of-honor-monday-marine-corps-gunnery-sgt-john-basilone/",
           "date": "2026-10-12"
         },
         {
           "title_en": "Legendary Fighter Takes Final Flight: Air Force Reserve Delivers F-117A to Smithsonian",
-          "title_ko": "전설의 전투기 마지막 비행: 공군 예비군, 스미스소니언 박물관에 F-117A 인도",
+          "title_ko": "전설의 전투기 마지막 비행: 공군 예비군, 스미스소니언에 F-117A 인도",
           "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4623431/legendary-fighter-takes-final-flight-air-force-reserve-delivers-f-117a-to-smith/",
           "date": "2026-10-09"
         },
         {
           "title_en": "Signers of the Declaration of Independence: New Jersey, Part 1",
-          "title_ko": "독립선언서 서명자들: 뉴저지주 편 (1부)",
+          "title_ko": "독립선언서 서명자들: 뉴저지 제1편",
           "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4568583/signers-of-the-declaration-of-independence-new-jersey-part-1/",
           "date": "2026-10-09"
-        },
-        {
-          "title_en": "Air Force Captain Finds Resilience Through Endurance Running",
-          "title_ko": "장거리 달리기를 통해 회복탄력성을 찾은 공군 대위",
-          "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4619080/air-force-captain-finds-resilience-through-endurance-running/",
-          "date": "2026-10-05"
-        },
-        {
-          "title_en": "Medal of Honor Monday: Army Sgt. Alvin York",
-          "title_ko": "이주의 명예훈장: 육군 앨빈 요크 하사",
-          "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4574729/medal-of-honor-monday-army-sgt-alvin-york/",
-          "date": "2026-10-05"
         }
       ],
       "note": ""
@@ -207,76 +207,76 @@
       "list_url": "https://www.justice.gov/news",
       "items": [
         {
+          "title_en": "Saudi National Arrested for Installing Surreptitious Audio Recording Device at OpenAI",
+          "title_ko": "사우디 국가가 OpenAI에 기습적인 오디오 녹음 장치를 설치한 혐의로 체포됨",
+          "url": "https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai",
+          "date": "2026-10-13"
+        },
+        {
+          "title_en": "Cape Cod Man Pleads Guilty to Conspiring to Launder Proceeds of $6M Medicare Fraud Scheme",
+          "title_ko": "케이프 코드 남자는 $ 6M 메디케어 사기 제도의 수익금 출시를 공모하는 유죄를 인정합니다",
+          "url": "https://www.justice.gov/opa/pr/cape-cod-man-pleads-guilty-conspiring-launder-proceeds-6m-medicare-fraud-scheme",
+          "date": "2026-10-13"
+        },
+        {
+          "title_en": "Justice Department Announces Coordinated Actions to Combat North Korean Remote IT Worker Schemes Affecting More than 70 U.S. Companies",
+          "title_ko": "법무부, 70개 이상의 미국 기업에 영향을 미치는 북한 원격 IT 근로자 제도에 대처하기 위한 조율된 조치 발표",
+          "url": "https://www.justice.gov/opa/pr/justice-department-announces-coordinated-actions-combat-north-korean-remote-it-worker",
+          "date": "2026-10-13"
+        },
+        {
+          "title_en": "CVS Agrees to Pay $315M for Illegally Filling Unlawful Opioid Prescriptions and for Submitting False Claims to the Federal Government",
+          "title_ko": "CVS는 불법 오피오이드 처방전을 불법적으로 작성하고 연방 정부에 허위 청구서를 제출하는 데 $ 315M 지불에 동의합니다.",
+          "url": "https://www.justice.gov/opa/pr/cvs-agrees-pay-315m-illegally-filling-unlawful-opioid-prescriptions-and-submitting-false",
+          "date": "2026-10-13"
+        },
+        {
+          "title_en": "Virtual Meeting of the Chief FOIA Officers Council",
+          "title_ko": "최고 FOIA 임원 협의회 온라인 회의",
+          "url": "https://www.justice.gov/oip/blog/virtual-meeting-chief-foia-officers-council-9",
+          "date": "2026-10-13"
+        },
+        {
+          "title_en": "The Department of Justice Announces Results of Law Enforcement and Private Industry Joint Disruption Week Targeting Online Scam Accounts and Transnational Criminal Networks Operating in West Africa",
+          "title_ko": "법무부, 서아프리카에서 운영되는 온라인 사기 계정 및 초국가적 범죄 네트워크를 겨냥한 사법 기관 및 민간 산업 공동 중단 주간 결과 발표",
+          "url": "https://www.justice.gov/opa/pr/department-justice-announces-results-law-enforcement-and-private-industry-joint-disruption",
+          "date": "2026-10-13"
+        },
+        {
           "title_en": "Justice Department Announces Charges Involving 16 Individuals for Election Crimes",
-          "title_ko": "법무부, 선거 범죄 혐의로 16명 기소 발표",
+          "title_ko": "법무부, 선거 범죄로 16명이 연루된 혐의 발표",
           "url": "https://www.justice.gov/opa/pr/justice-department-announces-charges-involving-16-individuals-election-crimes",
           "date": "2026-10-12"
         },
         {
           "title_en": "Homeland Security Task Force Arrests Alvaro Pulido Vargas to Face Charges in Multibillion-Dollar Venezuelan Money Laundering and Bribery Schemes",
-          "title_ko": "국토안보 태스크포스, 수십억 달러 규모 베네수엘라 돈세탁 및 뇌물 공모 혐의로 알바로 풀리도 바르가스 체포",
+          "title_ko": "국토 안보 태스크 포스, 수십억 달러 규모의 베네수엘라 자금 세탁 및 뇌물 수수 혐의로 알바로 풀리도 바르가스를 체포하다",
           "url": "https://www.justice.gov/opa/pr/homeland-security-task-force-arrests-alvaro-pulido-vargas-face-charges-multibillion-dollar",
           "date": "2026-10-11"
         },
         {
           "title_en": "Department of Justice Announces Updates to Emergency Scheduling Actions for 7-OH and Related Opioid Substances",
-          "title_ko": "법무부, 7-OH 및 관련 오피오이드 물질 긴급 규제 조치 업데이트 발표",
+          "title_ko": "법무부, 7-OH 및 관련 오피오이드 물질에 대한 긴급 예약 조치 업데이트 발표",
           "url": "https://www.justice.gov/opa/pr/department-justice-announces-updates-emergency-scheduling-actions-7-oh-and-related-opioid",
           "date": "2026-10-09"
         },
         {
           "title_en": "Medical Supply Company Owner Sentenced to 14 Years in Prison for $30M Medicare, TRICARE, and CHAMPVA Fraud",
-          "title_ko": "의료용품 업체 대표, 3,000만 달러 규모 메디케어·트라이케어·챔프바 사기 혐의로 징역 14년 선고",
+          "title_ko": "의료 공급 회사 소유자는 $ 30M 메디케어, TRICARE 및 CHAMPVA 사기 혐의로 14년 징역형을 선고받았습니다",
           "url": "https://www.justice.gov/opa/pr/medical-supply-company-owner-sentenced-14-years-prison-30m-medicare-tricare-and-champva",
           "date": "2026-10-09"
         },
         {
           "title_en": "Leader of Global Violent Extremist Network ‘764’ Pleads Guilty to Conspiracy to Sexually Exploit Minors",
-          "title_ko": "글로벌 폭력적 극단주의 네트워크 ‘764’ 수괴, 미성년자 성착취 공모 혐의 유죄 인정",
+          "title_ko": "글로벌 폭력 극단주의 네트워크 ‘764‘ 의 리더는 미성년자를 성적으로 착취하는 음모에 유죄를 인정합니다",
           "url": "https://www.justice.gov/opa/pr/leader-global-violent-extremist-network-764-pleads-guilty-conspiracy-sexually-exploit-minors",
           "date": "2026-10-09"
         },
         {
           "title_en": "Illinois Woman Sentenced to 31 Months in Prison for Distributing and Conspiring to Create and Distribute Sexual Torture and Mutilation Videos of Baby Monkeys",
-          "title_ko": "일리노이주 여성, 새끼 원숭이 성적 고문 및 신체 훼손 영상 제작·유포 공모 혐의로 징역 31개월 선고",
+          "title_ko": "일리노이주 여성, 아기 원숭이 고문 및 성희롱 동영상 제작 및 배포 공모 혐의로 징역 31개월 선고",
           "url": "https://www.justice.gov/opa/pr/illinois-woman-sentenced-31-months-prison-distributing-and-conspiring-create-and-distribute",
           "date": "2026-10-09"
-        },
-        {
-          "title_en": "Assistant Attorney General Colin M. McDonald Issues Memorandum on the National Fraud Enforcement Division’s Comprehensive Approach in the Fight Against Fraud",
-          "title_ko": "콜린 M. 맥도널드 법무차관보, 사기 척결을 위한 국가사기단속국의 종합적 접근 방식에 관한 각서 발표",
-          "url": "https://www.justice.gov/opa/pr/assistant-attorney-general-colin-m-mcdonald-issues-memorandum-national-fraud-enforcement-1",
-          "date": "2026-10-08"
-        },
-        {
-          "title_en": "New Update to the Department of Justice Guide to the Freedom of Information Act",
-          "title_ko": "법무부 정보공개법 지침 최신 개정판 발표",
-          "url": "https://www.justice.gov/oip/blog/new-update-department-justice-guide-freedom-information-act",
-          "date": "2026-10-08"
-        },
-        {
-          "title_en": "OIP Announces New FOIA Training Dates for Fiscal Year 2027",
-          "title_ko": "정보정책국, 2027 회계연도 신규 정보공개법 교육 일정 발표",
-          "url": "https://www.justice.gov/oip/blog/oip-announces-new-foia-training-dates-fiscal-year-2027",
-          "date": "2026-10-08"
-        },
-        {
-          "title_en": "Attorney General Blanche Hosts Roundtable on Violent Crime Reduction Efforts",
-          "title_ko": "블랑쉬 법무장관, 강력 범죄 감축 노력에 관한 원탁회의 주재",
-          "url": "https://www.justice.gov/opa/video/attorney-general-blanche-hosts-roundtable-violent-crime-reduction-efforts",
-          "date": "2026-10-08"
-        },
-        {
-          "title_en": "Ukrainian-Russian Dual Citizen Pleads Guilty to Running International Money Laundering Organization for Cybercriminals",
-          "title_ko": "우크라이나·러시아 이중국적자, 사이버 범죄자 대상 국제 돈세탁 조직 운영 혐의 유죄 인정",
-          "url": "https://www.justice.gov/opa/pr/ukrainian-russian-dual-citizen-pleads-guilty-running-international-money-laundering",
-          "date": "2026-10-08"
-        },
-        {
-          "title_en": "Nicolás Maduro Moros and Cilia Adela Flores de Maduro Charged with Torture",
-          "title_ko": "니콜라스 마두로 모로스 및 실리아 아델라 플로레스 데 마두로, 고문 혐의로 기소",
-          "url": "https://www.justice.gov/opa/pr/nicolas-maduro-moros-and-cilia-adela-flores-de-maduro-charged-torture",
-          "date": "2026-10-08"
         }
       ],
       "note": ""
@@ -287,8 +287,15 @@
       "name_en": "Department of the Interior",
       "color": "#6b4423",
       "list_url": "https://www.doi.gov/news",
-      "items": [],
-      "note": "최근 7일간 새 보도자료를 찾지 못했거나 사이트 구조 변경으로 수집에 실패했습니다."
+      "items": [
+        {
+          "title_en": "Interior Department Announces Historic Tax Credit Program Generated $9.2 Billion in Gross Domestic Product and Supported 163,000 Jobs in FY 2025",
+          "title_ko": "내무부, 2025 회계연도에 국내 총생산 (GDP) 에서 $ 9.2 Billion을 창출하고 163,000개의 일자리를 지원한 역사적인 세금 공제 프로그램 발표",
+          "url": "https://www.doi.gov/pressreleases/interior-department-announces-historic-tax-credit-program-generated-92-billion-gross",
+          "date": "2026-10-13"
+        }
+      ],
+      "note": ""
     },
     {
       "key": "agriculture",
@@ -352,10 +359,10 @@
       "list_url": "https://www.energy.gov/news",
       "items": [
         {
-          "title_en": "U.S. Department of Energy Awards $96 Million to 67 Early Career Scientists",
-          "title_ko": "미국 에너지부, 신진 과학자 67명에게 9,600만 달러 지원",
-          "url": "https://www.energy.gov/articles/us-department-energy-awards-96-million-67-early-career-scientists",
-          "date": "2026-10-08"
+          "title_en": "Energy Department Backs Major Grid Expansion Across Eight States to Strengthen Reliability and Lower Electricity Costs",
+          "title_ko": "에너지 부서는 신뢰성을 강화하고 전기 비용을 낮추기 위해 8개 주에 걸친 주요 전력망 확장을 뒷받침합니다.",
+          "url": "https://www.energy.gov/articles/energy-department-backs-major-grid-expansion-across-eight-states-strengthen-reliability",
+          "date": "2026-10-13"
         }
       ],
       "note": ""
@@ -377,64 +384,64 @@
       "list_url": "https://www.dhs.gov/news-releases",
       "items": [
         {
+          "title_en": "ILLEGAL ALIEN BONNIE AND CLYDE: ICE Arrests Illegal Alien Couple After Multi-State Jewelry Theft Spree",
+          "title_ko": "불법 체류 외국인 보니와 클라이드: ICE, 다국적 보석 도난 사건 이후 불법 체류자 부부 체포",
+          "url": "https://www.dhs.gov/news/2026/10/13/illegal-alien-bonnie-and-clyde-ice-arrests-illegal-alien-couple-after-multi-state",
+          "date": "2026-10-13"
+        },
+        {
+          "title_en": "WORST OF THE WORST: Over Columbus Day Weekend, ICE Arrests Murderers, Pedophiles, Rapists, Drug Traffickers, and Drunk Drivers",
+          "title_ko": "최악의 경우: 콜럼버스의 날 주말 동안 ICE는 살인자, 소아성애자, 강간범, 마약 밀매자 및 음주 운전자를 체포합니다.",
+          "url": "https://www.dhs.gov/news/2026/10/13/worst-worst-over-columbus-day-weekend-ice-arrests-murderers-pedophiles-rapists-drug",
+          "date": "2026-10-13"
+        },
+        {
+          "title_en": "HSI Arrests Alien Charged with Illegally Voting in Pennsylvania",
+          "title_ko": "HSI, 펜실베이니아에서 불법 투표 혐의로 기소된 외국인 체포",
+          "url": "https://www.dhs.gov/news/2026/10/13/hsi-arrests-alien-charged-illegally-voting-pennsylvania",
+          "date": "2026-10-13"
+        },
+        {
           "title_en": "DHS Releases New Data Revealing that New York has Refused to Honor More Than 16,000 ICE Detainers",
-          "title_ko": "국토안보부, 뉴욕주가 1만 6천 건 이상의 ICE 구금 인도 요청을 거부했음을 보여주는 신규 자료 공개",
+          "title_ko": "미국 국토안보부 (DHS) 가 뉴욕이 16,000명 이상의 ICE 억류자를 기리는 것을 거부했다는 새로운 데이터를 공개했다.",
           "url": "https://www.dhs.gov/news/2026/10/12/dhs-releases-new-data-revealing-new-york-has-refused-honor-more-16000-ice-detainers",
           "date": "2026-10-12"
         },
         {
           "title_en": "DHS Highlights Victims of Illegal Alien Crime in Sanctuary New York",
-          "title_ko": "국토안보부, '피난처' 뉴욕의 불법체류자 범죄 피해자 조명",
+          "title_ko": "미국 국토안보부 (DHS), 뉴욕 피난처에서 불법 외국인 범죄 피해자 집중 조명",
           "url": "https://www.dhs.gov/news/2026/10/12/dhs-highlights-victims-illegal-alien-crime-sanctuary-new-york",
           "date": "2026-10-12"
         },
         {
           "title_en": "DHS Highlights Worst Illegal Aliens Arrested in Syracuse, New York",
-          "title_ko": "국토안보부, 뉴욕주 시러큐스에서 체포된 흉악 불법체류자 명단 공개",
+          "title_ko": "미국 국토안보부 (DHS), 뉴욕주 시러큐스에서 체포된 최악의 불법 체류 외국인",
           "url": "https://www.dhs.gov/news/2026/10/09/dhs-highlights-worst-illegal-aliens-arrested-syracuse-new-york",
           "date": "2026-10-09"
         },
         {
           "title_en": "MAKE AMERICA SAFE AGAIN: DHS Deports Illegal Alien Gangsters, Including Attempted Murderers, Violent Assailants, Robbers, and Drunk Drivers",
-          "title_ko": "미국을 다시 안전하게: 국토안보부, 살인미수·폭력·강도·음주운전 연루 불법체류 갱단원 추방",
+          "title_ko": "미국을 다시 안전하게 만들기: 미국 국토안보부는 살인미수자, 폭력 가해자, 강도, 음주 운전자를 포함한 불법 체류 외국인 갱스터를 감금합니다.",
           "url": "https://www.dhs.gov/news/2026/10/09/make-america-safe-again-dhs-deports-illegal-alien-gangsters-including-attempted",
           "date": "2026-10-09"
         },
         {
           "title_en": "DHS Debunks New York Sanctuary Politicians’ Lies About ICE Shooting of Illegal Alien Gang Member, Condemns Sanctuary New York for Refusing to Honor Nearly 15,000 ICE Detainers",
-          "title_ko": "국토안보부, ICE의 불법체류 갱단원 총격 사건에 대한 뉴욕 피난처 정치인들의 거짓 주장 반박 및 1만 5천여 건의 인도 요청 거부한 뉴욕 규탄",
+          "title_ko": "미국 국토안보부 (DHS) 는 ICE에 대한 뉴욕 보호구역 정치인들의 거짓말을 폭로했다. 불법 체류 외국인 갱단원 총격 사건, 거의 15,000명의 ICE 억류자를 기리는 것을 거부한 뉴욕 보호구역 규탄",
           "url": "https://www.dhs.gov/news/2026/10/09/dhs-debunks-new-york-sanctuary-politicians-lies-about-ice-shooting-illegal-alien",
           "date": "2026-10-09"
         },
         {
           "title_en": "WORST OF THE WORST: ICE Arrests Murderers, Pedophiles, and Rapists",
-          "title_ko": "최악 중의 최악: ICE, 살인범·소아성애자·강간범 체포",
+          "title_ko": "최악의 상황: ICE, 살인자, 소아성애자, 강간범 체포",
           "url": "https://www.dhs.gov/news/2026/10/09/worst-worst-ice-arrests-murderers-pedophiles-and-rapists",
           "date": "2026-10-09"
         },
         {
           "title_en": "MAKE AMERICA SAFE AGAIN: ICE Deports Illegal Alien Gang Members, Murderers, Pedophiles, Violent Assailants, Burglars, and Drunk Drivers",
-          "title_ko": "미국을 다시 안전하게: ICE, 불법체류 갱단원·살인범·소아성애자·폭력범·절도범·음주운전자 추방",
+          "title_ko": "미국을 다시 안전하게 만들기: ICE, 불법 외국인 갱단 구성원, 살인자, 소아 성애자, 폭력 가해자, 도둑 및 음주 운전자 유출",
           "url": "https://www.dhs.gov/news/2026/10/08/make-america-safe-again-ice-deports-illegal-alien-gang-members-murderers-pedophiles",
           "date": "2026-10-08"
-        },
-        {
-          "title_en": "WORST OF THE WORST: ICE Arrests Murderers, Sexual Predators, and Kidnappers",
-          "title_ko": "최악 중의 최악: ICE, 살인범·성범죄자·납치범 체포",
-          "url": "https://www.dhs.gov/news/2026/10/08/worst-worst-ice-arrests-murderers-sexual-predators-and-kidnappers",
-          "date": "2026-10-08"
-        },
-        {
-          "title_en": "HSTF Investigation Leads to Sentencing of Illegal Alien Drug Trafficker to 20 Years in Prison",
-          "title_ko": "국토안보 태스크포스 수사 통해 불법체류 마약 밀매범 징역 20년 선고 유도",
-          "url": "https://www.dhs.gov/news/2026/10/08/hstf-investigation-leads-sentencing-illegal-alien-drug-trafficker-20-years-prison",
-          "date": "2026-10-08"
-        },
-        {
-          "title_en": "DHS Issues Statement After ICE Arrests Illegal Alien from Nigeria Who Exposed Himself in Public While Working for Congressional Campaign in Pennsylvania",
-          "title_ko": "국토안보부, 펜실베이니아주 의회 선거 캠프 활동 중 공연음란 혐의로 체포된 나이지리아 국적 불법체류자 관련 성명 발표",
-          "url": "https://www.dhs.gov/news/2026/10/07/dhs-issues-statement-after-ice-arrests-illegal-alien-nigeria-who-exposed-himself",
-          "date": "2026-10-07"
         }
       ],
       "note": ""
@@ -448,39 +455,39 @@
       "items": [
         {
           "title_en": "Manzano Mesa Multigenerational Center Outreach Event",
-          "title_ko": "만자노 메사 다세대 센터 아웃리치 행사",
+          "title_ko": "만자노 메사 다세대 센터 봉사 활동 이벤트",
           "url": "https://discover.va.gov/events/manzano-mesa-multigenerational-center-outreach-event-2/",
           "date": "2026-10-14"
         },
         {
+          "title_en": "North Florida South Georgia Veterans Stand Down and Resource Fair",
+          "title_ko": "노스플로리다 사우스조지아 참전 용사들 물러나 자원 박람회",
+          "url": "https://discover.va.gov/events/north-florida-south-georgia-veterans-stand-down-and-resource-fair/",
+          "date": "2026-10-14"
+        },
+        {
           "title_en": "Highland Senior Center Veterans Outreach",
-          "title_ko": "하이랜드 시니어 센터 참전용사 아웃리치 행사",
+          "title_ko": "하이랜드 시니어 센터 재향 군인 봉사 활동",
           "url": "https://discover.va.gov/events/highland-senior-center-veterans-outreach-3/",
           "date": "2026-10-13"
         },
         {
           "title_en": "Veteran Resource Fair –  Addison Township",
-          "title_ko": "참전용사 자원 박람회 – 애디슨 타운십",
+          "title_ko": "베테랑 자원 박람회 – 애디슨 타운십",
           "url": "https://discover.va.gov/events/veteran-resource-fair-addison-township/",
           "date": "2026-10-13"
         },
         {
           "title_en": "Mission Belonging: More Than One Story Orientation",
-          "title_ko": "미션 빌롱잉: '하나 이상의 이야기' 오리엔테이션",
+          "title_ko": "미션 소속감: 하나 이상의 스토리 지향",
           "url": "https://discover.va.gov/events/mission-belonging-more-than-one-story-orientation/",
           "date": "2026-10-13"
         },
         {
           "title_en": "Rockland County Veterans Fair.",
-          "title_ko": "로클랜드 카운티 참전용사 박람회",
+          "title_ko": "로클랜드 카운티 재향 군인 박람회.",
           "url": "https://discover.va.gov/events/rockland-county-veterans-fair/",
           "date": "2026-10-13"
-        },
-        {
-          "title_en": "Mission Belonging: Writing in the Arena Orientation",
-          "title_ko": "미션 빌롱잉: '아레나에서의 글쓰기' 오리엔테이션",
-          "url": "https://discover.va.gov/events/mission-belonging-writing-in-the-arena-orientation/",
-          "date": "2026-10-12"
         }
       ],
       "note": ""
@@ -495,71 +502,13 @@
       "note": "자동 접속 차단(봇 감지)으로 목록 페이지 링크만 제공합니다."
     }
   ],
-  "ai_summary": {
-    "headline": "미국 연방정부는 베네수엘라와 이란에 대한 외교·사법적 압박을 강화하는 동시에 국내 불법체류 범죄 단속과 사기·선거 범죄 척결에 행정력을 집중했다.",
-    "top_news": [
-      {
-        "title": "미 정부, 베네수엘라 마두로 부부 고문 혐의 기소 및 민주화 압박",
-        "detail": "미국 법무부가 니콜라스 마두로와 실리아 플로레스를 고문 혐의로 기소하고 수십억 달러 규모 자금세탁 공모자를 체포한 가운데, 국무부는 화해 회담을 통해 민주주의 전환의 진전을 발표했다.",
-        "agencies": [
-          "법무부",
-          "국무부"
-        ]
-      },
-      {
-        "title": "이란 그림자 함대 무력화 및 영국 기지 테러 개입 규탄",
-        "detail": "미국 재무부는 작전을 통해 이란 정권의 잔여 그림자 함대 네트워크를 무력화했으며, 국무부는 영국 공군 기지 테러 미수 사건에 대한 영국의 이란 개입 규탄 공동성명을 지지했다.",
-        "agencies": [
-          "재무부",
-          "국무부"
-        ]
-      },
-      {
-        "title": "국토안보부, 뉴욕주 '피난처' 정책 정조준 및 흉악범 추방 공세",
-        "detail": "국토안보부는 뉴욕주가 1만 6천 건 이상의 구금 인도 요청을 거부했다고 지적하며 피난처 정책을 규탄하고 살인·강도 등 강력 범죄에 연루된 불법체류자 추방 성과를 집중 공개했다.",
-        "agencies": [
-          "국토안보부"
-        ]
-      },
-      {
-        "title": "법무부, 선거 범죄 기소 및 사기·오피오이드 척결 강화",
-        "detail": "법무부는 선거 범죄 혐의자 16명을 기소하는 한편 국가사기단속국의 종합 단속 각서를 발표하고 7-OH 등 오피오이드 물질에 대한 긴급 규제 조치를 갱신했다.",
-        "agencies": [
-          "법무부"
-        ]
-      }
-    ],
-    "outlook": [
-      {
-        "agency": "국토안보부",
-        "forecast": "피난처 정책을 유지하는 지방정부에 대한 공개적 압박을 지속하며 중범죄 연루 불법체류자에 대한 체포와 추방 집행을 더욱 강화할 가능성이 있다.",
-        "basis": "뉴욕주가 1만 6천 건 이상의 ICE 구금 인도 요청을 거부했음을 보여주는 신규 자료 공개"
-      },
-      {
-        "agency": "재무부",
-        "forecast": "대외투자 규정 위반에 대한 단속과 제재 시스템 현대화 작업을 병행하며 금융 범죄 및 불법 자금 차단에 주력할 가능성이 있다.",
-        "basis": "대외투자 규제 프로그램 위반에 따른 제재금 부과 발표 및 제3차 제재 해제 및 제재 현대화 이니셔티브 현황 발표"
-      },
-      {
-        "agency": "국무부",
-        "forecast": "영국 및 일본 등 핵심 동맹과의 연계를 바탕으로 인도·태평양 안보 협력과 중남미 지역 안정화 외교를 확대할 가능성이 있다.",
-        "basis": "제2차 미·일 자유롭고 열린 인도·태평양(FOIP) 대화 및 루비오 국무장관의 주요국 정상·외무장관 연쇄 통화"
-      },
-      {
-        "agency": "법무부",
-        "forecast": "신종 합성 마약류 통제와 국가사기단속국을 중심으로 한 대규모 금융·보건 사기 범죄 단속에 수사 역량을 집중할 가능성이 있다.",
-        "basis": "7-OH 및 관련 오피오이드 물질 긴급 규제 조치 업데이트 발표 및 사기 척결을 위한 국가사기단속국의 종합적 접근 방식에 관한 각서 발표"
-      }
-    ],
-    "model": "gemini-3.8-flash"
-  },
   "debug": {
     "gemini_key_present": true,
     "gemini_model": "gemini-3.8-flash",
     "gemini_translate_batches": {
-      "translate_ok": 8,
-      "translate_fail": 0
+      "translate_ok": 2,
+      "translate_fail": 7
     },
-    "last_gemini_error": ""
+    "last_gemini_error": "summary: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota ex"
   }
 }
