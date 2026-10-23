@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21 23:53:36",
+  "generated_at": "2026-10-22 23:52:30",
   "period_days": 7,
   "translation_available": true,
   "agencies": [
@@ -11,34 +11,34 @@
       "list_url": "https://www.whitehouse.gov/briefing-room/statements-releases/",
       "items": [
         {
+          "title_en": "Congressional Bills H.R. 952 and H.R. 7022 Signed into Law",
+          "title_ko": "의회 법안 H.R. 952 및 H.R. 7022 법률에 서명",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-h-r-952-and-h-r-7022-signed-into-law/",
+          "date": "2026-10-22"
+        },
+        {
           "title_en": "Congressional Bills H.R. 227, H.R. 837, H.R. 1721, H.R. 2388, H.R. 2481, H.R. 3620, H.R. 4307, H.R. 4467, H.R. 6380, and H.R. 7831 Signed into Law",
-          "title_ko": "연방 의회 법안 H.R. 227, H.R. 837, H.R. 1721, H.R. 2388, H.R. 2481, H.R. 3620, H.R. 4307, H.R. 4467, H.R. 6380 및 H.R. 7831 서명 공포",
+          "title_ko": "의회 법안 H.R. 227, H.R. 837, H.R. 1721, H.R. 2388, H.R. 2481, H.R. 3620, H.R. 4307, H.R. 4467, H.R. 6380 및 H.R. 7831 법률에 서명",
           "url": "https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-h-r-227-h-r-837-h-r-1721-h-r-2388-h-r-2481-h-r-3620-h-r-4307-h-r-4467-h-r-6380-and-h-r-7831-signed-into-law/",
           "date": "2026-10-20"
         },
         {
           "title_en": "Presidential Message on National Forest Products Week",
-          "title_ko": "전국 임산물 주간 대통령 메시지",
+          "title_ko": "국립 임산물 주간에 대한 대통령 메시지",
           "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-forest-products-week-5753/",
           "date": "2026-10-19"
         },
         {
           "title_en": "First Lady Melania Trump Champions New U.S. Women’s Health Initiative",
-          "title_ko": "멜라니아 트럼프 영부인, 새로운 미국 여성 건강 구상 추진",
+          "title_ko": "퍼스트 레이디 멜라니아 트럼프 챔피언스 새로운 미국 여성 건강 이니셔티브",
           "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-champions-new-u-s-womens-health-initiative/",
           "date": "2026-10-19"
         },
         {
           "title_en": "Congressional Bills S. 240, S. 283, and S. 2403 Signed into Law",
-          "title_ko": "연방 의회 법안 S. 240, S. 283 및 S. 2403 서명 공포",
+          "title_ko": "의회 법안 S. 240, S. 283 및 S. 2403 법률에 서명",
           "url": "https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-s-240-s-283-and-s-2403-signed-into-law/",
           "date": "2026-10-15"
-        },
-        {
-          "title_en": "Presidential Message on the Birthday of President Dwight D. Eisenhower",
-          "title_ko": "드와이트 D. 아이젠하워 전 대통령 탄생일 대통령 메시지",
-          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-the-birthday-of-president-dwight-d-eisenhower-c6b1/",
-          "date": "2026-10-14"
         }
       ],
       "note": ""
@@ -51,6 +51,42 @@
       "list_url": "https://www.state.gov/press-releases/",
       "items": [
         {
+          "title_en": "Advancing Venezuela’s Democratic Transition Through Reconciliation Talks",
+          "title_ko": "화해 회담을 통한 베네수엘라의 민주적 전환 추진",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/advancing-venezuelas-democratic-transition-through-reconciliation-talks/",
+          "date": "2026-10-22"
+        },
+        {
+          "title_en": "Secretary Rubio’s Call with NATO Secretary General Rutte",
+          "title_ko": "루비오 장관이 루테 나토 사무총장과 통화하다",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-nato-secretary-general-rutte-3/",
+          "date": "2026-10-22"
+        },
+        {
+          "title_en": "Additional Visa Restrictions on Colombian Individuals to Defend Our Hemisphere Against Corruption and Narcotrafficking",
+          "title_ko": "부패 및 마약 거래로부터 우리 반구를 보호하기 위한 콜롬비아 개인에 대한 추가 비자 제한",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/additional-visa-restrictions-on-colombian-individuals-to-defend-our-hemisphere-against-corruption-and-narcotrafficking/",
+          "date": "2026-10-22"
+        },
+        {
+          "title_en": "Additional Visa Restrictions on Bolivian Individuals to Defend Our Hemisphere Against Corruption and Narcotrafficking",
+          "title_ko": "부패 및 마약 거래로부터 우리 반구를 보호하기 위한 볼리비아 개인에 대한 추가 비자 제한",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/additional-visa-restrictions-on-bolivian-individuals-to-defend-our-hemisphere-against-corruption-and-narcotrafficking/",
+          "date": "2026-10-22"
+        },
+        {
+          "title_en": "Secretary Rubio’s Call with Qatari Prime Minister and Foreign Minister Al Thani",
+          "title_ko": "루비오 장관이 카타르 총리 겸 외무장관 알 타니와 통화",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-qatari-prime-minister-and-foreign-minister-al-thani/",
+          "date": "2026-10-22"
+        },
+        {
+          "title_en": "United States and Denmark Sign Maritime Cooperation Memorandum of Understanding",
+          "title_ko": "미국과 덴마크, 해양협력 양해각서 체결",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/united-states-and-denmark-sign-maritime-cooperation-memorandum-of-understanding/",
+          "date": "2026-10-22"
+        },
+        {
           "title_en": "U.S.-Paraguay Cooperation to Advance Prosperity and Security",
           "title_ko": "번영과 안보 증진을 위한 미국-파라과이 협력",
           "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/u-s-paraguay-cooperation-to-advance-prosperity-and-security/",
@@ -58,57 +94,21 @@
         },
         {
           "title_en": "Co-Chairs’ Statement on the 7th U.S.-ASEAN Cyber Policy Dialogue",
-          "title_ko": "제7차 미국-아세안 사이버 정책 대화 공동의장 성명",
+          "title_ko": "제7차 미국-아세안 사이버정책대화 공동의장 성명서",
           "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/co-chairs-statement-on-the-7th-u-s-asean-cyber-policy-dialogue/",
           "date": "2026-10-21"
         },
         {
           "title_en": "Statement on the Fourth United States-Singapore Cyber Dialogue",
-          "title_ko": "제4차 미국-싱가포르 사이버 대화 관련 성명",
+          "title_ko": "네 번째 미국-싱가포르 사이버 대화에 관한 성명서",
           "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/statement-on-the-fourth-united-states-singapore-cyber-dialogue/",
           "date": "2026-10-21"
         },
         {
-          "title_en": "Joint Statement on United States–Liechtenstein Strategic and Economic Partnership Dialogue",
-          "title_ko": "미국-리히텐슈타인 전략 및 경제 파트너십 대화 공동성명",
+          "title_en": "Joint Statement on United States-Liechtenstein Strategic and Economic Partnership Dialogue",
+          "title_ko": "미국-리히텐슈타인 전략 및 경제동반자 대화에 관한 공동성명",
           "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/joint-statement-on-united-states-liechtenstein-strategic-and-economic-partnership-dialogue/",
           "date": "2026-10-21"
-        },
-        {
-          "title_en": "Unmasking Service Providers Facilitating Iran’s Shadow Fleet Operations",
-          "title_ko": "이란의 '그림자 선단' 운용 지원 서비스 제공업체 실체 공개",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/unmasking-service-providers-facilitating-irans-shadow-fleet-operations/",
-          "date": "2026-10-21"
-        },
-        {
-          "title_en": "Secretary Rubio’s Call with Brunei Darussalam Minister of Foreign Affairs His Royal Highness Prince ‘Abdul Mateen",
-          "title_ko": "루비오 국무장관, 압둘 마틴 브루나이 외교장관과 전화 통화",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-brunei-darussalam-minister-of-foreign-affairs-his-royal-highness-prince-abdul-mateen/",
-          "date": "2026-10-21"
-        },
-        {
-          "title_en": "Secretary of State Marco Rubio Remarks to the Press",
-          "title_ko": "마르코 루비오 국무장관 언론 발표",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-remarks-to-the-press-20/",
-          "date": "2026-10-21"
-        },
-        {
-          "title_en": "Secretary of State Marco Rubio with Shubhajit Roy of The Indian Express",
-          "title_ko": "마르코 루비오 국무장관, 인디언 익스프레스 슈바짓 로이 기자와 인터뷰",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-with-shubhajit-roy-of-the-indian-express/",
-          "date": "2026-10-20"
-        },
-        {
-          "title_en": "Secretary of State Marco Rubio and Indian External Affairs Minister Dr. S. Jaishankar at the Freedom 250 Reception",
-          "title_ko": "마르코 루비오 국무장관 및 S. 자이샨카르 인도 외교장관, 프리덤 250 리셉션 참석",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-and-indian-external-affairs-minister-dr-s-jaishankar-at-the-freedom-250-reception/",
-          "date": "2026-10-20"
-        },
-        {
-          "title_en": "U.S.-Pacific Islands Conference of Police Ministers (COPMIN) – “Securing the Pacific Together”",
-          "title_ko": "미국-태평양 도서국 경찰장관 회의(COPMIN) – \"함께 지키는 태평양의 안보\"",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/u-s-pacific-islands-conference-of-police-ministers-copmin-securing-the-pacific-together/",
-          "date": "2026-10-20"
         }
       ],
       "note": ""
@@ -120,6 +120,24 @@
       "color": "#0a6847",
       "list_url": "https://home.treasury.gov/news/press-releases",
       "items": [
+        {
+          "title_en": "Treasury Issues Proposed Rule to Implement Comprehensive Outbound Investment National Security Act",
+          "title_ko": "포괄적 아웃바운드 투자 국가보안법 시행을 위한 재무부 쟁점 제안 규칙",
+          "url": "https://home.treasury.gov/news/press-releases/sb0667/",
+          "date": "2026-10-22"
+        },
+        {
+          "title_en": "READOUT: Secretary of the Treasury Scott Bessent’s Meeting with President Santiago Peña of Paraguay",
+          "title_ko": "참고: 스콧 베슨트 (Scott Bessent) 재무장관이 파라과이의 산티아고 페냐 (Santiago Peña) 대통령과 회담",
+          "url": "https://home.treasury.gov/news/press-releases/sb0666/",
+          "date": "2026-10-22"
+        },
+        {
+          "title_en": "The Trump Administration is Making Homeownership More Affordable",
+          "title_ko": "트럼프 행정부는 주택 소유를 더 저렴하게 만들고 있습니다",
+          "url": "https://home.treasury.gov/news/press-releases/sb0665/",
+          "date": "2026-10-22"
+        },
         {
           "title_en": "Operation Economic Outcast Targets Iran’s Shadow Fleet Networks",
           "title_ko": "이란의 그림자 함대 네트워크를 겨냥한 경제 추방 작전",
@@ -149,18 +167,6 @@
           "title_ko": "이란의 국제 금융 네트워크와 섀도우 뱅킹 아키텍처를 겨냥한 경제 열세 작전",
           "url": "https://home.treasury.gov/news/press-releases/sb0660/",
           "date": "2026-10-15"
-        },
-        {
-          "title_en": "Statement from U.S. Secretary of the Treasury Scott Bessent for the World Bank Development Committee and IMF International Monetary and Financial Committee",
-          "title_ko": "세계은행 개발위원회와 IMF 국제통화금융위원회를 위한 스콧 베슨트 미국 재무장관의 성명서",
-          "url": "https://home.treasury.gov/news/press-releases/sb0659/",
-          "date": "2026-10-14"
-        },
-        {
-          "title_en": "Treasury and IRS Move to Protect Health Care Benefits for Eligible Americans",
-          "title_ko": "재무부와 IRS는 적격 미국인을 위한 의료 혜택 보호를 위한 움직임",
-          "url": "https://home.treasury.gov/news/press-releases/sb0658/",
-          "date": "2026-10-14"
         }
       ],
       "note": ""
@@ -172,6 +178,12 @@
       "color": "#3c4a3e",
       "list_url": "https://www.war.gov/News/Releases/",
       "items": [
+        {
+          "title_en": "Guard Program Trains Warfighters for Emerging Battlefield Threats",
+          "title_ko": "경비 프로그램은 신흥 전장 위협에 대한 전투원을 훈련",
+          "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4631564/guard-program-trains-warfighters-for-emerging-battlefield-threats/",
+          "date": "2026-10-22"
+        },
         {
           "title_en": "Oregon National Guard Honors Vietnam War Veteran",
           "title_ko": "오리건 주 방위군, 베트남 전쟁 참전 용사 영예",
@@ -201,12 +213,6 @@
           "title_ko": "독립선언서 서명인: 뉴저지, 2부",
           "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4573230/signers-of-the-declaration-of-independence-new-jersey-part-2/",
           "date": "2026-10-16"
-        },
-        {
-          "title_en": "Clean Fuel, Ready Jets: Air National Guard Logistics Squadron Keeps Operations Moving",
-          "title_ko": "깨끗한 연료, 준비된 제트기: 항공 방위군 군수 중대는 작전을 계속 진행합니다.",
-          "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4625846/clean-fuel-ready-jets-air-national-guard-logistics-squadron-keeps-operations-mo/",
-          "date": "2026-10-14"
         }
       ],
       "note": ""
@@ -219,6 +225,66 @@
       "list_url": "https://www.justice.gov/news",
       "items": [
         {
+          "title_en": "Cartel Commander Charged with International Cocaine and Methamphetamine Trafficking Conspiracy and Firearm Offenses",
+          "title_ko": "국제 코카인 및 메스암페타민 밀매 음모 및 총기 범죄 혐의로 기소된 카르텔 사령관",
+          "url": "https://www.justice.gov/opa/pr/cartel-commander-charged-international-cocaine-and-methamphetamine-trafficking-conspiracy",
+          "date": "2026-10-22"
+        },
+        {
+          "title_en": "Environmental Crimes Bulletin – September 2026",
+          "title_ko": "환경범죄 게시판 – 2026년 9월",
+          "url": "https://www.justice.gov/enrd/blog/environmental-crimes-bulletin-september-2026",
+          "date": "2026-10-22"
+        },
+        {
+          "title_en": "Justice Department Opens Investigation into Alleged Firearm Permitting Abuses in Two Connecticut Municipalities",
+          "title_ko": "법무부, 두 코네티컷 지방 자치 단체에서 총기 남용 혐의에 대한 조사 개시",
+          "url": "https://www.justice.gov/opa/pr/justice-department-opens-investigation-alleged-firearm-permitting-abuses-two-connecticut",
+          "date": "2026-10-22"
+        },
+        {
+          "title_en": "Justice Department’s Civil Division and the Department of Health & Human Services Announce Anti-Fraud Healthcare Self-Disclosure Pilot Program",
+          "title_ko": "법무부 민사부와 보건복지부, 부정 방지 헬스케어 자체 공개 시범 프로그램 발표",
+          "url": "https://www.justice.gov/opa/pr/justice-departments-civil-division-and-department-health-human-services-announce-anti-fraud",
+          "date": "2026-10-22"
+        },
+        {
+          "title_en": "Los Angeles Health Care Fraud Takedown Results in Charges Against 15 Defendants, Including 6 Medical Professionals, Nearly $2 Billion in Loss",
+          "title_ko": "로스앤젤레스 보건의료 사기 게시 중단으로 인해 의료 전문가 6명을 포함한 15명의 피고에게 $ 20억에 가까운 손실이 발생했습니다.",
+          "url": "https://www.justice.gov/opa/pr/los-angeles-health-care-fraud-takedown-results-charges-against-15-defendants-including-6",
+          "date": "2026-10-22"
+        },
+        {
+          "title_en": "Utah Man Charged with Attempted Hate Crime, and other Crimes After Allegedly Making Online Threats to “blow up” a Synagogue",
+          "title_ko": "증오 범죄 미수 혐의로 기소된 유타주 남성, 회당을 '날려버리겠다' 는 온라인 협박을 한 혐의로 기소된 후 기타 범죄",
+          "url": "https://www.justice.gov/opa/pr/utah-man-charged-attempted-hate-crime-and-other-crimes-after-allegedly-making-online-threats",
+          "date": "2026-10-22"
+        },
+        {
+          "title_en": "Justice Department Secures Settlement of Lawsuit Against Oklahoma Landlord for Refusing to Rent to a Family with a Child",
+          "title_ko": "법무부, 자녀가 있는 가족에게 임대를 거부한 오클라호마 집주인에 대한 소송 합의 확보",
+          "url": "https://www.justice.gov/opa/pr/justice-department-secures-settlement-lawsuit-against-oklahoma-landlord-refusing-rent-family",
+          "date": "2026-10-22"
+        },
+        {
+          "title_en": "Former Eminem Employee Pleads Guilty to Criminal Infringement of Copyright",
+          "title_ko": "전 Eminem 직원, 저작권 침해에 대한 유죄 인정",
+          "url": "https://www.justice.gov/opa/pr/former-eminem-employee-pleads-guilty-criminal-infringement-copyright",
+          "date": "2026-10-22"
+        },
+        {
+          "title_en": "Attorney General, FBI Director Announce Significant Law Enforcement Action",
+          "title_ko": "법무장관, FBI 국장, 중대한 사법기관 조치 발표",
+          "url": "https://www.justice.gov/opa/video/attorney-general-fbi-director-announce-significant-law-enforcement-action",
+          "date": "2026-10-22"
+        },
+        {
+          "title_en": "Virginia State Senator Indicted for Leading a Criminal Marijuana Distribution Enterprise",
+          "title_ko": "버지니아 주 상원의원, 범죄 마리화나 유통 기업을 이끈 혐의로 기소",
+          "url": "https://www.justice.gov/opa/pr/virginia-state-senator-indicted-leading-criminal-marijuana-distribution-enterprise",
+          "date": "2026-10-22"
+        },
+        {
           "title_en": "Las Vegas Man Sentenced to Prison in $5M Tax Refund Fraud Scheme",
           "title_ko": "라스베이거스 남성, $ 500만 세금 환급 사기 제도로 징역형 선고",
           "url": "https://www.justice.gov/opa/pr/las-vegas-man-sentenced-prison-5m-tax-refund-fraud-scheme",
@@ -229,66 +295,6 @@
           "title_ko": "국토 안보 태스크 포스 조사에 따라 마약 밀매 수익금 세탁 혐의로 선고된 다산 중국 돈세탁업자",
           "url": "https://www.justice.gov/opa/pr/prolific-chinese-money-launderer-sentenced-laundering-drug-trafficking-proceeds-following",
           "date": "2026-10-21"
-        },
-        {
-          "title_en": "Justice Department Finds Ohio State Medical School Discriminates Based on Race in Admissions",
-          "title_ko": "법무부, 오하이오 주립 의대 입시에서 인종에 따른 차별 발견",
-          "url": "https://www.justice.gov/opa/pr/justice-department-finds-ohio-state-medical-school-discriminates-based-race-admissions",
-          "date": "2026-10-21"
-        },
-        {
-          "title_en": "Justice Department Resolves Claims that Atlantic Beach, New York’s Zoning Code Violated Religious Land Use Provisions",
-          "title_ko": "법무부, 뉴욕의 구역 규정인 애틀랜틱 비치가 종교적 토지 사용 조항을 위반했다는 주장 해결",
-          "url": "https://www.justice.gov/opa/pr/justice-department-resolves-claims-atlantic-beach-new-yorks-zoning-code-violated-religious",
-          "date": "2026-10-21"
-        },
-        {
-          "title_en": "Trump Administration Denaturalizes Two People Who Gained U.S. Citizenship by Concealing Criminal Activity",
-          "title_ko": "트럼프 행정부는 범죄 행위를 은폐함으로써 미국 시민권을 얻은 두 사람을 비자연화합니다.",
-          "url": "https://www.justice.gov/opa/pr/trump-administration-denaturalizes-two-people-who-gained-us-citizenship-concealing-criminal",
-          "date": "2026-10-21"
-        },
-        {
-          "title_en": "Tennessee Man Sentenced to Over 17 Years in Prison for Arson and Attempting to Provide Material Support to Foreign Terrorist Organization",
-          "title_ko": "테네시 남성, 방화 및 외국 테러리스트 조직에 물질적 지원 제공 시도 혐의로 17년 이상의 징역형 선고",
-          "url": "https://www.justice.gov/opa/pr/tennessee-man-sentenced-over-17-years-prison-arson-and-attempting-provide-material-support",
-          "date": "2026-10-21"
-        },
-        {
-          "title_en": "Michigan Woman Pleads Guilty to Employment Tax Conspiracy",
-          "title_ko": "미시간 여성, 고용세 음모 혐의로 유죄 인정",
-          "url": "https://www.justice.gov/opa/pr/michigan-woman-pleads-guilty-employment-tax-conspiracy-0",
-          "date": "2026-10-21"
-        },
-        {
-          "title_en": "DOJ’s Fraud Division, Department of Agriculture, and USDA OIG Uncover Nearly $42M in SNAP Benefit Fraud in Nationwide Enforcement Surge Involving Suspected Illegal Aliens",
-          "title_ko": "DOJ의 사기 부서, 농무부 및 USDA OIG는 불법 체류자로 의심되는 전국 집행 탄력요금제에서 거의 $ 42M에 달하는 SNAP 혜택 사기를 발견합니다.",
-          "url": "https://www.justice.gov/opa/pr/dojs-fraud-division-department-agriculture-and-usda-oig-uncover-nearly-42m-snap-benefit",
-          "date": "2026-10-21"
-        },
-        {
-          "title_en": "Illicit SARMS Dealer Sentenced and His Company Ordered to Cease Operations and Forfeit $1.8M",
-          "title_ko": "불법 SARMS 딜러가 선고되었고 그의 회사는 운영을 중단하고 $ 180만 달러를 몰수하도록 명령받았습니다.",
-          "url": "https://www.justice.gov/opa/pr/illicit-sarms-dealer-sentenced-and-his-company-ordered-cease-operations-and-forfeit-18m",
-          "date": "2026-10-21"
-        },
-        {
-          "title_en": "Philippines-Based American Fraudster Pleads Guilty to Targeting Thousands of U.S. Servicemembers and Veterans",
-          "title_ko": "필리핀에 기반을 둔 미국 사기꾼은 수천 명의 미국 군인 및 재향 군인을 대상으로 유죄를 인정합니다.",
-          "url": "https://www.justice.gov/opa/pr/philippines-based-american-fraudster-pleads-guilty-targeting-thousands-us-servicemembers-and",
-          "date": "2026-10-20"
-        },
-        {
-          "title_en": "Michigan Woman Pleads Guilty to Employment Tax Conspiracy",
-          "title_ko": "미시간 여성, 고용세 음모 혐의로 유죄 인정",
-          "url": "https://www.justice.gov/opa/pr/michigan-woman-pleads-guilty-employment-tax-conspiracy",
-          "date": "2026-10-20"
-        },
-        {
-          "title_en": "Maryland Man Convicted of $18.7M Medicare Fraud for Respiratory Testing Scheme Targeting Nursing Homes",
-          "title_ko": "메릴랜드 남성, 요양원을 겨냥한 호흡기 검사 제도에 대한 메디케어 사기 혐의로 $ 18.7M 유죄 판결",
-          "url": "https://www.justice.gov/opa/pr/maryland-man-convicted-187m-medicare-fraud-respiratory-testing-scheme-targeting-nursing",
-          "date": "2026-10-20"
         }
       ],
       "note": ""
@@ -323,12 +329,6 @@
           "title_ko": "국립공원 관리청은 북극 국립공원 및 보호구역의 게이트에서 자급자족을 위한 오프로드 차량 접근을 제안합니다",
           "url": "https://www.doi.gov/pressreleases/national-park-service-proposes-road-vehicle-access-subsistence-gates-arctic-national",
           "date": "2026-10-16"
-        },
-        {
-          "title_en": "National Park Service Expands Visitor Access at Denali National Park and Preserve",
-          "title_ko": "국립공원 서비스, 데날리 국립공원 및 보호구역 방문객 접근 확대",
-          "url": "https://www.doi.gov/pressreleases/national-park-service-expands-visitor-access-denali-national-park-and-preserve",
-          "date": "2026-10-15"
         }
       ],
       "note": ""
@@ -420,6 +420,24 @@
       "list_url": "https://www.dhs.gov/news-releases",
       "items": [
         {
+          "title_en": "WORST OF THE WORST: ICE Arrests Alien Traffickers, Drug Traffickers, and Robbers",
+          "title_ko": "최악: ICE, 외국인 인신매매범, 마약 밀매범, 강도 체포",
+          "url": "https://www.dhs.gov/news/2026/10/22/worst-worst-ice-arrests-alien-traffickers-drug-traffickers-and-robbers",
+          "date": "2026-10-22"
+        },
+        {
+          "title_en": "DHS Highlights Worst Illegal Aliens Arrested in Iowa",
+          "title_ko": "미국 국토안보부 (DHS), 아이오와에서 체포된 최악의 불법체류 외국인",
+          "url": "https://www.dhs.gov/news/2026/10/22/dhs-highlights-worst-illegal-aliens-arrested-iowa",
+          "date": "2026-10-22"
+        },
+        {
+          "title_en": "DHS Issues Statement After Man Attempts to Firebomb ICE Facility in Atlanta",
+          "title_ko": "DHS Issues Statement After Man Attempts to Firebomb ICE Facility in Atlanta",
+          "url": "https://www.dhs.gov/news/2026/10/22/dhs-issues-statement-after-man-attempts-firebomb-ice-facility-atlanta",
+          "date": "2026-10-22"
+        },
+        {
           "title_en": "DHS Highlights Worst Illegal Aliens Arrested in South Carolina",
           "title_ko": "미국 국토안보부 (DHS), 사우스캐롤라이나에서 체포된 최악의 불법체류 외국인",
           "url": "https://www.dhs.gov/news/2026/10/21/dhs-highlights-worst-illegal-aliens-arrested-south-carolina",
@@ -460,24 +478,6 @@
           "title_ko": "멀린 장관과 로드니 스콧 CBP 커미셔너, 애리조나 CBP 화물 처리 시설 방문",
           "url": "https://www.dhs.gov/news/2026/10/19/secretary-mullin-and-cbp-commissioner-rodney-scott-visit-cbp-cargo-processing",
           "date": "2026-10-19"
-        },
-        {
-          "title_en": "DHS Highlights Worst Illegal Aliens with Criminal Histories in the State of Kansas",
-          "title_ko": "캔자스 주에서 범죄 경력이 있는 최악의 불법 체류 외국인",
-          "url": "https://www.dhs.gov/news/2026/10/19/dhs-highlights-worst-illegal-aliens-criminal-histories-state-kansas",
-          "date": "2026-10-19"
-        },
-        {
-          "title_en": "WORST OF THE WORST: Over the Weekend, ICE Arrests Murderers, Pedophiles, Rapists, Drug Traffickers, and Other Dangerous Illegal Aliens",
-          "title_ko": "최악의 경우: 주말 동안 ICE는 살인자, 소아성애자, 강간범, 마약 밀매자 및 기타 위험한 불법 체류자를 체포합니다.",
-          "url": "https://www.dhs.gov/news/2026/10/19/worst-worst-over-weekend-ice-arrests-murderers-pedophiles-rapists-drug-traffickers",
-          "date": "2026-10-19"
-        },
-        {
-          "title_en": "ICE Arrests More Than 100 Gang Members in Less Than a Week",
-          "title_ko": "얼음, 일주일도 안돼 갱단원 100명 이상 체포",
-          "url": "https://www.dhs.gov/news/2026/10/19/ice-arrests-more-100-gang-members-less-week",
-          "date": "2026-10-19"
         }
       ],
       "note": ""
@@ -490,40 +490,34 @@
       "list_url": "https://news.va.gov/",
       "items": [
         {
-          "title_en": "Veteran Services Event (Many Farms Chapter House)",
-          "title_ko": "재향 군인 서비스 이벤트 (Many Farms Chapter House)",
-          "url": "https://discover.va.gov/events/veteran-services-event-many-farms-chapter-house/",
-          "date": "2026-10-22"
+          "title_en": "Cochise County Veteran Stand Down",
+          "title_ko": "코치즈 카운티 베테랑 스탠드 다운",
+          "url": "https://discover.va.gov/events/cochise-county-veteran-stand-down/",
+          "date": "2026-10-23"
         },
         {
-          "title_en": "We CARE Vet Fair™: Metro Atlanta – Thurs., Oct. 22, 2026",
-          "title_ko": "우리는 수의사 박람회™ 를 신경 씁니다: 메트로 애틀랜타 – 목. 2026년 10월 22일",
-          "url": "https://discover.va.gov/events/we-care-vet-fair-metro-atlanta-thurs-oct-22-2026/",
-          "date": "2026-10-22"
+          "title_en": "Navajo County Stand Down",
+          "title_ko": "나바호 카운티 스탠드 다운",
+          "url": "https://discover.va.gov/events/navajo-county-stand-down-2/",
+          "date": "2026-10-23"
         },
         {
-          "title_en": "Cortland Vet Fest",
-          "title_ko": "코틀랜드 수의사 축제",
-          "url": "https://discover.va.gov/events/cortland-vet-fest/",
-          "date": "2026-10-22"
+          "title_en": "Jacksonville Vet Center Community Resource Event",
+          "title_ko": "잭슨빌 수의사 센터 커뮤니티 리소스 이벤트",
+          "url": "https://discover.va.gov/events/jacksonville-vet-center-community-resource-event/",
+          "date": "2026-10-23"
         },
         {
-          "title_en": "Domestic Violence Awareness Month “PURPLE DAY” Activity",
-          "title_ko": "가정 폭력 인식의 달 '보라색의 날' 활동",
-          "url": "https://discover.va.gov/events/domestic-violence-awareness-month-purple-day-activity/",
-          "date": "2026-10-22"
+          "title_en": "Operation Connected Care",
+          "title_ko": "커넥티드 케어 운영",
+          "url": "https://discover.va.gov/events/operation-connected-care-2/",
+          "date": "2026-10-23"
         },
         {
-          "title_en": "Okmulgee American Legion Vet Center Outreach",
-          "title_ko": "옥멀지 아메리칸 리전 수의사 센터 봉사활동",
-          "url": "https://discover.va.gov/events/okmulgee-american-legion-vet-center-outreach/",
-          "date": "2026-10-22"
-        },
-        {
-          "title_en": "PACT Act – What Veterans Need to Know",
-          "title_ko": "PACT ACT – 재향 군인이 알아야 할 사항",
-          "url": "https://discover.va.gov/events/pact-act-what-veterans-need-to-know/",
-          "date": "2026-10-22"
+          "title_en": "RCS D3 410 Chicago Vet Center – VHA-VR Services",
+          "title_ko": "RCS D3 410 시카고 수의사 센터 – VHA-VR 서비스",
+          "url": "https://discover.va.gov/events/rcs-d3-410-chicago-vet-center-vha-vr-services/",
+          "date": "2026-10-23"
         }
       ],
       "note": ""
@@ -542,8 +536,8 @@
     "gemini_key_present": true,
     "gemini_model": "gemini-3.8-flash",
     "gemini_translate_batches": {
-      "translate_ok": 2,
-      "translate_fail": 7
+      "translate_ok": 0,
+      "translate_fail": 9
     },
     "last_gemini_error": "summary: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota ex"
   }
