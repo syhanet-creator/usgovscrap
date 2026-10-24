@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22 23:52:30",
+  "generated_at": "2026-10-23 23:44:44",
   "period_days": 7,
   "translation_available": true,
   "agencies": [
@@ -10,6 +10,18 @@
       "color": "#1f3a5f",
       "list_url": "https://www.whitehouse.gov/briefing-room/statements-releases/",
       "items": [
+        {
+          "title_en": "First Lady Melania Trump Secures Ceasefire Between Russia and Ukraine, Localized to Oleshky",
+          "title_ko": "영부인 멜라니아 트럼프, 러시아와 우크라이나 간 휴전 보장, 올레쉬키로 현지화",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-secures-ceasefire-between-russia-and-ukraine-localized-to-oleshky/",
+          "date": "2026-10-23"
+        },
+        {
+          "title_en": "Presidential Message on the World Series",
+          "title_ko": "월드 시리즈에 대한 대통령 메시지",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-the-world-series/",
+          "date": "2026-10-23"
+        },
         {
           "title_en": "Congressional Bills H.R. 952 and H.R. 7022 Signed into Law",
           "title_ko": "의회 법안 H.R. 952 및 H.R. 7022 법률에 서명",
@@ -33,12 +45,6 @@
           "title_ko": "퍼스트 레이디 멜라니아 트럼프 챔피언스 새로운 미국 여성 건강 이니셔티브",
           "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-champions-new-u-s-womens-health-initiative/",
           "date": "2026-10-19"
-        },
-        {
-          "title_en": "Congressional Bills S. 240, S. 283, and S. 2403 Signed into Law",
-          "title_ko": "의회 법안 S. 240, S. 283 및 S. 2403 법률에 서명",
-          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-s-240-s-283-and-s-2403-signed-into-law/",
-          "date": "2026-10-15"
         }
       ],
       "note": ""
@@ -50,6 +56,24 @@
       "color": "#0b3d91",
       "list_url": "https://www.state.gov/press-releases/",
       "items": [
+        {
+          "title_en": "United States Welcomes Paraguay as Newest Pax Silica Signatory",
+          "title_ko": "미국, 파라과이를 최신 PAX 실리카 서명국으로 환영",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/united-states-welcomes-paraguay-as-newest-pax-silica-signatory/",
+          "date": "2026-10-23"
+        },
+        {
+          "title_en": "Secretary of State Marco Rubio and U.S. Ambassador to India Sergio Gor with Raj Chengappa of India Today",
+          "title_ko": "마르코 루비오 국무장관과 세르지오 고르 (Sergio Gor) 주한 인도 미국대사가 오늘 인도의 라즈 청가파 (Raj Chengappa) 와 함께",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-and-u-s-ambassador-to-india-sergio-gor-with-raj-chengappa-of-india-today/",
+          "date": "2026-10-22"
+        },
+        {
+          "title_en": "Securing the Pacific Together: U.S. Commitments at the Inaugural U.S.-Pacific Islands Conference of Police Ministers (COPMIN)",
+          "title_ko": "함께 태평양을 확보하기: 미국 태평양 제도 경찰 장관 회의 (COPMIN) 에서의 미국 약속",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/securing-the-pacific-together-u-s-commitments-at-the-inaugural-u-s-pacific-islands-conference-of-police-ministers-copmin/",
+          "date": "2026-10-22"
+        },
         {
           "title_en": "Advancing Venezuela’s Democratic Transition Through Reconciliation Talks",
           "title_ko": "화해 회담을 통한 베네수엘라의 민주적 전환 추진",
@@ -91,24 +115,6 @@
           "title_ko": "번영과 안보 증진을 위한 미국-파라과이 협력",
           "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/u-s-paraguay-cooperation-to-advance-prosperity-and-security/",
           "date": "2026-10-21"
-        },
-        {
-          "title_en": "Co-Chairs’ Statement on the 7th U.S.-ASEAN Cyber Policy Dialogue",
-          "title_ko": "제7차 미국-아세안 사이버정책대화 공동의장 성명서",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/co-chairs-statement-on-the-7th-u-s-asean-cyber-policy-dialogue/",
-          "date": "2026-10-21"
-        },
-        {
-          "title_en": "Statement on the Fourth United States-Singapore Cyber Dialogue",
-          "title_ko": "네 번째 미국-싱가포르 사이버 대화에 관한 성명서",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/statement-on-the-fourth-united-states-singapore-cyber-dialogue/",
-          "date": "2026-10-21"
-        },
-        {
-          "title_en": "Joint Statement on United States-Liechtenstein Strategic and Economic Partnership Dialogue",
-          "title_ko": "미국-리히텐슈타인 전략 및 경제동반자 대화에 관한 공동성명",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/joint-statement-on-united-states-liechtenstein-strategic-and-economic-partnership-dialogue/",
-          "date": "2026-10-21"
         }
       ],
       "note": ""
@@ -122,51 +128,39 @@
       "items": [
         {
           "title_en": "Treasury Issues Proposed Rule to Implement Comprehensive Outbound Investment National Security Act",
-          "title_ko": "포괄적 아웃바운드 투자 국가보안법 시행을 위한 재무부 쟁점 제안 규칙",
+          "title_ko": "미 재무부, 포괄적 대외투자 국가안보법 시행을 위한 규정 제정안 발표",
           "url": "https://home.treasury.gov/news/press-releases/sb0667/",
           "date": "2026-10-22"
         },
         {
           "title_en": "READOUT: Secretary of the Treasury Scott Bessent’s Meeting with President Santiago Peña of Paraguay",
-          "title_ko": "참고: 스콧 베슨트 (Scott Bessent) 재무장관이 파라과이의 산티아고 페냐 (Santiago Peña) 대통령과 회담",
+          "title_ko": "스콧 베센트 미 재무장관, 산티아고 페냐 파라과이 대통령과 회담 결과",
           "url": "https://home.treasury.gov/news/press-releases/sb0666/",
           "date": "2026-10-22"
         },
         {
           "title_en": "The Trump Administration is Making Homeownership More Affordable",
-          "title_ko": "트럼프 행정부는 주택 소유를 더 저렴하게 만들고 있습니다",
+          "title_ko": "트럼프 행정부, 주택 구매 부담 완화 추진",
           "url": "https://home.treasury.gov/news/press-releases/sb0665/",
           "date": "2026-10-22"
         },
         {
           "title_en": "Operation Economic Outcast Targets Iran’s Shadow Fleet Networks",
-          "title_ko": "이란의 그림자 함대 네트워크를 겨냥한 경제 추방 작전",
+          "title_ko": "'경제적 추방 작전', 이란의 그림자 함대 네트워크 정조준",
           "url": "https://home.treasury.gov/news/press-releases/sb0664/",
           "date": "2026-10-21"
         },
         {
           "title_en": "U.S. Treasury Identifies $270 Million in Suspicious Activity Linked to Federal Student Aid Fraud",
-          "title_ko": "미국 재무부는 연방 학생 지원 사기와 관련된 의심스러운 활동에서 2억 7천만 $ 를 식별합니다",
+          "title_ko": "미 재무부, 연방 학자금 지원 사기 관련 2억 7,000만 달러 규모 의심 거래 적발",
           "url": "https://home.treasury.gov/news/press-releases/sb0663/",
           "date": "2026-10-19"
         },
         {
           "title_en": "Treasury International Capital Data for August 2026",
-          "title_ko": "2026년 8월 재무부 국제 자본 데이터",
+          "title_ko": "2026년 8월 미 재무부 국제자본(TIC) 통계",
           "url": "https://home.treasury.gov/news/press-releases/sb0662/",
           "date": "2026-10-16"
-        },
-        {
-          "title_en": "Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks",
-          "title_ko": "이란 정권의 종교 자선 네트워크 남용을 겨냥한 경제 추방 작전",
-          "url": "https://home.treasury.gov/news/press-releases/sb0661/",
-          "date": "2026-10-15"
-        },
-        {
-          "title_en": "Operation Economic Outcast Targets Iran’s International Financial Networks and Shadow Banking Architecture",
-          "title_ko": "이란의 국제 금융 네트워크와 섀도우 뱅킹 아키텍처를 겨냥한 경제 열세 작전",
-          "url": "https://home.treasury.gov/news/press-releases/sb0660/",
-          "date": "2026-10-15"
         }
       ],
       "note": ""
@@ -179,38 +173,56 @@
       "list_url": "https://www.war.gov/News/Releases/",
       "items": [
         {
+          "title_en": "Fighting to Stay: Army Combatives Team Builds Camaraderie, Retention",
+          "title_ko": "군에 남기 위한 투혼: 미 육군 격투팀, 전우애 다지며 복무 유지율 높인다",
+          "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4632514/fighting-to-stay-army-combatives-team-builds-camaraderie-retention/",
+          "date": "2026-10-23"
+        },
+        {
+          "title_en": "Naval Unmanned Helicopters Get Second Life",
+          "title_ko": "미 해군 무인 헬리콥터, 새로운 생명을 얻다",
+          "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4632373/naval-unmanned-helicopters-get-second-life/",
+          "date": "2026-10-23"
+        },
+        {
+          "title_en": "Signers of the Declaration of Independence: South Carolina, Part 1",
+          "title_ko": "미국 독립선언서 서명자들: 사우스캐롤라이나주 (1편)",
+          "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4578267/signers-of-the-declaration-of-independence-south-carolina-part-1/",
+          "date": "2026-10-23"
+        },
+        {
           "title_en": "Guard Program Trains Warfighters for Emerging Battlefield Threats",
-          "title_ko": "경비 프로그램은 신흥 전장 위협에 대한 전투원을 훈련",
+          "title_ko": "주방위군 프로그램, 새로운 전장 위협에 맞설 전투원 훈련",
           "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4631564/guard-program-trains-warfighters-for-emerging-battlefield-threats/",
           "date": "2026-10-22"
         },
         {
           "title_en": "Oregon National Guard Honors Vietnam War Veteran",
-          "title_ko": "오리건 주 방위군, 베트남 전쟁 참전 용사 영예",
+          "title_ko": "오리건 주방위군, 베트남전 참전용사에 경의 표해",
           "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4630576/oregon-national-guard-honors-vietnam-war-veteran/",
           "date": "2026-10-21"
         },
         {
           "title_en": "Air Force Cadets Explore Human-Machine Teaming Through Research",
-          "title_ko": "공군 후보생, 연구를 통해 인간-기계 팀 구성 탐구",
+          "title_ko": "미 공군사관생도들, 연구 통해 인간-기계 협업 체계 탐구",
           "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4630437/air-force-cadets-explore-human-machine-teaming-through-research/",
           "date": "2026-10-21"
         },
         {
           "title_en": "Meet the Army Athletes Competing in the United World Wrestling Championships",
-          "title_ko": "유나이티드 월드 레슬링 챔피언십에 출전하는 육군 선수들을 만나보세요",
+          "title_ko": "세계레슬링선수권대회에 출전하는 미 육군 선수들을 만나다",
           "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4628733/meet-the-army-athletes-competing-in-the-united-world-wrestling-championships/",
           "date": "2026-10-19"
         },
         {
           "title_en": "Medal of Honor Monday: Army Col. Lloyd L. 'Scooter' Burke",
-          "title_ko": "명예 훈장 월요일: 육군 중령 로이드 L. '스쿠터' 버크",
+          "title_ko": "명예훈장의 날: 미 육군 로이드 L. '스쿠터' 버크 대령",
           "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4582555/medal-of-honor-monday-army-col-lloyd-l-scooter-burke/",
           "date": "2026-10-19"
         },
         {
           "title_en": "Signers of the Declaration of Independence: New Jersey, Part 2",
-          "title_ko": "독립선언서 서명인: 뉴저지, 2부",
+          "title_ko": "미국 독립선언서 서명자들: 뉴저지주 (2편)",
           "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4573230/signers-of-the-declaration-of-independence-new-jersey-part-2/",
           "date": "2026-10-16"
         }
@@ -225,76 +237,76 @@
       "list_url": "https://www.justice.gov/news",
       "items": [
         {
-          "title_en": "Cartel Commander Charged with International Cocaine and Methamphetamine Trafficking Conspiracy and Firearm Offenses",
-          "title_ko": "국제 코카인 및 메스암페타민 밀매 음모 및 총기 범죄 혐의로 기소된 카르텔 사령관",
+          "title_en": "Chinese National Extradited for Alleged Role in  Multimillion-Dollar Cryptocurrency Scam Targeting U.S. Citizens",
+          "title_ko": "미국인 대상 수백만 달러 규모 암호화폐 사기 연루 혐의 중국인 인도",
+          "url": "https://www.justice.gov/opa/pr/chinese-national-extradited-alleged-role-multimillion-dollar-cryptocurrency-scam-targeting",
+          "date": "2026-10-23"
+        },
+        {
+          "title_en": "Justice Department Defends Army Corps’ Thorough Review for CWA Permit, Paving the Way for Much Needed Housing Development in Charleston, South Carolina",
+          "title_ko": "법무부, 육군공병단의 청정수법 허가 검토 타당성 옹호… 사우스캐롤라이나주 찰스턴 주택 개발 기반 마련",
+          "url": "https://www.justice.gov/opa/pr/justice-department-defends-army-corps-thorough-review-cwa-permit-paving-way-much-needed",
+          "date": "2026-10-23"
+        },
+        {
+          "title_en": "U.S. Government Contractor Arrested for Allegedly Leaking National Defense Information",
+          "title_ko": "국방 정보 유출 혐의 미국 정부 도급업체 직원 체포",
+          "url": "https://www.justice.gov/opa/pr/us-government-contractor-arrested-allegedly-leaking-national-defense-information",
+          "date": "2026-10-23"
+        },
+        {
+          "title_en": "Four Individuals Plead Guilty to Conspiracy to Make and Distribute Animal Crush Videos Involving Monkeys",
+          "title_ko": "원숭이 학대·도살 영상 제작 및 유포 공모 혐의 4명 유죄 인정",
+          "url": "https://www.justice.gov/opa/pr/four-individuals-plead-guilty-conspiracy-make-and-distribute-animal-crush-videos-involving",
+          "date": "2026-10-23"
+        },
+        {
+          "title_en": "California Couple Sentenced for Trafficking Protected Wildlife",
+          "title_ko": "보호 야생동물 밀매 혐의 캘리포니아 부부 유죄 선고",
+          "url": "https://www.justice.gov/opa/pr/california-couple-sentenced-trafficking-protected-wildlife",
+          "date": "2026-10-23"
+        },
+        {
+          "title_en": "Telemedicine Company Owner Sentenced to 20 Years in Prison for $46M Medicare Fraud Scheme",
+          "title_ko": "4,600만 달러 규모 메디케어 사기 저지른 원격의료업체 대표, 징역 20년 선고",
+          "url": "https://www.justice.gov/opa/pr/telemedicine-company-owner-sentenced-20-years-prison-46m-medicare-fraud-scheme",
+          "date": "2026-10-23"
+        },
+        {
+          "title_en": "Associate Attorney General Stanley E. Woodward, Jr. on Federal Government Pro Bono Week 2026",
+          "title_ko": "스탠리 E. 우드워드 주니어 법무차관보, 2026년 연방정부 프로보노 주간 기념사",
+          "url": "https://www.justice.gov/opa/video/associate-attorney-general-stanley-e-woodward-jr-federal-government-pro-bono-week-2026",
+          "date": "2026-10-23"
+        },
+        {
+          "title_en": "Cartel Commander Charged with International Cocaine and Methamphetamine Trafficking Conspiracy and Firearm Offenses in Homeland Security Task Force Investigation",
+          "title_ko": "국토안보 합동수사팀, 국제 코카인·필로폰 밀매 공모 및 총기 범죄 혐의로 카르텔 지휘관 기소",
           "url": "https://www.justice.gov/opa/pr/cartel-commander-charged-international-cocaine-and-methamphetamine-trafficking-conspiracy",
           "date": "2026-10-22"
         },
         {
           "title_en": "Environmental Crimes Bulletin – September 2026",
-          "title_ko": "환경범죄 게시판 – 2026년 9월",
+          "title_ko": "환경 범죄 소식지 – 2026년 9월",
           "url": "https://www.justice.gov/enrd/blog/environmental-crimes-bulletin-september-2026",
           "date": "2026-10-22"
         },
         {
           "title_en": "Justice Department Opens Investigation into Alleged Firearm Permitting Abuses in Two Connecticut Municipalities",
-          "title_ko": "법무부, 두 코네티컷 지방 자치 단체에서 총기 남용 혐의에 대한 조사 개시",
+          "title_ko": "법무부, 코네티컷주 2개 지자체의 총기 소지 허가권 남용 의혹 조사 착수",
           "url": "https://www.justice.gov/opa/pr/justice-department-opens-investigation-alleged-firearm-permitting-abuses-two-connecticut",
           "date": "2026-10-22"
         },
         {
           "title_en": "Justice Department’s Civil Division and the Department of Health & Human Services Announce Anti-Fraud Healthcare Self-Disclosure Pilot Program",
-          "title_ko": "법무부 민사부와 보건복지부, 부정 방지 헬스케어 자체 공개 시범 프로그램 발표",
+          "title_ko": "법무부 민사국 및 보건복지부, 의료 사기 자진 신고 시범 프로그램 발표",
           "url": "https://www.justice.gov/opa/pr/justice-departments-civil-division-and-department-health-human-services-announce-anti-fraud",
           "date": "2026-10-22"
         },
         {
           "title_en": "Los Angeles Health Care Fraud Takedown Results in Charges Against 15 Defendants, Including 6 Medical Professionals, Nearly $2 Billion in Loss",
-          "title_ko": "로스앤젤레스 보건의료 사기 게시 중단으로 인해 의료 전문가 6명을 포함한 15명의 피고에게 $ 20억에 가까운 손실이 발생했습니다.",
+          "title_ko": "로스앤젤레스 의료 사기 적발로 의료진 6명 포함 15명 기소… 피해액 약 20억 달러",
           "url": "https://www.justice.gov/opa/pr/los-angeles-health-care-fraud-takedown-results-charges-against-15-defendants-including-6",
           "date": "2026-10-22"
-        },
-        {
-          "title_en": "Utah Man Charged with Attempted Hate Crime, and other Crimes After Allegedly Making Online Threats to “blow up” a Synagogue",
-          "title_ko": "증오 범죄 미수 혐의로 기소된 유타주 남성, 회당을 '날려버리겠다' 는 온라인 협박을 한 혐의로 기소된 후 기타 범죄",
-          "url": "https://www.justice.gov/opa/pr/utah-man-charged-attempted-hate-crime-and-other-crimes-after-allegedly-making-online-threats",
-          "date": "2026-10-22"
-        },
-        {
-          "title_en": "Justice Department Secures Settlement of Lawsuit Against Oklahoma Landlord for Refusing to Rent to a Family with a Child",
-          "title_ko": "법무부, 자녀가 있는 가족에게 임대를 거부한 오클라호마 집주인에 대한 소송 합의 확보",
-          "url": "https://www.justice.gov/opa/pr/justice-department-secures-settlement-lawsuit-against-oklahoma-landlord-refusing-rent-family",
-          "date": "2026-10-22"
-        },
-        {
-          "title_en": "Former Eminem Employee Pleads Guilty to Criminal Infringement of Copyright",
-          "title_ko": "전 Eminem 직원, 저작권 침해에 대한 유죄 인정",
-          "url": "https://www.justice.gov/opa/pr/former-eminem-employee-pleads-guilty-criminal-infringement-copyright",
-          "date": "2026-10-22"
-        },
-        {
-          "title_en": "Attorney General, FBI Director Announce Significant Law Enforcement Action",
-          "title_ko": "법무장관, FBI 국장, 중대한 사법기관 조치 발표",
-          "url": "https://www.justice.gov/opa/video/attorney-general-fbi-director-announce-significant-law-enforcement-action",
-          "date": "2026-10-22"
-        },
-        {
-          "title_en": "Virginia State Senator Indicted for Leading a Criminal Marijuana Distribution Enterprise",
-          "title_ko": "버지니아 주 상원의원, 범죄 마리화나 유통 기업을 이끈 혐의로 기소",
-          "url": "https://www.justice.gov/opa/pr/virginia-state-senator-indicted-leading-criminal-marijuana-distribution-enterprise",
-          "date": "2026-10-22"
-        },
-        {
-          "title_en": "Las Vegas Man Sentenced to Prison in $5M Tax Refund Fraud Scheme",
-          "title_ko": "라스베이거스 남성, $ 500만 세금 환급 사기 제도로 징역형 선고",
-          "url": "https://www.justice.gov/opa/pr/las-vegas-man-sentenced-prison-5m-tax-refund-fraud-scheme",
-          "date": "2026-10-21"
-        },
-        {
-          "title_en": "Prolific Chinese Money Launderer Sentenced for Laundering Drug Trafficking Proceeds Following Homeland Security Task Force Investigation",
-          "title_ko": "국토 안보 태스크 포스 조사에 따라 마약 밀매 수익금 세탁 혐의로 선고된 다산 중국 돈세탁업자",
-          "url": "https://www.justice.gov/opa/pr/prolific-chinese-money-launderer-sentenced-laundering-drug-trafficking-proceeds-following",
-          "date": "2026-10-21"
         }
       ],
       "note": ""
@@ -308,25 +320,25 @@
       "items": [
         {
           "title_en": "USGS Releases Assessment of Undiscovered Natural Gas Resources in Alaska’s North Slope",
-          "title_ko": "USGS, 알래스카 북쪽 경사면에서 발견되지 않은 천연 가스 자원 평가 발표",
+          "title_ko": "미국 지질조사국, 알래스카 노스슬로프의 미발견 천연가스 자원 평가 결과 발표",
           "url": "https://www.doi.gov/pressreleases/usgs-releases-assessment-undiscovered-natural-gas-resources-alaskas-north-slope",
           "date": "2026-10-21"
         },
         {
           "title_en": "Chiricahua National Monument Becomes America’s Newest National Park",
-          "title_ko": "치리카후아국립기념물이 미국의 최신 국립공원이 되다",
+          "title_ko": "치리카우아 국가기념물, 미국의 새로운 국립공원으로 지정",
           "url": "https://www.doi.gov/pressreleases/chiricahua-national-monument-becomes-americas-newest-national-park",
           "date": "2026-10-21"
         },
         {
           "title_en": "Interior Finalizes Rule Restoring Alaska-Specific Management Framework for National Parks and Preserves",
-          "title_ko": "인테리어, 국립공원 및 보존을 위한 알래스카별 관리 프레임워크를 복원하는 규칙 확정",
+          "title_ko": "미 내무부, 국립공원 및 보호구역 대상 알래스카 맞춤형 관리 체계 복원 규정 최종 확정",
           "url": "https://www.doi.gov/pressreleases/interior-finalizes-rule-restoring-alaska-specific-management-framework-national-parks",
           "date": "2026-10-16"
         },
         {
           "title_en": "National Park Service Proposes Off-Road Vehicle Access for Subsistence in Gates of the Arctic National Park and Preserve",
-          "title_ko": "국립공원 관리청은 북극 국립공원 및 보호구역의 게이트에서 자급자족을 위한 오프로드 차량 접근을 제안합니다",
+          "title_ko": "국립공원관리청, 게이츠오브디아틱 국립공원 및 보호구역 내 생계 목적 오프로드 차량 진입 허용 제안",
           "url": "https://www.doi.gov/pressreleases/national-park-service-proposes-road-vehicle-access-subsistence-gates-arctic-national",
           "date": "2026-10-16"
         }
@@ -395,10 +407,10 @@
       "list_url": "https://www.energy.gov/news",
       "items": [
         {
-          "title_en": "FACT SHEET: The Energy Department is Advancing the Constitution Pipeline to Strengthen National Security and Lower Energy Costs in the Northeast",
-          "title_ko": "팩트 시트: 에너지 부서는 동북아의 국가 안보 및 에너지 비용 절감을 강화하기 위해 헌법 파이프 라인을 발전시키고 있습니다.",
-          "url": "https://www.energy.gov/articles/fact-sheet-energy-department-advancing-constitution-pipeline-strengthen-national-security",
-          "date": "2026-10-16"
+          "title_en": "Energy Department Authorizes Strategic Petroleum Reserve Exchange to Support Fuel Supply Stability",
+          "title_ko": "에너지부, 연료 공급 안정성 지원을 위한 전략적 석유 매장량 교환 승인",
+          "url": "https://www.energy.gov/articles/energy-department-authorizes-strategic-petroleum-reserve-exchange-support-fuel-supply",
+          "date": "2026-10-23"
         }
       ],
       "note": ""
@@ -419,6 +431,30 @@
       "color": "#00274d",
       "list_url": "https://www.dhs.gov/news-releases",
       "items": [
+        {
+          "title_en": "Secretary Mullin Visits U.S. Coast Guard Facilities in North Carolina",
+          "title_ko": "멀린 장관, 노스캐롤라이나의 미국 해안경비대 시설 방문",
+          "url": "https://www.dhs.gov/news/2026/10/23/secretary-mullin-visits-us-coast-guard-facilities-north-carolina",
+          "date": "2026-10-23"
+        },
+        {
+          "title_en": "DHS Issues Statement After Illegal Alien Attacks Iwo Jima Memorial in Quantico, Virginia and Decapitates Statue",
+          "title_ko": "미국 국토안보부 (DHS), 버지니아주 콴티코에 있는 이오지마 기념관 (Iwo Jima Memorial) 과 참수 동상 (Decapitates Statue) 에서 불법적인 외계인 공격",
+          "url": "https://www.dhs.gov/news/2026/10/23/dhs-issues-statement-after-illegal-alien-attacks-iwo-jima-memorial-quantico",
+          "date": "2026-10-23"
+        },
+        {
+          "title_en": "WORST OF THE WORST: ICE Arrests Murderers, Pedophiles, and Sexual Predators",
+          "title_ko": "최악의 상황: ICE, 살인자, 소아성애자, 성적 약탈자 체포",
+          "url": "https://www.dhs.gov/news/2026/10/23/worst-worst-ice-arrests-murderers-pedophiles-and-sexual-predators",
+          "date": "2026-10-23"
+        },
+        {
+          "title_en": "HSI and FBI Arrest Ten Aliens for Voter Fraud in North Carolina",
+          "title_ko": "HSI와 FBI, 노스캐롤라이나에서 유권자 사기 혐의로 외국인 10명 체포",
+          "url": "https://www.dhs.gov/news/2026/10/23/hsi-and-fbi-arrest-ten-aliens-voter-fraud-north-carolina",
+          "date": "2026-10-23"
+        },
         {
           "title_en": "WORST OF THE WORST: ICE Arrests Alien Traffickers, Drug Traffickers, and Robbers",
           "title_ko": "최악: ICE, 외국인 인신매매범, 마약 밀매범, 강도 체포",
@@ -454,30 +490,6 @@
           "title_ko": "불법 체류자가 SNAP 혜택을 훔치고 미국 납세자를 사취한 것은 대규모 사기 방지 단속의 첫 번째 물결에 불과합니다.",
           "url": "https://www.dhs.gov/news/2026/10/21/illegal-aliens-caught-stealing-snap-benefits-defrauding-american-taxpayer-are-just",
           "date": "2026-10-21"
-        },
-        {
-          "title_en": "WORST OF THE WORST: ICE Arrests Pedophiles, Violent Assailants, and Other Public Safety Threats",
-          "title_ko": "최악의 경우: ICE, 소아성애자, 폭력 가해자 및 기타 공공 안전 위협 체포",
-          "url": "https://www.dhs.gov/news/2026/10/20/worst-worst-ice-arrests-pedophiles-violent-assailants-and-other-public-safety",
-          "date": "2026-10-20"
-        },
-        {
-          "title_en": "Woman Sentenced to More Than a Year in Prison After Assaulting DHS Officers in Florida",
-          "title_ko": "플로리다에서 국토안보부 장교를 폭행한 후 1년 이상의 징역형을 선고받은 여성",
-          "url": "https://www.dhs.gov/news/2026/10/20/woman-sentenced-more-year-prison-after-assaulting-dhs-officers-florida",
-          "date": "2026-10-20"
-        },
-        {
-          "title_en": "DHS Highlights Worst Illegal Aliens Arrested in North Carolina",
-          "title_ko": "미국 국토안보부 (DHS), 노스캐롤라이나에서 체포된 최악의 불법체류 외국인",
-          "url": "https://www.dhs.gov/news/2026/10/20/dhs-highlights-worst-illegal-aliens-arrested-north-carolina",
-          "date": "2026-10-20"
-        },
-        {
-          "title_en": "Secretary Mullin and CBP Commissioner Rodney Scott Visit CBP Cargo Processing Facility in Arizona",
-          "title_ko": "멀린 장관과 로드니 스콧 CBP 커미셔너, 애리조나 CBP 화물 처리 시설 방문",
-          "url": "https://www.dhs.gov/news/2026/10/19/secretary-mullin-and-cbp-commissioner-rodney-scott-visit-cbp-cargo-processing",
-          "date": "2026-10-19"
         }
       ],
       "note": ""
@@ -536,8 +548,8 @@
     "gemini_key_present": true,
     "gemini_model": "gemini-3.8-flash",
     "gemini_translate_batches": {
-      "translate_ok": 0,
-      "translate_fail": 9
+      "translate_ok": 4,
+      "translate_fail": 5
     },
     "last_gemini_error": "summary: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota ex"
   }
