@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27 00:13:27",
+  "generated_at": "2026-10-28 00:14:24",
   "period_days": 7,
   "translation_available": true,
   "agencies": [
@@ -33,12 +33,6 @@
           "title_ko": "의회 법안 H.R. 952 및 H.R. 7022 법률에 서명",
           "url": "https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-h-r-952-and-h-r-7022-signed-into-law/",
           "date": "2026-10-22"
-        },
-        {
-          "title_en": "Congressional Bills H.R. 227, H.R. 837, H.R. 1721, H.R. 2388, H.R. 2481, H.R. 3620, H.R. 4307, H.R. 4467, H.R. 6380, and H.R. 7831 Signed into Law",
-          "title_ko": "의회 법안 H.R. 227, H.R. 837, H.R. 1721, H.R. 2388, H.R. 2481, H.R. 3620, H.R. 4307, H.R. 4467, H.R. 6380 및 H.R. 7831 법률에 서명",
-          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-h-r-227-h-r-837-h-r-1721-h-r-2388-h-r-2481-h-r-3620-h-r-4307-h-r-4467-h-r-6380-and-h-r-7831-signed-into-law/",
-          "date": "2026-10-20"
         }
       ],
       "note": ""
@@ -50,6 +44,30 @@
       "color": "#0b3d91",
       "list_url": "https://www.state.gov/press-releases/",
       "items": [
+        {
+          "title_en": "Secretary Rubio’s Call with Panama President Mulino",
+          "title_ko": "물리노 파나마 대통령과 루비오 장관의 통화",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-panama-president-mulino/",
+          "date": "2026-10-27"
+        },
+        {
+          "title_en": "Saint Vincent and the Grenadines National Day",
+          "title_ko": "세인트빈센트 그레나딘의 국경일",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/saint-vincent-and-the-grenadines-national-day-2/",
+          "date": "2026-10-27"
+        },
+        {
+          "title_en": "Secretary of State Marco Rubio on Venezuela",
+          "title_ko": "베네수엘라의 마르코 루비오 국무장관",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-on-venezuela/",
+          "date": "2026-10-26"
+        },
+        {
+          "title_en": "Joint Statement on Famine in Sudan",
+          "title_ko": "수단 기근에 관한 공동 성명서",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/joint-statement-on-famine-in-sudan/",
+          "date": "2026-10-26"
+        },
         {
           "title_en": "Joint Communiqué from U.S.–Pacific Islands Conference of Police Ministers",
           "title_ko": "미국 태평양 제도 경찰 장관 회의 공동 성명서",
@@ -85,30 +103,6 @@
           "title_ko": "카자흐스탄 공화국의 날",
           "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/kazakhstan-republic-day-2/",
           "date": "2026-10-24"
-        },
-        {
-          "title_en": "Zambia National Day",
-          "title_ko": "잠비아 국경일",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/zambia-national-day-2/",
-          "date": "2026-10-24"
-        },
-        {
-          "title_en": "United States Welcomes Paraguay as Newest Pax Silica Signatory",
-          "title_ko": "미국, 파라과이를 최신 PAX 실리카 서명국으로 환영",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/united-states-welcomes-paraguay-as-newest-pax-silica-signatory/",
-          "date": "2026-10-23"
-        },
-        {
-          "title_en": "Secretary of State Marco Rubio and U.S. Ambassador to India Sergio Gor with Raj Chengappa of India Today",
-          "title_ko": "마르코 루비오 국무장관과 세르지오 고르 (Sergio Gor) 주한 인도 미국대사가 오늘 인도의 라즈 청가파 (Raj Chengappa) 와 함께",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-and-u-s-ambassador-to-india-sergio-gor-with-raj-chengappa-of-india-today/",
-          "date": "2026-10-22"
-        },
-        {
-          "title_en": "Securing the Pacific Together: U.S. Commitments at the Inaugural U.S.-Pacific Islands Conference of Police Ministers (COPMIN)",
-          "title_ko": "함께 태평양을 확보하기: 미국 태평양 제도 경찰 장관 회의 (COPMIN) 에서의 미국 약속",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/securing-the-pacific-together-u-s-commitments-at-the-inaugural-u-s-pacific-islands-conference-of-police-ministers-copmin/",
-          "date": "2026-10-22"
         }
       ],
       "note": ""
@@ -213,6 +207,48 @@
       "list_url": "https://www.justice.gov/news",
       "items": [
         {
+          "title_en": "Justice Department Sues to Stop Secret Gender Transitions at Anne Arundel County Public Schools",
+          "title_ko": "법무부, 앤 아룬델 카운티 공립학교의 비밀 성별 전환 중단 소송",
+          "url": "https://www.justice.gov/opa/pr/justice-department-sues-stop-secret-gender-transitions-anne-arundel-county-public-schools",
+          "date": "2026-10-27"
+        },
+        {
+          "title_en": "American Woman Convicted of Receiving Military Training From ISIS in Syria",
+          "title_ko": "시리아에서 ISIS로부터 군사 훈련을 받은 혐의로 유죄 판결을 받은 미국 여성",
+          "url": "https://www.justice.gov/opa/pr/american-woman-convicted-receiving-military-training-isis-syria",
+          "date": "2026-10-27"
+        },
+        {
+          "title_en": "Gainesville Woman Convicted in $8.6M Medicare Fraud Scheme",
+          "title_ko": "$ 8.6M 메디케어 사기 제도로 유죄 판결을 받은 게인즈빌 여성",
+          "url": "https://www.justice.gov/opa/pr/gainesville-woman-convicted-86m-medicare-fraud-scheme",
+          "date": "2026-10-27"
+        },
+        {
+          "title_en": "Contractor Pleads Guilty to Paying Kickbacks Related to U.S. Postal Service Facilities Repair Contracts",
+          "title_ko": "계약자는 미국 우편 서비스 시설 수리 계약과 관련된 리베이트를 지불하는 것에 대해 유죄를 인정합니다.",
+          "url": "https://www.justice.gov/opa/pr/contractor-pleads-guilty-paying-kickbacks-related-us-postal-service-facilities-repair",
+          "date": "2026-10-27"
+        },
+        {
+          "title_en": "Guatemalan National Pleads Guilty to Conspiracy to Commit Narcotics Trafficking",
+          "title_ko": "과테말라 국민, 마약 밀매 음모 혐의 유죄 인정",
+          "url": "https://www.justice.gov/opa/pr/guatemalan-national-pleads-guilty-conspiracy-commit-narcotics-trafficking",
+          "date": "2026-10-27"
+        },
+        {
+          "title_en": "Ukrainian National Sentenced for Role in Hacking Hospitals, Businesses, and Governments as Part of Ransomware Conspiracies Causing Over $100 Million in Losses",
+          "title_ko": "우크라이나 국민은 1억 달러 이상의 손실을 초래하는 랜섬웨어 음모의 일환으로 병원, 기업 및 정부를 해킹하는 역할을 선고받았습니다.",
+          "url": "https://www.justice.gov/opa/pr/ukrainian-national-sentenced-role-hacking-hospitals-businesses-and-governments-part",
+          "date": "2026-10-27"
+        },
+        {
+          "title_en": "National Security Division Announces First “Near Miss” Non-Prosecution Agreement Under the Department-wide Corporate Enforcement Policy",
+          "title_ko": "국가 안보 부서는 부서 전체 기업 집행 정책에 따라 첫 번째 \"니어 미스\" 비 기소 계약을 발표합니다",
+          "url": "https://www.justice.gov/opa/pr/national-security-division-announces-first-near-miss-non-prosecution-agreement-under",
+          "date": "2026-10-27"
+        },
+        {
           "title_en": "Rata Data Validation Tool for Agency Annual FOIA Reports Now Available on FOIA.gov",
           "title_ko": "에이전시 연례 FOIA 보고서를 위한 RATA 데이터 검증 도구 이제 FOIA.gov에서 이용 가능",
           "url": "https://www.justice.gov/oip/blog/rata-data-validation-tool-agency-annual-foia-reports-now-available-foiagov",
@@ -241,48 +277,6 @@
           "title_ko": "법무부, 선거 관련 범죄로 48명의 외국인이 연루된 혐의 발표",
           "url": "https://www.justice.gov/opa/pr/justice-department-announces-charges-involving-48-aliens-election-related-crimes",
           "date": "2026-10-26"
-        },
-        {
-          "title_en": "National Crime Victimization Survey Shows Violent Crime Plummeted in 2025",
-          "title_ko": "전국 범죄 피해 조사에 따르면 2025년에 폭력 범죄가 급감한 것으로 나타났습니다.",
-          "url": "https://www.justice.gov/opa/pr/national-crime-victimization-survey-shows-violent-crime-plummeted-2025",
-          "date": "2026-10-26"
-        },
-        {
-          "title_en": "Chinese National Extradited for Alleged Role in  Multimillion-Dollar Cryptocurrency Scam Targeting U.S. Citizens",
-          "title_ko": "미국 시민을 겨냥한 수백만 달러의 암호화폐 사기에 대한 혐의로 인도된 중국 국가",
-          "url": "https://www.justice.gov/opa/pr/chinese-national-extradited-alleged-role-multimillion-dollar-cryptocurrency-scam-targeting",
-          "date": "2026-10-23"
-        },
-        {
-          "title_en": "Justice Department Defends Army Corps’ Thorough Review for CWA Permit, Paving the Way for Much Needed Housing Development in Charleston, South Carolina",
-          "title_ko": "법무부는 사우스캐롤라이나 주 찰스턴에서 필요한 주택 개발의 길을 열어주는 CWA 허가에 대한 육군 군단의 철저한 검토를 방어합니다.",
-          "url": "https://www.justice.gov/opa/pr/justice-department-defends-army-corps-thorough-review-cwa-permit-paving-way-much-needed",
-          "date": "2026-10-23"
-        },
-        {
-          "title_en": "U.S. Government Contractor Arrested for Allegedly Leaking National Defense Information",
-          "title_ko": "미국 정부 계약업체가 국방 정보를 유출한 혐의로 체포됨",
-          "url": "https://www.justice.gov/opa/pr/us-government-contractor-arrested-allegedly-leaking-national-defense-information",
-          "date": "2026-10-23"
-        },
-        {
-          "title_en": "Four Individuals Plead Guilty to Conspiracy to Make and Distribute Animal Crush Videos Involving Monkeys",
-          "title_ko": "네 명의 개인이 원숭이와 관련된 동물 분쇄 동영상 제작 및 배포 음모에 대해 유죄를 인정합니다.",
-          "url": "https://www.justice.gov/opa/pr/four-individuals-plead-guilty-conspiracy-make-and-distribute-animal-crush-videos-involving",
-          "date": "2026-10-23"
-        },
-        {
-          "title_en": "California Couple Sentenced for Trafficking Protected Wildlife",
-          "title_ko": "캘리포니아주 부부, 인신매매 보호 야생동물 선고",
-          "url": "https://www.justice.gov/opa/pr/california-couple-sentenced-trafficking-protected-wildlife",
-          "date": "2026-10-23"
-        },
-        {
-          "title_en": "Telemedicine Company Owner Sentenced to 20 Years in Prison for $46M Medicare Fraud Scheme",
-          "title_ko": "원격 의료 회사 오너, $ 46M 메디케어 사기 혐의로 징역 20년 선고",
-          "url": "https://www.justice.gov/opa/pr/telemedicine-company-owner-sentenced-20-years-prison-46m-medicare-fraud-scheme",
-          "date": "2026-10-23"
         }
       ],
       "note": ""
@@ -294,6 +288,12 @@
       "color": "#6b4423",
       "list_url": "https://www.doi.gov/news",
       "items": [
+        {
+          "title_en": "Secretary Burgum Signs Order to Support American Ranchers, Expand Grazing and Cut Red Tape",
+          "title_ko": "버검 장관, 미국 목장주 지원 명령 서명, 방목 확대 및 빨간 테이프 자르기",
+          "url": "https://www.doi.gov/pressreleases/secretary-burgum-signs-order-support-american-ranchers-expand-grazing-and-cut-red-0",
+          "date": "2026-10-27"
+        },
         {
           "title_en": "Department of the Interior and the National Park Service Welcome Desert Shield and Desert Storm Memorial to the National Mall",
           "title_ko": "내무부 및 국립공원 관리청 환영 사막 방패와 사막 폭풍 기념관이 내셔널 몰에 도착했습니다",
@@ -377,10 +377,10 @@
       "list_url": "https://www.energy.gov/news",
       "items": [
         {
-          "title_en": "Energy Department Authorizes Strategic Petroleum Reserve Exchange to Support Fuel Supply Stability",
-          "title_ko": "에너지부, 연료 공급 안정성 지원을 위한 전략적 석유 매장량 교환 승인",
-          "url": "https://www.energy.gov/articles/energy-department-authorizes-strategic-petroleum-reserve-exchange-support-fuel-supply",
-          "date": "2026-10-23"
+          "title_en": "Energy Department Announces $5 Billion Loan to Boost Nuclear Power and Help Lower Costs in Illinois, Maryland, and Pennsylvania",
+          "title_ko": "에너지부, 일리노이, 메릴랜드 및 펜실베이니아에서 원자력 발전을 촉진하고 비용 절감을 돕기 위한 50억 달러 대출 발표 ($ 50 Billion Loan)",
+          "url": "https://www.energy.gov/articles/energy-department-announces-5-billion-loan-boost-nuclear-power-and-help-lower-costs",
+          "date": "2026-10-27"
         }
       ],
       "note": ""
@@ -401,6 +401,30 @@
       "color": "#00274d",
       "list_url": "https://www.dhs.gov/news-releases",
       "items": [
+        {
+          "title_en": "DHS Highlights Most Barbaric Illegal Aliens Deported to Third Countries Because Their Home Countries Wouldn’t Take Them Back",
+          "title_ko": "미국 국토안보부 (DHS) 는 대부분의 야만적인 불법 체류 외국인들이 본국을 되찾지 못해 제3국으로 추방되었다고 강조합니다.",
+          "url": "https://www.dhs.gov/news/2026/10/27/dhs-highlights-most-barbaric-illegal-aliens-deported-third-countries-because-their",
+          "date": "2026-10-27"
+        },
+        {
+          "title_en": "DHS Highlights Worst Arrests of Illegal Aliens, Including Murderers, Child Abusers, Robbers, and Gang Members in ICE Custody",
+          "title_ko": "미국 국토안보부 (DHS) 는 ICE에 구금된 살인자, 아동 학대자, 강도, 갱단을 포함한 불법 체류자의 최악의 체포를 강조합니다.",
+          "url": "https://www.dhs.gov/news/2026/10/27/dhs-highlights-worst-arrests-illegal-aliens-including-murderers-child-abusers",
+          "date": "2026-10-27"
+        },
+        {
+          "title_en": "Secretary Mullin Meets with Coast Guard’s Elite Helicopter Interdiction Tactical Squadron",
+          "title_ko": "멀린 장관은 해안 경비대의 엘리트 헬리콥터 차단 전술 중대와 만난다.",
+          "url": "https://www.dhs.gov/news/2026/10/27/secretary-mullin-meets-coast-guards-elite-helicopter-interdiction-tactical-squadron",
+          "date": "2026-10-27"
+        },
+        {
+          "title_en": "WORST OF THE WORST: ICE Arrests Murderers, Pedophiles, and Sexual Predators",
+          "title_ko": "최악의 상황: ICE, 살인자, 소아성애자, 성적 약탈자 체포",
+          "url": "https://www.dhs.gov/news/2026/10/27/worst-worst-ice-arrests-murderers-pedophiles-and-sexual-predators",
+          "date": "2026-10-27"
+        },
         {
           "title_en": "ICE HSI Arrests Five Non-Citizens Charged with Illegally Voting in Florida",
           "title_ko": "ICE HSI, 플로리다에서 불법 투표로 기소된 비시민권자 5명 체포",
@@ -436,30 +460,6 @@
           "title_ko": "멀린 장관, 노스캐롤라이나의 미국 해안경비대 시설 방문",
           "url": "https://www.dhs.gov/news/2026/10/23/secretary-mullin-visits-us-coast-guard-facilities-north-carolina",
           "date": "2026-10-23"
-        },
-        {
-          "title_en": "DHS Issues Statement After Illegal Alien Attacks Iwo Jima Memorial in Quantico, Virginia and Decapitates Statue",
-          "title_ko": "미국 국토안보부 (DHS), 버지니아주 콴티코에 있는 이오지마 기념관 (Iwo Jima Memorial) 과 참수 동상 (Decapitates Statue) 에서 불법적인 외계인 공격",
-          "url": "https://www.dhs.gov/news/2026/10/23/dhs-issues-statement-after-illegal-alien-attacks-iwo-jima-memorial-quantico",
-          "date": "2026-10-23"
-        },
-        {
-          "title_en": "WORST OF THE WORST: ICE Arrests Murderers, Pedophiles, and Sexual Predators",
-          "title_ko": "최악의 상황: ICE, 살인자, 소아성애자, 성적 약탈자 체포",
-          "url": "https://www.dhs.gov/news/2026/10/23/worst-worst-ice-arrests-murderers-pedophiles-and-sexual-predators",
-          "date": "2026-10-23"
-        },
-        {
-          "title_en": "HSI and FBI Arrest Ten Aliens for Voter Fraud in North Carolina",
-          "title_ko": "HSI와 FBI, 노스캐롤라이나에서 유권자 사기 혐의로 외국인 10명 체포",
-          "url": "https://www.dhs.gov/news/2026/10/23/hsi-and-fbi-arrest-ten-aliens-voter-fraud-north-carolina",
-          "date": "2026-10-23"
-        },
-        {
-          "title_en": "WORST OF THE WORST: ICE Arrests Alien Traffickers, Drug Traffickers, and Robbers",
-          "title_ko": "최악: ICE, 외국인 인신매매범, 마약 밀매범, 강도 체포",
-          "url": "https://www.dhs.gov/news/2026/10/22/worst-worst-ice-arrests-alien-traffickers-drug-traffickers-and-robbers",
-          "date": "2026-10-22"
         }
       ],
       "note": ""
@@ -490,22 +490,22 @@
           "date": "2026-10-28"
         },
         {
-          "title_en": "Columbia VA Health Care System 2026 HCHV Homeless Veterans Stand Down.",
-          "title_ko": "Columbia VA Health Care System 2026 HCHV Homeless Veterans Stand Down.",
-          "url": "https://discover.va.gov/events/columbia-va-health-care-system-2026-hchv-homeless-veterans-stand-down/",
-          "date": "2026-10-27"
+          "title_en": "The Lenawee County Project Connect Stand Down will offer for a day full of resources designed to assist community members  including special support for Veterans. From housing support to healthcare services and Veteran employment  this event connects Veterans with essential resources to improve their quality of life.   VA Ann Arbor Healthcare representatives will be on hand to help Veterans  their families  and caregivers apply for  understand  and make the most of their VA healthcare benefits. There will be plenty of helpful information available on different healthcare services  specialties  and programs – including the PACT Act and other VA benefits.",
+          "title_ko": "The Lenawee County Project Connect Stand Down will offer for a day full of resources designed to assist community members  including special support for Veterans. From housing support to healthcare services and Veteran employment  this event connects Veterans with essential resources to improve their quality of life.   VA Ann Arbor Healthcare representatives will be on hand to help Veterans  their families  and caregivers apply for  understand  and make the most of their VA healthcare benefits. There will be plenty of helpful information available on different healthcare services  specialties  and programs – including the PACT Act and other VA benefits.",
+          "url": "https://discover.va.gov/events/the-lenawee-county-project-connect-stand-down-will-offer-for-a-day-full-of-resources-designed-to-assist-community-members-including-special-support-for-veterans-from-housing-support-to-healthcare-se/",
+          "date": "2026-10-28"
         },
         {
-          "title_en": "Elko Veteran Enrollment Fair",
-          "title_ko": "엘코 베테랑 등록 박람회",
-          "url": "https://discover.va.gov/events/elko-veteran-enrollment-fair/",
-          "date": "2026-10-27"
+          "title_en": "UAB Veteran Expo",
+          "title_ko": "UAB 베테랑 엑스포",
+          "url": "https://discover.va.gov/events/uab-veteran-expo/",
+          "date": "2026-10-28"
         },
         {
-          "title_en": "Lowell Vet Center Trunk or Treat",
-          "title_ko": "로웰 수의사 센터 트렁크 또는 간식",
-          "url": "https://discover.va.gov/events/lowell-vet-center-trunk-or-treat/",
-          "date": "2026-10-27"
+          "title_en": "Vineland NJ Mobile Stand Down",
+          "title_ko": "바인랜드 뉴저지 모바일 스탠드 다운",
+          "url": "https://discover.va.gov/events/vineland-nj-mobile-stand-down/",
+          "date": "2026-10-28"
         }
       ],
       "note": ""
