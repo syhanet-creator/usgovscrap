@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31 00:21:19",
+  "generated_at": "2026-10-31 23:55:59",
   "period_days": 7,
   "translation_available": true,
   "agencies": [
@@ -10,6 +10,12 @@
       "color": "#1f3a5f",
       "list_url": "https://www.whitehouse.gov/briefing-room/statements-releases/",
       "items": [
+        {
+          "title_en": "Presidential Message on Reformation Day",
+          "title_ko": "종교개혁의 날 대통령 메시지",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-reformation-day/",
+          "date": "2026-10-31"
+        },
         {
           "title_en": "First Lady Melania Trump Announces Halloween at the White House 2026",
           "title_ko": "영부인 멜라니아 트럼프, 2026년 백악관에서 할로윈을 알리다",
@@ -26,6 +32,24 @@
       "color": "#0b3d91",
       "list_url": "https://www.state.gov/press-releases/",
       "items": [
+        {
+          "title_en": "Secretary of State Marco Rubio at a Press Availability",
+          "title_ko": "언론에 공개된 마르코 루비오 국무장관",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-at-a-press-availability-2/",
+          "date": "2026-10-31"
+        },
+        {
+          "title_en": "G20 Chair’s Statement G20 Foreign Ministers’ Meeting",
+          "title_ko": "G20 의장성명 G20 외교장관회의",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/g20-chairs-statement-g20-foreign-ministers-meeting/",
+          "date": "2026-10-31"
+        },
+        {
+          "title_en": "Quad Joint Press Release on Economic Prosperity and Security",
+          "title_ko": "경제 번영 및 안보에 관한 쿼드 공동 보도 자료",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/quad-joint-press-release-on-economic-prosperity-and-security/",
+          "date": "2026-10-31"
+        },
         {
           "title_en": "Secretary of State Marco Rubio at the G20 Foreign Ministers’ Meeting Welcome Reception",
           "title_ko": "G20 외교장관회의 환영 리셉션에 참석한 마르코 루비오 국무장관",
@@ -67,24 +91,6 @@
           "title_ko": "ICG (International Contact Group for the Great Lakes Region) 의 공동 성명서",
           "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/joint-statement-from-the-international-contact-group-for-the-great-lakes-region-icg/",
           "date": "2026-10-30"
-        },
-        {
-          "title_en": "Secretary of State Marco Rubio at a Plenary Session on Geopolitical Issues",
-          "title_ko": "지정학적 문제에 관한 본회의에 참석한 마르코 루비오 국무장관",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-at-a-plenary-session-on-geopolitical-issues/",
-          "date": "2026-10-30"
-        },
-        {
-          "title_en": "Designation of Libyan Judicial Police Official for Involvement in Torture and Cruel, Inhumane, and Degrading Treatment",
-          "title_ko": "고문 및 잔인하고 비인도적이며 모욕적인 대우에 관여하기 위한 리비아 사법 경찰 공무원 지정",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/designation-of-libyan-judicial-police-official-for-involvement-in-torture-and-cruel-inhumane-and-degrading-treatment/",
-          "date": "2026-10-30"
-        },
-        {
-          "title_en": "Taking Action Against Caravan Organizers Facilitating Illegal Immigration to the United States",
-          "title_ko": "미국 불법 이민을 조장하는 캐러밴 조직원에 대한 조치 취하기",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/taking-action-against-caravan-organizers-facilitating-illegal-immigration-to-the-united-states/",
-          "date": "2026-10-29"
         }
       ],
       "note": ""
