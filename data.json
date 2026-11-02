@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31 23:55:59",
+  "generated_at": "2026-11-02 00:12:57",
   "period_days": 7,
   "translation_available": true,
   "agencies": [
@@ -10,6 +10,12 @@
       "color": "#1f3a5f",
       "list_url": "https://www.whitehouse.gov/briefing-room/statements-releases/",
       "items": [
+        {
+          "title_en": "Presidential Message on All Saints’ Day",
+          "title_ko": "모든 성인의 날에 전하는 대통령 메시지",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-all-saints-day-3b81/",
+          "date": "2026-11-01"
+        },
         {
           "title_en": "Presidential Message on Reformation Day",
           "title_ko": "종교개혁의 날 대통령 메시지",
@@ -275,12 +281,6 @@
           "title_ko": "버검 장관, 미국 목장주 지원 명령 서명, 방목 확대 및 빨간 테이프 자르기",
           "url": "https://www.doi.gov/pressreleases/secretary-burgum-signs-order-support-american-ranchers-expand-grazing-and-cut-red-0",
           "date": "2026-10-27"
-        },
-        {
-          "title_en": "Department of the Interior and the National Park Service Welcome Desert Shield and Desert Storm Memorial to the National Mall",
-          "title_ko": "내무부 및 국립공원 관리청 환영 사막 방패와 사막 폭풍 기념관이 내셔널 몰에 도착했습니다",
-          "url": "https://www.doi.gov/pressreleases/department-interior-and-national-park-service-welcome-desert-shield-and-desert-storm",
-          "date": "2026-10-24"
         }
       ],
       "note": ""
@@ -454,6 +454,12 @@
           "date": "2026-11-03"
         },
         {
+          "title_en": "Veteran Services Event (Bouse VFW)",
+          "title_ko": "재향 군인 서비스 이벤트 (Bouse VFW)",
+          "url": "https://discover.va.gov/events/veteran-services-event-bouse-vfw/",
+          "date": "2026-11-03"
+        },
+        {
           "title_en": "Spiro Vet Center Outreach",
           "title_ko": "스피로 수의사 센터 지원",
           "url": "https://discover.va.gov/events/spiro-vet-center-outreach/",
@@ -470,12 +476,6 @@
           "title_ko": "여성 베테랑 타운홀",
           "url": "https://discover.va.gov/events/women-veterans-townhall/",
           "date": "2026-11-02"
-        },
-        {
-          "title_en": "Vet Fest Southwest Louisiana",
-          "title_ko": "루이지애나주 사우스웨스트 수의사 축제",
-          "url": "https://discover.va.gov/events/vet-fest-southwest-louisiana/",
-          "date": "2026-10-31"
         }
       ],
       "note": ""
