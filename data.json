@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02 00:12:57",
+  "generated_at": "2026-11-03 02:45:23",
   "period_days": 7,
   "translation_available": true,
   "agencies": [
@@ -21,12 +21,6 @@
           "title_ko": "종교개혁의 날 대통령 메시지",
           "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-reformation-day/",
           "date": "2026-10-31"
-        },
-        {
-          "title_en": "First Lady Melania Trump Announces Halloween at the White House 2026",
-          "title_ko": "영부인 멜라니아 트럼프, 2026년 백악관에서 할로윈을 알리다",
-          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-announces-halloween-at-the-white-house-2026/",
-          "date": "2026-10-26"
         }
       ],
       "note": ""
@@ -38,6 +32,30 @@
       "color": "#0b3d91",
       "list_url": "https://www.state.gov/press-releases/",
       "items": [
+        {
+          "title_en": "Secretary Rubio’s Meeting with Venezuelan Foreign Minister Blanco",
+          "title_ko": "루비오 장관과 블랑코 베네수엘라 외무장관의 만남",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-meeting-with-venezuelan-foreign-minister-blanco/",
+          "date": "2026-11-02"
+        },
+        {
+          "title_en": "U.S. Department of State Signs Humanitarian Logistics Memorandum of Understanding with UPS to Support Disaster Response Efforts",
+          "title_ko": "미국 국무부, 재난 대응 노력을 지원하기 위해 UPS와 인도주의 물류 양해 각서 체결",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/u-s-department-of-state-signs-humanitarian-logistics-memorandum-of-understanding-with-ups-to-support-disaster-response-efforts/",
+          "date": "2026-11-02"
+        },
+        {
+          "title_en": "Federated States of Micronesia National Day",
+          "title_ko": "미크로네시아 연방의 날",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/federated-states-of-micronesia-national-day-2/",
+          "date": "2026-11-02"
+        },
+        {
+          "title_en": "Antigua and Barbuda National Day",
+          "title_ko": "앤티가바부다 국경일",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/antigua-and-barbuda-national-day-2/",
+          "date": "2026-11-02"
+        },
         {
           "title_en": "Secretary of State Marco Rubio at a Press Availability",
           "title_ko": "언론에 공개된 마르코 루비오 국무장관",
@@ -73,30 +91,6 @@
           "title_ko": "루비오 장관, 사우디아라비아 리야드에서 열리는 세계 박람회 2030에 미국 참가 발표",
           "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubio-announces-u-s-participation-in-world-expo-2030-in-riyadh-saudi-arabia/",
           "date": "2026-10-30"
-        },
-        {
-          "title_en": "Secretary of State Marco Rubio and Saudi Foreign Minister Prince Faisal bin Farhan al Saud at an Expo 2030 Riyadh Participation Contract Signing Ceremony",
-          "title_ko": "2030년 리야드 엑스포에서 열린 마르코 루비오 국무장관과 파이살 빈 파르한 알 사우드 사우디 외무장관 참여 계약 체결식",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-and-saudi-foreign-minister-prince-faisal-bin-farhan-al-saud-at-an-expo-2030-riyadh-participation-contract-signing-ceremony/",
-          "date": "2026-10-30"
-        },
-        {
-          "title_en": "Secretary Rubio’s Meeting with Saudi Foreign Minister Prince Faisal bin Farhan Al Saud",
-          "title_ko": "루비오 장관이 파이살 빈 파르한 알 사우드 사우디 외무장관과 회담",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-meeting-with-saudi-foreign-minister-prince-faisal-bin-farhan-al-saud-3/",
-          "date": "2026-10-30"
-        },
-        {
-          "title_en": "Secretary Rubio’s Meeting with Turkish Foreign Minister Fidan",
-          "title_ko": "루비오 터키 외무장관이 피단 터키 외무장관과 회담",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-meeting-with-turkish-foreign-minister-fidan-2/",
-          "date": "2026-10-30"
-        },
-        {
-          "title_en": "Joint Statement from the International Contact Group for the Great Lakes Region (ICG)",
-          "title_ko": "ICG (International Contact Group for the Great Lakes Region) 의 공동 성명서",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/joint-statement-from-the-international-contact-group-for-the-great-lakes-region-icg/",
-          "date": "2026-10-30"
         }
       ],
       "note": ""
@@ -108,6 +102,24 @@
       "color": "#0a6847",
       "list_url": "https://home.treasury.gov/news/press-releases",
       "items": [
+        {
+          "title_en": "READOUT: Secretary of the Treasury Scott Bessent’s Meeting with Venezuelan Foreign Minister Oliver Blanco",
+          "title_ko": "참고: 스콧 베센트 재무장관이 올리버 블랑코 베네수엘라 외무장관과 회담",
+          "url": "https://home.treasury.gov/news/press-releases/sb0674/",
+          "date": "2026-11-02"
+        },
+        {
+          "title_en": "Treasury Announces Marketable Borrowing Estimates",
+          "title_ko": "재무부, 시장성 차입금 추정치 발표",
+          "url": "https://home.treasury.gov/news/press-releases/sb0675/",
+          "date": "2026-11-02"
+        },
+        {
+          "title_en": "Economy Statement for the Treasury Borrowing Advisory Committee",
+          "title_ko": "재무 차입 자문 위원회에 대한 이코노미 스테이트먼트",
+          "url": "https://home.treasury.gov/news/press-releases/sb0676/",
+          "date": "2026-11-02"
+        },
         {
           "title_en": "Report on U.S. Portfolio Holdings of Foreign Securities at Year-End 2025",
           "title_ko": "2025년 연말 미국 해외증권 포트폴리오 보유 현황 보고서",
@@ -155,6 +167,18 @@
       "list_url": "https://www.war.gov/News/Releases/",
       "items": [
         {
+          "title_en": "Face of Defense: Marines Earn Top Honors at Drill Instructor School, Bring Elite Standards Home",
+          "title_ko": "방어의 얼굴: 해병대는 훈련 교관 학교에서 최고 영예를 얻고 엘리트 기준을 집으로 가져옵니다",
+          "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4619987/face-of-defense-marines-earn-top-honors-at-drill-instructor-school-bring-elite/",
+          "date": "2026-11-02"
+        },
+        {
+          "title_en": "Medal of Honor Monday: Marine Corps Maj. Ross Lindsey Iams",
+          "title_ko": "명예의 메달 월요일: 해병대 로스 린지 아이암스 소령",
+          "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4584816/medal-of-honor-monday-marine-corps-maj-ross-lindsey-iams/",
+          "date": "2026-11-02"
+        },
+        {
           "title_en": "Marine Corps Base Strengthens Wildfire Response With Drones",
           "title_ko": "해병대 기지, 드론으로 산불 대응 강화",
           "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4637819/marine-corps-base-strengthens-wildfire-response-with-drones/",
@@ -165,18 +189,6 @@
           "title_ko": "독립선언서 서명인: 사우스캐롤라이나, 2부",
           "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4578610/signers-of-the-declaration-of-independence-south-carolina-part-2/",
           "date": "2026-10-30"
-        },
-        {
-          "title_en": "Barksdale Air Force Base Honor Guard Strives for Perfection",
-          "title_ko": "바크스데일 공군 기지 명예 수비대 완벽을 위한 노력",
-          "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4633509/barksdale-air-force-base-honor-guard-strives-for-perfection/",
-          "date": "2026-10-26"
-        },
-        {
-          "title_en": "Medal of Honor Monday: Army 1st Lt. Victor Leonard Kandle",
-          "title_ko": "명예 훈장 월요일: 육군 빅터 레너드 캔들 중위",
-          "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4583487/medal-of-honor-monday-army-1st-lt-victor-leonard-kandle/",
-          "date": "2026-10-26"
         }
       ],
       "note": ""
@@ -188,6 +200,12 @@
       "color": "#4b2e83",
       "list_url": "https://www.justice.gov/news",
       "items": [
+        {
+          "title_en": "Justice Department Announces Charges Involving 63 Individuals for Election-Related Crimes",
+          "title_ko": "법무부, 선거 관련 범죄로 63명의 개인이 연루된 혐의 발표",
+          "url": "https://www.justice.gov/opa/pr/justice-department-announces-charges-involving-63-individuals-election-related-crimes",
+          "date": "2026-11-02"
+        },
         {
           "title_en": "Florida Pharmacist Sentenced to Over 7 Years in Prison for Massive Illegal Oxycodone Distribution Conspiracy",
           "title_ko": "플로리다 약사, 대규모 불법 옥시코돈 유통 음모 혐의로 7년 이상의 징역형 선고",
@@ -252,12 +270,6 @@
           "title_en": "Justice Department Announces Issuance of Federal Registrations for Medical Marijuana Dispensaries",
           "title_ko": "법무부, 의료용 마리화나 약품에 대한 연방 등록 발급 발표",
           "url": "https://www.justice.gov/opa/pr/justice-department-announces-issuance-federal-registrations-medical-marijuana-dispensaries",
-          "date": "2026-10-30"
-        },
-        {
-          "title_en": "Justice Department Defends the Navy’s Actions to Address a Fuel Release at Joint Base Pearl Harbor-Hickam in Hawaii",
-          "title_ko": "법무부는 하와이 진주만-히캄 합동기지에서 연료 방출 문제를 해결하기 위한 해군의 조치를 방어합니다.",
-          "url": "https://www.justice.gov/opa/pr/justice-department-defends-navys-actions-address-fuel-release-joint-base-pearl-harbor-hickam",
           "date": "2026-10-30"
         }
       ],
@@ -347,10 +359,10 @@
       "list_url": "https://www.energy.gov/news",
       "items": [
         {
-          "title_en": "Energy Department Awards Contracts from the Strategic Petroleum Reserve as Part of President Trump’s Emergency Exchange",
-          "title_ko": "에너지부, 트럼프 대통령 긴급교류의 일환으로 전략석유보유고 계약 체결",
-          "url": "https://www.energy.gov/hgeo/opr/articles/energy-department-awards-contracts-strategic-petroleum-reserve-part-president",
-          "date": "2026-10-29"
+          "title_en": "Energy Department Announces Over $230 Million Funding Opportunity to Strengthen America's Grid Supply Chain and Lower Electricity Costs",
+          "title_ko": "에너지부, 미국의 전력망 공급망 강화 및 전력 비용 절감을 위한 2억 3천만 달러 이상의 자금 조달 기회 발표",
+          "url": "https://www.energy.gov/articles/energy-department-announces-over-230-million-funding-opportunity-strengthen-americas-grid",
+          "date": "2026-10-30"
         }
       ],
       "note": ""
@@ -371,6 +383,36 @@
       "color": "#00274d",
       "list_url": "https://www.dhs.gov/news-releases",
       "items": [
+        {
+          "title_en": "Secretary Mullin Announces Results of Operation Guardian Crackdown on Illegal Aliens with Commercial Driver’s Licenses",
+          "title_ko": "멀린 장관, 상업용 운전면허증을 소지한 불법 체류자에 대한 보호자 단속 작전 결과 발표",
+          "url": "https://www.dhs.gov/news/2026/11/02/secretary-mullin-announces-results-operation-guardian-crackdown-illegal-aliens",
+          "date": "2026-11-02"
+        },
+        {
+          "title_en": "DHS Blasts California Sanctuary Politicians for Releasing Nearly 24,000 Criminal Illegal Alien Murderers, Child Abusers, Kidnappers, and Gang Members from Jail Back onto the Street",
+          "title_ko": "미국 국토안보부 (DHS), 캘리포니아 보호구역 정치인 2만 4천 명에 가까운 범죄 불법 외국인 살인자, 아동 학대범, 납치범, 갱단을 감옥에서 거리로 내보낸 혐의로 폭파하다",
+          "url": "https://www.dhs.gov/news/2026/11/02/dhs-blasts-california-sanctuary-politicians-releasing-nearly-24000-criminal-illegal",
+          "date": "2026-11-02"
+        },
+        {
+          "title_en": "WORST OF THE WORST: ICE Arrests Murderers, Pedophiles, and Rapists Over the Weekend",
+          "title_ko": "최악의 상황: ICE, 주말에 살인자, 소아성애자, 강간범 체포",
+          "url": "https://www.dhs.gov/news/2026/11/02/worst-worst-ice-arrests-murderers-pedophiles-and-rapists-over-weekend",
+          "date": "2026-11-02"
+        },
+        {
+          "title_en": "DHS Highlights Worst Illegal Aliens Arrested in Kansas",
+          "title_ko": "미국 국토안보부 (DHS), 캔자스에서 체포된 최악의 불법체류 외국인",
+          "url": "https://www.dhs.gov/news/2026/11/02/dhs-highlights-worst-illegal-aliens-arrested-kansas",
+          "date": "2026-11-02"
+        },
+        {
+          "title_en": "DHS Highlights Worst Illegal Aliens Arrested in Iowa",
+          "title_ko": "미국 국토안보부 (DHS), 아이오와에서 체포된 최악의 불법체류 외국인",
+          "url": "https://www.dhs.gov/news/2026/11/02/dhs-highlights-worst-illegal-aliens-arrested-iowa",
+          "date": "2026-11-02"
+        },
         {
           "title_en": "WORST OF THE WORST: ICE Arrests Murderers, Rapists, and Pedophiles",
           "title_ko": "최악의 상황: ICE, 살인자, 강간범, 소아성애자 체포",
@@ -400,36 +442,6 @@
           "title_ko": "최악의 상황: ICE, 살인자, 성범죄자, 마약 밀매자 체포",
           "url": "https://www.dhs.gov/news/2026/10/29/worst-worst-ice-arrests-murderers-sexual-predators-and-drug-traffickers",
           "date": "2026-10-29"
-        },
-        {
-          "title_en": "Secretary Mullin Highlights Success of ICE’s Lone Star Mission in Texas, Arresting Over 4,000 Illegal Aliens in Ten Days",
-          "title_ko": "멀린 장관, 텍사스에서 ICE 론스타 임무 성공, 10일 동안 4,000명 이상의 불법체류자 체포",
-          "url": "https://www.dhs.gov/news/2026/10/29/secretary-mullin-highlights-success-ices-lone-star-mission-texas-arresting-over",
-          "date": "2026-10-29"
-        },
-        {
-          "title_en": "SANCTUARY INSANITY: ICE Arrests Illegal Alien Released by Sanctuary Politicians in California",
-          "title_ko": "SANCTUARY INSANITY: ICE, 캘리포니아의 Sanctuary 정치인들이 석방한 불법 체류자 체포",
-          "url": "https://www.dhs.gov/news/2026/10/29/sanctuary-insanity-ice-arrests-illegal-alien-released-sanctuary-politicians",
-          "date": "2026-10-29"
-        },
-        {
-          "title_en": "DHS Highlights Worst Illegal Aliens Arrested in South Carolina",
-          "title_ko": "미국 국토안보부 (DHS), 사우스캐롤라이나에서 체포된 최악의 불법체류 외국인",
-          "url": "https://www.dhs.gov/news/2026/10/29/dhs-highlights-worst-illegal-aliens-arrested-south-carolina",
-          "date": "2026-10-29"
-        },
-        {
-          "title_en": "Trump Administration Suspends Birth Tourism Loophole Threatening National Security",
-          "title_ko": "트럼프 행정부, 국가 안보를 위협하는 출산 관광 허점 중단",
-          "url": "https://www.dhs.gov/news/2026/10/29/trump-administration-suspends-birth-tourism-loophole-threatening-national-security",
-          "date": "2026-10-29"
-        },
-        {
-          "title_en": "Under President Trump’s Leadership, USCIS Takes Unprecedented 2.2 Million Enforcement Actions Protecting Americans Across the Nation",
-          "title_ko": "트럼프 대통령의 리더십 아래, USCIS는 전례 없는 220만 건의 집행 조치를 취하여 전국의 미국인들을 보호합니다.",
-          "url": "https://www.dhs.gov/news/2026/10/29/under-president-trumps-leadership-uscis-takes-unprecedented-22-million-enforcement",
-          "date": "2026-10-29"
         }
       ],
       "note": ""
@@ -441,6 +453,12 @@
       "color": "#003462",
       "list_url": "https://news.va.gov/",
       "items": [
+        {
+          "title_en": "Bosque Farms Community Center Veteran Outreach",
+          "title_ko": "보스크팜스 커뮤니티센터 재향군인 봉사활동",
+          "url": "https://discover.va.gov/events/bosque-farms-community-center-veteran-outreach-5/",
+          "date": "2026-11-04"
+        },
         {
           "title_en": "Caregiver Support Program – VA Clinic Outreach",
           "title_ko": "간병인 지원 프로그램 – VA 클리닉 지원",
@@ -460,22 +478,16 @@
           "date": "2026-11-03"
         },
         {
-          "title_en": "Spiro Vet Center Outreach",
-          "title_ko": "스피로 수의사 센터 지원",
-          "url": "https://discover.va.gov/events/spiro-vet-center-outreach/",
-          "date": "2026-11-02"
+          "title_en": "Veteran Resource and Hiring Fair",
+          "title_ko": "베테랑 자원 및 채용 박람회",
+          "url": "https://discover.va.gov/events/veteran-resource-and-hiring-fair/",
+          "date": "2026-11-03"
         },
         {
-          "title_en": "Veteran Resource Fair in Westchester",
-          "title_ko": "웨스트체스터 베테랑 자원 박람회",
-          "url": "https://discover.va.gov/events/veteran-resource-fair-in-westchester/",
-          "date": "2026-11-02"
-        },
-        {
-          "title_en": "Women Veteran’s Townhall",
-          "title_ko": "여성 베테랑 타운홀",
-          "url": "https://discover.va.gov/events/women-veterans-townhall/",
-          "date": "2026-11-02"
+          "title_en": "Veteran Connect- Sharp Park Library Pacifica",
+          "title_ko": "베테랑 커넥트- 샤프 파크 도서관 퍼시피카",
+          "url": "https://discover.va.gov/events/veteran-connect-sharp-park-library-pacifica/",
+          "date": "2026-11-03"
         }
       ],
       "note": ""
