@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04 01:01:50",
+  "generated_at": "2026-11-05 01:17:01",
   "period_days": 7,
   "translation_available": true,
   "agencies": [
@@ -10,6 +10,12 @@
       "color": "#1f3a5f",
       "list_url": "https://www.whitehouse.gov/briefing-room/statements-releases/",
       "items": [
+        {
+          "title_en": "First Lady Melania Trump and LSU Establish $5 Million Fostering the Future Endowment Fund",
+          "title_ko": "영부인 멜라니아 트럼프와 LSU, 미래 인다우먼트 기금 조성 $ 5 백만 설립",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-and-lsu-establish-5-million-fostering-the-future-endowment-fund/",
+          "date": "2026-11-04"
+        },
         {
           "title_en": "Congressional Bills H.R. 1744 and H.R. 8205 Signed into Law",
           "title_ko": "의회 법안 H.R. 1744 및 H.R. 8205 법률에 서명",
@@ -44,6 +50,12 @@
       "color": "#0b3d91",
       "list_url": "https://www.state.gov/press-releases/",
       "items": [
+        {
+          "title_en": "U.S. Sanctions Fraudulent Ship Registries and Aviation Support for Iranian Regime",
+          "title_ko": "미국 제재 사기 선박 등록 및 이란 정권에 대한 항공 지원",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/u-s-sanctions-fraudulent-ship-registries-and-aviation-support-for-iranian-regime/",
+          "date": "2026-11-04"
+        },
         {
           "title_en": "Joint Statement on the 53rd U.S.-Portugal Standing Bilateral Commission",
           "title_ko": "제53차 미국-포르투갈 상임 양자 위원회 공동성명",
@@ -97,12 +109,6 @@
           "title_ko": "앤티가바부다 국경일",
           "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/antigua-and-barbuda-national-day-2/",
           "date": "2026-11-02"
-        },
-        {
-          "title_en": "Secretary of State Marco Rubio at a Press Availability",
-          "title_ko": "언론에 공개된 마르코 루비오 국무장관",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-at-a-press-availability-2/",
-          "date": "2026-10-31"
         }
       ],
       "note": ""
@@ -114,6 +120,30 @@
       "color": "#0a6847",
       "list_url": "https://home.treasury.gov/news/press-releases",
       "items": [
+        {
+          "title_en": "Operation Economic Outcast Targets Global Maritime Fraud Network Supporting Iranian Regime",
+          "title_ko": "Operation Economic Outcast, 이란 정권을 지원하는 글로벌 해양 사기 네트워크 표적",
+          "url": "https://home.treasury.gov/news/press-releases/sb0681/",
+          "date": "2026-11-04"
+        },
+        {
+          "title_en": "Quarterly Refunding Statement of Assistant Secretary for Financial Markets Hunter McMaster",
+          "title_ko": "금융 시장 담당 차관보 분기별 환불 내역서 Hunter McMaster",
+          "url": "https://home.treasury.gov/news/press-releases/sb0678/",
+          "date": "2026-11-04"
+        },
+        {
+          "title_en": "Report to the Secretary of the Treasury from the Treasury Borrowing Advisory Committee",
+          "title_ko": "재무부 차입자문위원회에서 재무부 장관에게 보고",
+          "url": "https://home.treasury.gov/news/press-releases/sb0679/",
+          "date": "2026-11-04"
+        },
+        {
+          "title_en": "Minutes of the Meeting of the Treasury Borrowing Advisory Committee November 3, 2026",
+          "title_ko": "2026년 11월 3일 재무부 차입자문위원회 회의록",
+          "url": "https://home.treasury.gov/news/press-releases/sb0680/",
+          "date": "2026-11-04"
+        },
         {
           "title_en": "READOUT: Secretary of the Treasury Scott Bessent’s Meeting with Venezuelan Foreign Minister Oliver Blanco",
           "title_ko": "참고: 스콧 베센트 재무장관이 올리버 블랑코 베네수엘라 외무장관과 회담",
@@ -149,24 +179,6 @@
           "title_ko": "미네소타의 새로운 사기 방지 조치에 대한 Scott Bessent 재무장관의 발언",
           "url": "https://home.treasury.gov/news/press-releases/sb0671/",
           "date": "2026-10-30"
-        },
-        {
-          "title_en": "Secretary Bessent, Senior U.S. Officials Announce New Fraud Prevention Measures in Minnesota",
-          "title_ko": "베슨트 장관, 미네소타에서 새로운 사기 방지 조치 발표",
-          "url": "https://home.treasury.gov/news/press-releases/sb0670/",
-          "date": "2026-10-30"
-        },
-        {
-          "title_en": "Treasury Sanctions Facilitators of DPRK IT Worker Fraud Targeting U.S. Businesses",
-          "title_ko": "미국 기업을 겨냥한 북한 IT 근로자 사기의 재무부 제재 조장자",
-          "url": "https://home.treasury.gov/news/press-releases/sb0669/",
-          "date": "2026-10-28"
-        },
-        {
-          "title_en": "Treasury Sanctions Rwandan Ministry of Defence and Financial Institution Supporting M23",
-          "title_ko": "M23을 지원하는 르완다 국방부 및 금융 기관의 재무 제재",
-          "url": "https://home.treasury.gov/news/press-releases/sb0668/",
-          "date": "2026-10-28"
         }
       ],
       "note": ""
@@ -178,6 +190,12 @@
       "color": "#3c4a3e",
       "list_url": "https://www.war.gov/News/Releases/",
       "items": [
+        {
+          "title_en": "From Vietnam to Afghanistan: A Vermont Guard Member's Lifetime of Service",
+          "title_ko": "베트남에서 아프가니스탄까지: 버몬트 경비대원의 평생 봉사",
+          "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4641139/from-vietnam-to-afghanistan-a-vermont-guard-members-lifetime-of-service/",
+          "date": "2026-11-04"
+        },
         {
           "title_en": "Face of Defense: Marines Earn Top Honors at Drill Instructor School, Bring Elite Standards Home",
           "title_ko": "방어의 얼굴: 해병대는 훈련 교관 학교에서 최고 영예를 얻고 엘리트 기준을 집으로 가져옵니다",
@@ -212,6 +230,24 @@
       "color": "#4b2e83",
       "list_url": "https://www.justice.gov/news",
       "items": [
+        {
+          "title_en": "Attorney General Blanche, Governor Landry, Senator Cassidy, and Louisiana Officials Announce East Baton Rouge Parish as Winner of the Model Cities Initiative",
+          "title_ko": "블랑쉬 법무장관, 랜드리 주지사, 캐시디 상원의원, 루이지애나 공무원들이 이스트 배턴루지 교구를 모범 도시 이니셔티브의 수상자로 발표",
+          "url": "https://www.justice.gov/opa/video/attorney-general-blanche-governor-landry-senator-cassidy-and-louisiana-officials-announce",
+          "date": "2026-11-04"
+        },
+        {
+          "title_en": "Utah Minor Recovered by Law Enforcement After Oregon Man Allegedly Transported the Victim to Engage in Criminal Sexual Activity",
+          "title_ko": "오레곤 남성이 범죄 성행위에 가담하기 위해 피해자를 이송 한 것으로 추정되는 사법 기관에 의해 유타 미성년자가 회복되었습니다.",
+          "url": "https://www.justice.gov/opa/pr/utah-minor-recovered-law-enforcement-after-oregon-man-allegedly-transported-victim-engage",
+          "date": "2026-11-04"
+        },
+        {
+          "title_en": "Los Angeles Woman Charged for $18M COVID-19 Relief Fraud Scheme",
+          "title_ko": "로스앤젤레스 여성, $ 18M 코로나19 구호 사기 혐의로 기소",
+          "url": "https://www.justice.gov/opa/pr/los-angeles-woman-charged-18m-covid-19-relief-fraud-scheme",
+          "date": "2026-11-04"
+        },
         {
           "title_en": "Oklahoma Man Charged in Connection with Sending Threatening Letters Containing Non-Toxic White Powder to Election and Government Officials Across the Country",
           "title_ko": "오클라호마 남성이 전국의 선거 및 공무원에게 무독성 백색 가루를 함유한 협박 편지를 보낸 혐의로 기소됨",
@@ -265,24 +301,6 @@
           "title_ko": "플로리다 약사, 대규모 불법 옥시코돈 유통 음모 혐의로 7년 이상의 징역형 선고",
           "url": "https://www.justice.gov/opa/pr/florida-pharmacist-sentenced-over-7-years-prison-massive-illegal-oxycodone-distribution",
           "date": "2026-10-30"
-        },
-        {
-          "title_en": "Botox Fraud Doctor Sentenced to 15 Years in Prison for $45M Medicare Scheme",
-          "title_ko": "보톡스 사기 의사, $ 45M 메디케어 제도로 징역 15년 선고",
-          "url": "https://www.justice.gov/opa/pr/botox-fraud-doctor-sentenced-15-years-prison-45m-medicare-scheme",
-          "date": "2026-10-30"
-        },
-        {
-          "title_en": "Justice Department’s Statement on Its Investigation of Vistra’s Acquisition of Cogentrix",
-          "title_ko": "Vistra의 Cogentrix 인수 조사에 대한 법무부의 성명서",
-          "url": "https://www.justice.gov/opa/pr/justice-departments-statement-its-investigation-vistras-acquisition-cogentrix",
-          "date": "2026-10-30"
-        },
-        {
-          "title_en": "Justice Department Announces Final Rule Allowing Federal Firearms Licensees to Voluntarily Use NICS for Employee Background Checks",
-          "title_ko": "법무부, 연방 총기 면허 소지자가 직원 신원 조회를 위해 NIC를 자발적으로 사용할 수 있도록 허용하는 최종 규칙 발표",
-          "url": "https://www.justice.gov/opa/pr/justice-department-announces-final-rule-allowing-federal-firearms-licensees-voluntarily-use",
-          "date": "2026-10-30"
         }
       ],
       "note": ""
@@ -293,15 +311,8 @@
       "name_en": "Department of the Interior",
       "color": "#6b4423",
       "list_url": "https://www.doi.gov/news",
-      "items": [
-        {
-          "title_en": "Interior Delivers Second-Largest Energy Revenue Disbursement",
-          "title_ko": "인테리어는 두 번째로 큰 에너지 수입 지출을 제공합니다",
-          "url": "https://www.doi.gov/pressreleases/interior-delivers-second-largest-energy-revenue-disbursement",
-          "date": "2026-10-28"
-        }
-      ],
-      "note": ""
+      "items": [],
+      "note": "최근 7일간 새 보도자료를 찾지 못했거나 사이트 구조 변경으로 수집에 실패했습니다."
     },
     {
       "key": "agriculture",
@@ -365,10 +376,10 @@
       "list_url": "https://www.energy.gov/news",
       "items": [
         {
-          "title_en": "Energy Department Announces Over $230 Million Funding Opportunity to Strengthen America's Grid Supply Chain and Lower Electricity Costs",
-          "title_ko": "에너지부, 미국의 전력망 공급망 강화 및 전력 비용 절감을 위한 2억 3천만 달러 이상의 자금 조달 기회 발표",
-          "url": "https://www.energy.gov/articles/energy-department-announces-over-230-million-funding-opportunity-strengthen-americas-grid",
-          "date": "2026-10-30"
+          "title_en": "Energy Department Awards Contracts from Northeast Home Heating Oil Reserve",
+          "title_ko": "에너지부, 노스이스트 홈 히팅 오일 리저브 (Northeast Home Heating Oil Reserve) 와 계약",
+          "url": "https://www.energy.gov/hgeo/opr/articles/energy-department-awards-contracts-northeast-home-heating-oil-reserve",
+          "date": "2026-11-04"
         }
       ],
       "note": ""
@@ -388,69 +399,8 @@
       "name_en": "Dept. of Homeland Security",
       "color": "#00274d",
       "list_url": "https://www.dhs.gov/news-releases",
-      "items": [
-        {
-          "title_en": "WORST OF THE WORST: ICE Arrests Pedophiles, Violent Assailants, and Drunk Drivers",
-          "title_ko": "최악의 상황: ICE, 소아성애자, 폭력 가해자, 음주 운전자 체포",
-          "url": "https://www.dhs.gov/news/2026/11/03/worst-worst-ice-arrests-pedophiles-violent-assailants-and-drunk-drivers",
-          "date": "2026-11-03"
-        },
-        {
-          "title_en": "SANCTUARY INSANITY: DHS Condemns Sanctuary Politicians in Washington State for Refusing ICE Detainer Against Convicted Child Molester",
-          "title_ko": "성역의 광기: DHS는 유죄 판결을받은 아동 성추행범에 대한 ICE 억류를 거부 한 워싱턴주의 성역 정치인들을 비난합니다.",
-          "url": "https://www.dhs.gov/news/2026/11/03/sanctuary-insanity-dhs-condemns-sanctuary-politicians-washington-state-refusing-ice",
-          "date": "2026-11-03"
-        },
-        {
-          "title_en": "MAKING AMERICA SAFE AGAIN: Under President Trump, DHS Delivered the Most Secure Border in History and is Removing Criminal Illegal Aliens at a Record Pace",
-          "title_ko": "미국을 다시 안전하게 만들기: 트럼프 대통령 하에서 DHS는 역사상 가장 안전한 국경을 제공했으며 기록적인 속도로 범죄 불법 체류자를 제거하고 있습니다.",
-          "url": "https://www.dhs.gov/news/2026/11/03/making-america-safe-again-under-president-trump-dhs-delivered-most-secure-border",
-          "date": "2026-11-03"
-        },
-        {
-          "title_en": "Secretary Mullin Announces Results of Operation Guardian Crackdown on Illegal Aliens with Commercial Driver’s Licenses",
-          "title_ko": "멀린 장관, 상업용 운전면허증을 소지한 불법 체류자에 대한 보호자 단속 작전 결과 발표",
-          "url": "https://www.dhs.gov/news/2026/11/02/secretary-mullin-announces-results-operation-guardian-crackdown-illegal-aliens",
-          "date": "2026-11-02"
-        },
-        {
-          "title_en": "DHS Blasts California Sanctuary Politicians for Releasing Nearly 24,000 Criminal Illegal Alien Murderers, Child Abusers, Kidnappers, and Gang Members from Jail Back onto the Street",
-          "title_ko": "미국 국토안보부 (DHS), 캘리포니아 보호구역 정치인 2만 4천 명에 가까운 범죄 불법 외국인 살인자, 아동 학대범, 납치범, 갱단을 감옥에서 거리로 내보낸 혐의로 폭파하다",
-          "url": "https://www.dhs.gov/news/2026/11/02/dhs-blasts-california-sanctuary-politicians-releasing-nearly-24000-criminal-illegal",
-          "date": "2026-11-02"
-        },
-        {
-          "title_en": "WORST OF THE WORST: ICE Arrests Murderers, Pedophiles, and Rapists Over the Weekend",
-          "title_ko": "최악의 상황: ICE, 주말에 살인자, 소아성애자, 강간범 체포",
-          "url": "https://www.dhs.gov/news/2026/11/02/worst-worst-ice-arrests-murderers-pedophiles-and-rapists-over-weekend",
-          "date": "2026-11-02"
-        },
-        {
-          "title_en": "DHS Highlights Worst Illegal Aliens Arrested in Kansas",
-          "title_ko": "미국 국토안보부 (DHS), 캔자스에서 체포된 최악의 불법체류 외국인",
-          "url": "https://www.dhs.gov/news/2026/11/02/dhs-highlights-worst-illegal-aliens-arrested-kansas",
-          "date": "2026-11-02"
-        },
-        {
-          "title_en": "DHS Highlights Worst Illegal Aliens Arrested in Iowa",
-          "title_ko": "미국 국토안보부 (DHS), 아이오와에서 체포된 최악의 불법체류 외국인",
-          "url": "https://www.dhs.gov/news/2026/11/02/dhs-highlights-worst-illegal-aliens-arrested-iowa",
-          "date": "2026-11-02"
-        },
-        {
-          "title_en": "WORST OF THE WORST: ICE Arrests Murderers, Rapists, and Pedophiles",
-          "title_ko": "최악의 상황: ICE, 살인자, 강간범, 소아성애자 체포",
-          "url": "https://www.dhs.gov/news/2026/10/30/worst-worst-ice-arrests-murderers-rapists-and-pedophiles",
-          "date": "2026-10-30"
-        },
-        {
-          "title_en": "WANTED CRIMINAL RELEASED BY SANCTUARY POLITICIANS: MS-13 Gang Member with Prior Arrests for Attempted Murder and Sexually Assaulting a Minor Released from Jail by Maryland Sanctuary Politicians",
-          "title_ko": "성역 정치인에 의해 석방된 수배 범죄자: 메릴랜드 성역 정치인에 의해 감옥에서 석방된 살인 미수 및 미성년자 성폭행 혐의로 사전 체포된 MS-13 갱단원",
-          "url": "https://www.dhs.gov/news/2026/10/30/wanted-criminal-released-sanctuary-politicians-ms-13-gang-member-prior-arrests",
-          "date": "2026-10-30"
-        }
-      ],
-      "note": ""
+      "items": [],
+      "note": "최근 7일간 새 보도자료를 찾지 못했거나 사이트 구조 변경으로 수집에 실패했습니다."
     },
     {
       "key": "va",
@@ -478,22 +428,22 @@
           "date": "2026-11-05"
         },
         {
-          "title_en": "Bosque Farms Community Center Veteran Outreach",
-          "title_ko": "보스크팜스 커뮤니티센터 재향군인 봉사활동",
-          "url": "https://discover.va.gov/events/bosque-farms-community-center-veteran-outreach-5/",
-          "date": "2026-11-04"
+          "title_en": "RCS D3 Chicago Vet Center 410-Veterans Day Celebration",
+          "title_ko": "RCS D3 시카고 수의사 센터 410 재향 군인의 날 기념",
+          "url": "https://discover.va.gov/events/rcs-d3-chicago-vet-center-410-veterans-day-celebration/",
+          "date": "2026-11-05"
         },
         {
-          "title_en": "Veteran Services Event (Salome VFW)",
-          "title_ko": "재향 군인 서비스 이벤트 (Salome VFW)",
-          "url": "https://discover.va.gov/events/veteran-services-event-salome-vfw-2/",
-          "date": "2026-11-04"
+          "title_en": "Santa Clara County Standdown",
+          "title_ko": "산타클라라 카운티 스탠드다운",
+          "url": "https://discover.va.gov/events/santa-clara-county-standdown/",
+          "date": "2026-11-05"
         },
         {
-          "title_en": "Long Island National Cemetery Pre-Need Eligibility Open House",
-          "title_ko": "롱아일랜드 국립묘지 사전 필요 자격 오픈 하우스",
-          "url": "https://discover.va.gov/events/long-island-national-cemetery-pre-need-eligibility-open-house/",
-          "date": "2026-11-04"
+          "title_en": "Veteran Stand Down Job & Resource Fair",
+          "title_ko": "베테랑 스탠드다운 직업 및 자원 박람회",
+          "url": "https://discover.va.gov/events/veteran-stand-down-job-resource-fair/",
+          "date": "2026-11-05"
         }
       ],
       "note": ""
@@ -513,7 +463,7 @@
     "gemini_model": "gemini-3.8-flash",
     "gemini_translate_batches": {
       "translate_ok": 0,
-      "translate_fail": 9
+      "translate_fail": 7
     },
     "last_gemini_error": "summary: HTTP 402: {\n  \"error\": {\n    \"code\": 402,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
   }
