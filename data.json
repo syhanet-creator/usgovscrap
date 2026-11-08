@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07 00:36:23",
+  "generated_at": "2026-11-08 00:10:53",
   "period_days": 7,
   "translation_available": true,
   "agencies": [
@@ -10,6 +10,12 @@
       "color": "#1f3a5f",
       "list_url": "https://www.whitehouse.gov/briefing-room/statements-releases/",
       "items": [
+        {
+          "title_en": "First Lady Melania Trump and LSU Establish $7.2 Million Fostering the Future Endowment Fund",
+          "title_ko": "영부인 멜라니아 트럼프와 LSU, 미래 인다우먼트 기금 조성 $ 720만 설립",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-and-lsu-establish-7-2-million-fostering-the-future-endowment-fund/",
+          "date": "2026-11-07"
+        },
         {
           "title_en": "First Lady Melania Trump Unites Russia and Ukraine at The White House Following Historic Ceasefire",
           "title_ko": "영부인 멜라니아 트럼프, 역사적인 휴전 이후 백악관에서 러시아와 우크라이나를 단결시키다",
@@ -39,12 +45,6 @@
           "title_ko": "모든 성인의 날에 전하는 대통령 메시지",
           "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-all-saints-day-3b81/",
           "date": "2026-11-01"
-        },
-        {
-          "title_en": "Presidential Message on Reformation Day",
-          "title_ko": "종교개혁의 날 대통령 메시지",
-          "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-reformation-day/",
-          "date": "2026-10-31"
         }
       ],
       "note": ""
@@ -398,7 +398,7 @@
           "title_en": "FACT SHEET: Delivering on President Trump's Promise to Unleash Prosperity and Security for the United States and Venezuela",
           "title_ko": "팩트 시트: 미국과 베네수엘라의 번영과 안보를 실현하겠다는 트럼프 대통령의 약속 이행",
           "url": "https://www.energy.gov/articles/fact-sheet-delivering-president-trumps-promise-unleash-prosperity-and-security-united",
-          "date": "2026-11-05"
+          "date": "2026-11-07"
         }
       ],
       "note": ""
@@ -490,40 +490,40 @@
       "list_url": "https://news.va.gov/",
       "items": [
         {
-          "title_en": "RCS D2 325 Tallahassee Vet Center –  The Chapel’s 2026 Health & Wellness Fair",
-          "title_ko": "RCS D2 325 탤러해시 수의사 센터 – 채플의 2026년 건강 및 웰니스 박람회",
-          "url": "https://discover.va.gov/events/rcs-d2-325-tallahassee-vet-center-the-chapels-2026-health-wellness-fair/",
-          "date": "2026-11-07"
+          "title_en": "Caregiver Support Program – VA Clinic Outreach",
+          "title_ko": "간병인 지원 프로그램 – VA 클리닉 지원",
+          "url": "https://discover.va.gov/events/caregiver-support-program-va-clinic-outreach/",
+          "date": "2026-11-09"
         },
         {
-          "title_en": "Atlanta Health Care System Veterans Day Celebration",
-          "title_ko": "애틀랜타 의료 시스템 퇴역 군인의 날 기념 행사",
-          "url": "https://discover.va.gov/events/atlanta-health-care-system-veterans-day-celebration/",
-          "date": "2026-11-07"
+          "title_en": "CAVC Veteran Resource Fair and Claims Clinic",
+          "title_ko": "CAVC 베테랑 자원 박람회 및 보상 청구 클리닉",
+          "url": "https://discover.va.gov/events/cavc-veteran-resource-fair-and-claims-clinic/",
+          "date": "2026-11-09"
         },
         {
-          "title_en": "Retiree Appreciation Event on Fort Gordon",
-          "title_ko": "포트고든 은퇴자 감사 이벤트",
-          "url": "https://discover.va.gov/events/retiree-appreciation-event-on-fort-gordon/",
-          "date": "2026-11-07"
+          "title_en": "Pine Bluff Veteran Townhall",
+          "title_ko": "파인블러프 베테랑 타운홀",
+          "url": "https://discover.va.gov/events/pine-bluff-veteran-townhall/",
+          "date": "2026-11-09"
         },
         {
-          "title_en": "Voices of Freedom 250 Veterans Exhibit",
-          "title_ko": "자유의 목소리 250 재향 군인 전시회",
-          "url": "https://discover.va.gov/events/voices-of-freedom-250-veterans-exhibit/",
-          "date": "2026-11-07"
+          "title_en": "Waukesha County Veterans Job and Resource Fair",
+          "title_ko": "와우케샤 카운티 재향 군인 일자리 및 자원 박람회",
+          "url": "https://discover.va.gov/events/waukesha-county-veterans-job-and-resource-fair/",
+          "date": "2026-11-09"
         },
         {
-          "title_en": "Deploy Operation Art",
-          "title_ko": "Operation Art 배포",
-          "url": "https://discover.va.gov/events/deploy-operation-art/",
-          "date": "2026-11-07"
+          "title_en": "Fitchburg State University Veteran Resource Fair",
+          "title_ko": "피치버그 주립대학교 베테랑 자원 박람회",
+          "url": "https://discover.va.gov/events/fitchburg-state-university-veteran-resource-fair/",
+          "date": "2026-11-09"
         },
         {
-          "title_en": "Guam Veterans Seasonal Flu Vaccination Drive",
-          "title_ko": "괌 참전용사 계절성 독감 예방접종 드라이브",
-          "url": "https://discover.va.gov/events/guam-veterans-seasonal-flu-vaccination-drive/",
-          "date": "2026-11-07"
+          "title_en": "Rockin 4 Heroes",
+          "title_ko": "로킨 4 히어로",
+          "url": "https://discover.va.gov/events/rockin-4-heroes/",
+          "date": "2026-11-08"
         }
       ],
       "note": ""
