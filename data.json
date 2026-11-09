@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08 00:10:53",
+  "generated_at": "2026-11-09 00:30:03",
   "period_days": 7,
   "translation_available": true,
   "agencies": [
@@ -10,6 +10,18 @@
       "color": "#1f3a5f",
       "list_url": "https://www.whitehouse.gov/briefing-room/statements-releases/",
       "items": [
+        {
+          "title_en": "Presidential Message on Diwali",
+          "title_ko": "디왈리 대통령 메시지",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-diwali-1f71/",
+          "date": "2026-11-08"
+        },
+        {
+          "title_en": "Presidential Message on Honoring the American Flag",
+          "title_ko": "미국 국기 기념에 관한 대통령 메시지",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-honoring-the-american-flag/",
+          "date": "2026-11-07"
+        },
         {
           "title_en": "First Lady Melania Trump and LSU Establish $7.2 Million Fostering the Future Endowment Fund",
           "title_ko": "영부인 멜라니아 트럼프와 LSU, 미래 인다우먼트 기금 조성 $ 720만 설립",
@@ -39,12 +51,6 @@
           "title_ko": "멜라니아 트럼프 영부인, 러시아와 우크라이나 대표단 백악관 소집",
           "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-to-convene-russian-and-ukrainian-representatives-at-the-white-house/",
           "date": "2026-11-03"
-        },
-        {
-          "title_en": "Presidential Message on All Saints’ Day",
-          "title_ko": "모든 성인의 날에 전하는 대통령 메시지",
-          "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-all-saints-day-3b81/",
-          "date": "2026-11-01"
         }
       ],
       "note": ""
@@ -56,6 +62,12 @@
       "color": "#0b3d91",
       "list_url": "https://www.state.gov/press-releases/",
       "items": [
+        {
+          "title_en": "Cambodia National Day",
+          "title_ko": "캄보디아 국경일",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/cambodia-national-day-2/",
+          "date": "2026-11-08"
+        },
         {
           "title_en": "Joint Statement on the Launch of Trilateral Technical Planning Groups to Advance the Trump Route for International Peace and Prosperity (TRIPP)",
           "title_ko": "국제평화번영을 위한 트럼프노선 (TRIPP) 발전을 위한 3국 기술기획단 출범에 관한 공동성명",
@@ -108,12 +120,6 @@
           "title_en": "Dismantling the Prince Group Transnational Criminal Organization",
           "title_ko": "프린스 그룹 초국가적 범죄 조직 해체",
           "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/dismantling-the-prince-group-transnational-criminal-organization/",
-          "date": "2026-11-05"
-        },
-        {
-          "title_en": "Further Sanctions on the Cuban Regime’s Foreign Military Support and Illicit Revenue Networks",
-          "title_ko": "쿠바 정권의 대외 군사 지원 및 불법 수입망에 대한 추가 제재",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/further-sanctions-on-the-cuban-regimes-foreign-military-support-and-illicit-revenue-networks/",
           "date": "2026-11-05"
         }
       ],
@@ -520,10 +526,10 @@
           "date": "2026-11-09"
         },
         {
-          "title_en": "Rockin 4 Heroes",
-          "title_ko": "로킨 4 히어로",
-          "url": "https://discover.va.gov/events/rockin-4-heroes/",
-          "date": "2026-11-08"
+          "title_en": "Cookeville Veterans Resource Fair 2026",
+          "title_ko": "2026년 쿠키빌 재향군인 자원 박람회",
+          "url": "https://discover.va.gov/events/cookeville-veterans-resource-fair-2026/",
+          "date": "2026-11-09"
         }
       ],
       "note": ""
