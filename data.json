@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09 00:30:03",
+  "generated_at": "2026-11-10 03:08:24",
   "period_days": 7,
   "translation_available": true,
   "agencies": [
@@ -10,6 +10,12 @@
       "color": "#1f3a5f",
       "list_url": "https://www.whitehouse.gov/briefing-room/statements-releases/",
       "items": [
+        {
+          "title_en": "Presidential Message on National American History and Founders Month",
+          "title_ko": "국립 미국 역사 및 설립자의 달에 대한 대통령 메시지",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-american-history-and-founders-month/",
+          "date": "2026-11-09"
+        },
         {
           "title_en": "Presidential Message on Diwali",
           "title_ko": "디왈리 대통령 메시지",
@@ -63,6 +69,42 @@
       "list_url": "https://www.state.gov/press-releases/",
       "items": [
         {
+          "title_en": "Secretary of State Marco Rubio Remarks to the Press",
+          "title_ko": "마르코 루비오 국무장관이 언론에 남긴 말",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-of-state-marco-rubio-remarks-to-the-press-22/",
+          "date": "2026-11-09"
+        },
+        {
+          "title_en": "Under Secretary Helberg’s Travel to Singapore, Indonesia, and Japan",
+          "title_ko": "헬베르크 장관의 싱가포르, 인도네시아, 일본 순방",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/under-secretary-helbergs-travel-to-singapore-indonesia-and-japan/",
+          "date": "2026-11-09"
+        },
+        {
+          "title_en": "Secretary Rubio’s Meeting with French Foreign Minister Barrot",
+          "title_ko": "루비오 장관과 바로트 프랑스 외무장관의 만남",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-meeting-with-french-foreign-minister-barrot-2/",
+          "date": "2026-11-09"
+        },
+        {
+          "title_en": "Secretary Rubio’s Meeting with German Foreign Minister Wadephul",
+          "title_ko": "와데풀 독일 외무장관과 루비오 장관 면담",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-meeting-with-german-foreign-minister-wadephul-4/",
+          "date": "2026-11-09"
+        },
+        {
+          "title_en": "Secretary Rubio’s Call with Paraguayan President Alliana",
+          "title_ko": "알리아나 파라과이 대통령과 함께하는 루비오 장관의 통화",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-call-with-paraguayan-president-alliana/",
+          "date": "2026-11-09"
+        },
+        {
+          "title_en": "Secretary of State Marco Rubio Remarks to the Press",
+          "title_ko": "마르코 루비오 국무장관이 언론에 남긴 말",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-of-state-marco-rubio-remarks-to-the-press-21/",
+          "date": "2026-11-08"
+        },
+        {
           "title_en": "Cambodia National Day",
           "title_ko": "캄보디아 국경일",
           "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/cambodia-national-day-2/",
@@ -85,42 +127,6 @@
           "title_ko": "미국 국무부, 2027년 베니스 건축 비엔날레 선정 발표",
           "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/u-s-department-of-state-announces-selection-for-the-2027-venice-architecture-biennale/",
           "date": "2026-11-06"
-        },
-        {
-          "title_en": "Secretary Rubio’s Travel to France",
-          "title_ko": "루비오 장관의 프랑스 여행",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-travel-to-france-2/",
-          "date": "2026-11-06"
-        },
-        {
-          "title_en": "Joint Statement on the Second Meeting of the Joint Steering Committee of the U.S.-DRC Strategic Partnership Agreement",
-          "title_ko": "한-러 전략적동반자협정 공동운영위원회 제2차 회의 공동성명",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/joint-statement-on-the-second-meeting-of-the-joint-steering-committee-of-the-u-s-drc-strategic-partnership-agreement/",
-          "date": "2026-11-06"
-        },
-        {
-          "title_en": "Congratulating Grenada’s Prime Minister Dickon Mitchell on his Reelection",
-          "title_ko": "그레나다 총리 디콘 미첼의 재선을 축하합니다",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/congratulating-grenadas-prime-minister-dickon-mitchell-on-his-reelection/",
-          "date": "2026-11-06"
-        },
-        {
-          "title_en": "Joint Statement on the Conviction of Hong Kong Alliance Leaders and Sentencing of Joshua Wong",
-          "title_ko": "홍콩동맹 지도자의 유죄선고와 조슈아 웡의 선고에 관한 공동성명",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/on-the-conviction-of-hong-kong-alliance-leaders-and-sentencing-of-joshua-wong/",
-          "date": "2026-11-06"
-        },
-        {
-          "title_en": "Reward Offers Totaling Up to $50 Million for Information Leading to Arrests and/or Convictions of Leaders of Foreign Terrorist Organization Tren de Aragua",
-          "title_ko": "외국 테러리스트 조직 Tren de Aragua 지도자의 체포 및/또는 유죄 판결로 이어지는 정보에 대해 최대 5 천만 $ 의 보상 제공",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/reward-offers-totaling-up-to-50-million-for-information-leading-to-arrests-and-or-convictions-of-leaders-of-foreign-terrorist-organization-tren-de-aragua/",
-          "date": "2026-11-05"
-        },
-        {
-          "title_en": "Dismantling the Prince Group Transnational Criminal Organization",
-          "title_ko": "프린스 그룹 초국가적 범죄 조직 해체",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/dismantling-the-prince-group-transnational-criminal-organization/",
-          "date": "2026-11-05"
         }
       ],
       "note": ""
@@ -203,6 +209,18 @@
       "list_url": "https://www.war.gov/News/Releases/",
       "items": [
         {
+          "title_en": "Brothers in Arms: Cousins by Blood, Marines by Choice",
+          "title_ko": "Brothers in Arms: Cousins by Blood, Marines by Choice",
+          "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4644855/brothers-in-arms-cousins-by-blood-marines-by-choice/",
+          "date": "2026-11-09"
+        },
+        {
+          "title_en": "Medal of Honor Monday: Marine Corps Lt. Col. Ernest Calvin Williams",
+          "title_ko": "명예 훈장 월요일: 어니스트 캘빈 윌리엄스 중령 해병대",
+          "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4586119/medal-of-honor-monday-marine-corps-lt-col-ernest-calvin-williams/",
+          "date": "2026-11-09"
+        },
+        {
           "title_en": "For Whom the Liberty Bell Tolls",
           "title_ko": "누구를 위한 리버티 벨 통행료인가",
           "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4588337/for-whom-the-liberty-bell-tolls/",
@@ -213,18 +231,6 @@
           "title_ko": "베트남에서 아프가니스탄까지: 버몬트 경비대원의 평생 봉사",
           "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4641139/from-vietnam-to-afghanistan-a-vermont-guard-members-lifetime-of-service/",
           "date": "2026-11-04"
-        },
-        {
-          "title_en": "Face of Defense: Marines Earn Top Honors at Drill Instructor School, Bring Elite Standards Home",
-          "title_ko": "방어의 얼굴: 해병대는 훈련 교관 학교에서 최고 영예를 얻고 엘리트 기준을 집으로 가져옵니다",
-          "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4619987/face-of-defense-marines-earn-top-honors-at-drill-instructor-school-bring-elite/",
-          "date": "2026-11-02"
-        },
-        {
-          "title_en": "Medal of Honor Monday: Marine Corps Maj. Ross Lindsey Iams",
-          "title_ko": "명예의 메달 월요일: 해병대 로스 린지 아이암스 소령",
-          "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4584816/medal-of-honor-monday-marine-corps-maj-ross-lindsey-iams/",
-          "date": "2026-11-02"
         }
       ],
       "note": ""
@@ -236,6 +242,54 @@
       "color": "#4b2e83",
       "list_url": "https://www.justice.gov/news",
       "items": [
+        {
+          "title_en": "Justice Department Sues Lyft for Denying Rides to Passengers with Service Dogs, Wheelchairs",
+          "title_ko": "법무부, 장애인 보조견, 휠체어를 동반한 승객에 대한 차량 서비스 거부 혐의로 리프트에 소송 제기",
+          "url": "https://www.justice.gov/opa/pr/justice-department-sues-lyft-denying-rides-passengers-service-dogs-wheelchairs",
+          "date": "2026-11-09"
+        },
+        {
+          "title_en": "Justice Department Sues the City of Glendale, California for Violating Citizens’ Second Amendment Rights Through Unreasonable Fees and Processes for Legal Firearm Permitting",
+          "title_ko": "법무부, 캘리포니아주 글렌데일시에 법적 총기 허가 절차 및 불합리한 수수료를 통한 시민의 2차 수정권 침해 혐의로 소송 제기",
+          "url": "https://www.justice.gov/opa/pr/justice-department-sues-city-glendale-california-violating-citizens-second-amendment-rights",
+          "date": "2026-11-09"
+        },
+        {
+          "title_en": "Justice Department Awards Jackson, Mississippi, more than $63M to Combat Violent Crime and Restore Law and Order Through Model Cities Initiative",
+          "title_ko": "법무부는 모델 도시 이니셔티브를 통해 폭력 범죄 퇴치 및 법률 및 질서 회복을 위해 미시시피 주 잭슨에게 $ 63M 이상을 수여합니다.",
+          "url": "https://www.justice.gov/opa/pr/justice-department-awards-jackson-mississippi-more-63m-combat-violent-crime-and-restore-law",
+          "date": "2026-11-09"
+        },
+        {
+          "title_en": "Justice Department Awards St. Louis more than $68M to Combat Violent Crime and Restore Law and Order Through Model Cities Initiative",
+          "title_ko": "법무부는 모델 도시 이니셔티브를 통해 폭력 범죄 퇴치 및 법률 및 질서 회복을 위해 세인트루이스에 $ 68M 이상을 수여합니다.",
+          "url": "https://www.justice.gov/opa/pr/justice-department-awards-st-louis-more-68m-combat-violent-crime-and-restore-law-and-order",
+          "date": "2026-11-09"
+        },
+        {
+          "title_en": "AG Blanche and Mississippi Officials Announce Jackson as Winner of the Model Cities Initiative",
+          "title_ko": "AG 블랑쉬와 미시시피 관계자들이 모델 도시 이니셔티브의 우승자로 잭슨을 발표",
+          "url": "https://www.justice.gov/opa/video/ag-blanche-and-mississippi-officials-announce-jackson-winner-model-cities-initiative",
+          "date": "2026-11-09"
+        },
+        {
+          "title_en": "Prolific Human Smuggler Extradited from Brazil Pleads Guilty to Smuggling Aliens into the United States",
+          "title_ko": "브라질에서 인도된 다산 인간 밀수업자는 유죄를 인정하여 외국인을 미국으로 밀수입합니다.",
+          "url": "https://www.justice.gov/opa/pr/prolific-human-smuggler-extradited-brazil-pleads-guilty-smuggling-aliens-united-states",
+          "date": "2026-11-09"
+        },
+        {
+          "title_en": "AG Blanche and Missouri Officials Announce St. Louis as Winner of the Model Cities Initiative",
+          "title_ko": "AG 블랑쉬와 미주리 관리들이 세인트루이스를 모범 도시 이니셔티브의 수상자로 발표했습니다.",
+          "url": "https://www.justice.gov/opa/video/ag-blanche-and-missouri-officials-announce-st-louis-winner-model-cities-initiative",
+          "date": "2026-11-09"
+        },
+        {
+          "title_en": "14 Charged in Deadly Human Smuggling Scheme That Killed 7 Aliens Earlier This Year",
+          "title_ko": "올해 초 7명의 외국인을 살해한 치명적인 인간 밀수 혐의로 기소된 14명",
+          "url": "https://www.justice.gov/opa/pr/14-charged-deadly-human-smuggling-scheme-killed-7-aliens-earlier-year",
+          "date": "2026-11-09"
+        },
         {
           "title_en": "Justice Department Awards Jacksonville More Than $73M to Combat Violent Crime and Restore Law and Order Through Model Cities Initiative",
           "title_ko": "법무부는 모델 도시 이니셔티브를 통해 폭력 범죄 퇴치 및 법률 및 질서 회복을 위해 잭슨빌에 $ 73M 이상을 수여합니다.",
@@ -259,54 +313,6 @@
           "title_ko": "캘리포니아 연구소와 그 소유주는 마케팅 담당자에게 리베이트 혐의를 해결하기 위해 $ 1.25 M을 지불합니다.",
           "url": "https://www.justice.gov/opa/pr/california-laboratory-and-its-owner-pay-125m-settle-allegations-kickbacks-marketers",
           "date": "2026-11-06"
-        },
-        {
-          "title_en": "Reward Offers Up to $50M for Information Leading to Arrests and/or Convictions of Foreign Terrorist Organization Tren de Aragua (TdA) Leaders Following Homeland Security Task Force Investigation",
-          "title_ko": "국토 안보 태스크 포스 조사에 따른 외국 테러리스트 조직 Tren de Aragua (TdA) 지도자의 체포 및/또는 유죄 판결로 이어지는 정보에 대해 최대 $ 50M 보상 제공",
-          "url": "https://www.justice.gov/opa/pr/reward-offers-50m-information-leading-arrests-andor-convictions-foreign-terrorist",
-          "date": "2026-11-05"
-        },
-        {
-          "title_en": "Justice Department Says Federal Education Aid Cannot Be Tied to Unconstitutional Race-Based Criteria",
-          "title_ko": "법무부는 연방 교육 원조가 위헌적인 인종 기반 기준에 묶일 수 없다고 말합니다.",
-          "url": "https://www.justice.gov/opa/pr/justice-department-says-federal-education-aid-cannot-be-tied-unconstitutional-race-based",
-          "date": "2026-11-05"
-        },
-        {
-          "title_en": "CEO and VA Employee Sentenced for Paying and Receiving Illegal Health Care Kickbacks and Bribes",
-          "title_ko": "CEO 및 VA 직원이 불법 건강 관리 리베이트 및 뇌물을 지불하고 받은 혐의로 선고됨",
-          "url": "https://www.justice.gov/opa/pr/ceo-and-va-employee-sentenced-paying-and-receiving-illegal-health-care-kickbacks-and-bribes",
-          "date": "2026-11-05"
-        },
-        {
-          "title_en": "Former Kokomo Police Department Officer Sentenced to 40 Years in Prison for Sexually Assaulting Minor, Lying to Investigators, and Destruction of Records",
-          "title_ko": "전 코코모 경찰서 경관은 미성년자를 성폭행하고, 수사관에게 거짓말을 하고, 기록을 파기한 혐의로 징역 40년을 선고받았습니다.",
-          "url": "https://www.justice.gov/opa/pr/former-kokomo-police-department-officer-sentenced-40-years-prison-sexually-assaulting-minor",
-          "date": "2026-11-05"
-        },
-        {
-          "title_en": "Texas Man Indicted for Sex Trafficking and Obstruction Offenses",
-          "title_ko": "성매매 및 가해 혐의로 기소된 텍사스 남성",
-          "url": "https://www.justice.gov/opa/pr/texas-man-indicted-sex-trafficking-and-obstruction-offenses",
-          "date": "2026-11-05"
-        },
-        {
-          "title_en": "Cleveland Gang Members Convicted of Racketeering, Murder, Kidnapping, Drug Trafficking, and Firearms Offenses",
-          "title_ko": "라켓티어링, 살인, 납치, 마약 밀매 및 총기 범죄로 유죄 판결을 받은 클리블랜드 갱단 구성원",
-          "url": "https://www.justice.gov/opa/pr/cleveland-gang-members-convicted-racketeering-murder-kidnapping-drug-trafficking-and",
-          "date": "2026-11-05"
-        },
-        {
-          "title_en": "U.S. Trustee Program Prevails at Trial to Revoke $3.9M Discharge from Seattle Man Who Concealed Inheritance Rights and Business Interest",
-          "title_ko": "미국 수탁자 프로그램, 재판에서 상속권과 사업 이익을 은폐한 시애틀 남성으로부터 $ 3.9M 퇴원 취소",
-          "url": "https://www.justice.gov/opa/pr/us-trustee-program-prevails-trial-revoke-39m-discharge-seattle-man-who-concealed-inheritance",
-          "date": "2026-11-05"
-        },
-        {
-          "title_en": "Justice Department Awards East Baton Rouge Parish More Than $63.5M to Combat Violent Crime and Restore Law and Order Through Model Cities Initiative",
-          "title_ko": "법무부는 모델 도시 이니셔티브를 통해 폭력 범죄를 퇴치하고 법과 질서를 회복하기 위해 $ 63.5M 이상의 East Baton Rouge Parish를 시상합니다.",
-          "url": "https://www.justice.gov/opa/pr/justice-department-awards-east-baton-rouge-parish-more-635m-combat-violent-crime-and-restore",
-          "date": "2026-11-05"
         }
       ],
       "note": ""
@@ -426,6 +432,24 @@
       "list_url": "https://www.dhs.gov/news-releases",
       "items": [
         {
+          "title_en": "WORST OF THE WORST: ICE Arrests Murderers, Pedophiles, and Sexual Predators",
+          "title_ko": "최악의 상황: ICE, 살인자, 소아성애자, 성적 약탈자 체포",
+          "url": "https://www.dhs.gov/news/2026/11/09/worst-worst-ice-arrests-murderers-pedophiles-and-sexual-predators",
+          "date": "2026-11-09"
+        },
+        {
+          "title_en": "Meet One of the Media’s ‘Non-Criminals’: ICE Arrests MS-13 Member in Idaho Charged with Terrorism in El Salvador",
+          "title_ko": "미디어의 '비범죄자‘ 중 한 명 만나기: 엘살바도르에서 테러 혐의로 기소된 아이다호에서 MS-13 회원 체포",
+          "url": "https://www.dhs.gov/news/2026/11/09/meet-one-medias-non-criminals-ice-arrests-ms-13-member-idaho-charged-terrorism-el",
+          "date": "2026-11-09"
+        },
+        {
+          "title_en": "Trump Administration Deepens Interagency Collaboration to Protect the Nation’s Skies From Unmanned Threats",
+          "title_ko": "트럼프 행정부, 무인 위협으로부터 국가의 하늘을 보호하기 위한 기관 간 협력 강화",
+          "url": "https://www.dhs.gov/news/2026/11/09/trump-administration-deepens-interagency-collaboration-protect-nations-skies",
+          "date": "2026-11-09"
+        },
+        {
           "title_en": "U.S. Secret Service Arrests Illegal Alien with Guns in Vehicle Near the White House",
           "title_ko": "미국 비밀경호국이 백악관 근처 차량에 총을 싣고 불법체류자를 체포하다",
           "url": "https://www.dhs.gov/news/2026/11/06/us-secret-service-arrests-illegal-alien-guns-vehicle-near-white-house",
@@ -466,24 +490,6 @@
           "title_ko": "DHS 하이라이트 선거 당일 전국에서 체포된 최악의 불법 체포 외국인",
           "url": "https://www.dhs.gov/news/2026/11/04/dhs-highlights-worst-illegal-aliens-arrested-across-country-election-day",
           "date": "2026-11-04"
-        },
-        {
-          "title_en": "WORST OF THE WORST: ICE Arrests Pedophiles, Violent Assailants, and Drunk Drivers",
-          "title_ko": "최악의 상황: ICE, 소아성애자, 폭력 가해자, 음주 운전자 체포",
-          "url": "https://www.dhs.gov/news/2026/11/03/worst-worst-ice-arrests-pedophiles-violent-assailants-and-drunk-drivers",
-          "date": "2026-11-03"
-        },
-        {
-          "title_en": "SANCTUARY INSANITY: DHS Condemns Sanctuary Politicians in Washington State for Refusing ICE Detainer Against Convicted Child Molester",
-          "title_ko": "성역의 광기: DHS는 유죄 판결을받은 아동 성추행범에 대한 ICE 억류를 거부 한 워싱턴주의 성역 정치인들을 비난합니다.",
-          "url": "https://www.dhs.gov/news/2026/11/03/sanctuary-insanity-dhs-condemns-sanctuary-politicians-washington-state-refusing-ice",
-          "date": "2026-11-03"
-        },
-        {
-          "title_en": "MAKING AMERICA SAFE AGAIN: Under President Trump, DHS Delivered the Most Secure Border in History and is Removing Criminal Illegal Aliens at a Record Pace",
-          "title_ko": "미국을 다시 안전하게 만들기: 트럼프 대통령 하에서 DHS는 역사상 가장 안전한 국경을 제공했으며 기록적인 속도로 범죄 불법 체류자를 제거하고 있습니다.",
-          "url": "https://www.dhs.gov/news/2026/11/03/making-america-safe-again-under-president-trump-dhs-delivered-most-secure-border",
-          "date": "2026-11-03"
         }
       ],
       "note": ""
@@ -498,38 +504,38 @@
         {
           "title_en": "Caregiver Support Program – VA Clinic Outreach",
           "title_ko": "간병인 지원 프로그램 – VA 클리닉 지원",
-          "url": "https://discover.va.gov/events/caregiver-support-program-va-clinic-outreach/",
-          "date": "2026-11-09"
+          "url": "https://discover.va.gov/events/caregiver-support-program-va-clinic-outreach-3/",
+          "date": "2026-11-10"
         },
         {
-          "title_en": "CAVC Veteran Resource Fair and Claims Clinic",
-          "title_ko": "CAVC 베테랑 자원 박람회 및 보상 청구 클리닉",
-          "url": "https://discover.va.gov/events/cavc-veteran-resource-fair-and-claims-clinic/",
-          "date": "2026-11-09"
+          "title_en": "2nd Annual Veteran and Family Resource Fair",
+          "title_ko": "제2회 참전용사 및 가족 자원 박람회",
+          "url": "https://discover.va.gov/events/2nd-annual-veteran-and-family-resource-fair/",
+          "date": "2026-11-10"
         },
         {
-          "title_en": "Pine Bluff Veteran Townhall",
-          "title_ko": "파인블러프 베테랑 타운홀",
-          "url": "https://discover.va.gov/events/pine-bluff-veteran-townhall/",
-          "date": "2026-11-09"
+          "title_en": "Annual CSP Resource Fair FY 27",
+          "title_ko": "27회 회계연도 연례 CSP 자원 박람회",
+          "url": "https://discover.va.gov/events/annual-csp-resource-fair-fy-27/",
+          "date": "2026-11-10"
         },
         {
-          "title_en": "Waukesha County Veterans Job and Resource Fair",
-          "title_ko": "와우케샤 카운티 재향 군인 일자리 및 자원 박람회",
-          "url": "https://discover.va.gov/events/waukesha-county-veterans-job-and-resource-fair/",
-          "date": "2026-11-09"
+          "title_en": "Mendocino College Veterans Resource Fair",
+          "title_ko": "멘도시노 대학 재향 군인 자원 박람회",
+          "url": "https://discover.va.gov/events/mendocino-college-veterans-resource-fair/",
+          "date": "2026-11-10"
         },
         {
-          "title_en": "Fitchburg State University Veteran Resource Fair",
-          "title_ko": "피치버그 주립대학교 베테랑 자원 박람회",
-          "url": "https://discover.va.gov/events/fitchburg-state-university-veteran-resource-fair/",
-          "date": "2026-11-09"
+          "title_en": "VA Sierra Nevada Health Care System Veterans Day Ceremony and Resources Fair",
+          "title_ko": "VA Sierra Nevada Health Care System 재향 군인의 날 기념식 및 자원 박람회",
+          "url": "https://discover.va.gov/events/va-sierra-nevada-health-care-system-veterans-day-ceremony-and-resources-fair/",
+          "date": "2026-11-10"
         },
         {
-          "title_en": "Cookeville Veterans Resource Fair 2026",
-          "title_ko": "2026년 쿠키빌 재향군인 자원 박람회",
-          "url": "https://discover.va.gov/events/cookeville-veterans-resource-fair-2026/",
-          "date": "2026-11-09"
+          "title_en": "Veterans Day Resource Fair",
+          "title_ko": "재향군인의 날 자원 박람회",
+          "url": "https://discover.va.gov/events/veterans-day-resource-fair-2/",
+          "date": "2026-11-10"
         }
       ],
       "note": ""
