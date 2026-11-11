@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10 03:08:24",
+  "generated_at": "2026-11-11 00:59:13",
   "period_days": 7,
   "translation_available": true,
   "agencies": [
@@ -10,6 +10,18 @@
       "color": "#1f3a5f",
       "list_url": "https://www.whitehouse.gov/briefing-room/statements-releases/",
       "items": [
+        {
+          "title_en": "Congressional Bills H.R. 997, H.R. 1703, H.R. 1945, and H.R. 7730 Signed into Law",
+          "title_ko": "의회 법안 H.R. 997, H.R. 1703, H.R. 1945 및 H.R. 7730 법률에 서명",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-997-h-r-1703-h-r-1945-and-h-r-7730-signed-into-law/",
+          "date": "2026-11-10"
+        },
+        {
+          "title_en": "First Lady Melania Trump’s Fostering the Future Together Grows Its International Momentum Across the United States, Asia, Europe, and the Caribbean",
+          "title_ko": "영부인 멜라니아 트럼프의 함께 미래를 육성하는 것은 미국, 아시아, 유럽 및 카리브해 전역에 걸쳐 국제적인 모멘텀을 성장시킵니다.",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trumps-fostering-the-future-together-grows-its-international-momentum-across-the-united-states-asia-europe-and-the-caribbean/",
+          "date": "2026-11-10"
+        },
         {
           "title_en": "Presidential Message on National American History and Founders Month",
           "title_ko": "국립 미국 역사 및 설립자의 달에 대한 대통령 메시지",
@@ -45,18 +57,6 @@
           "title_ko": "영부인 멜라니아 트럼프와 LSU, 미래 인다우먼트 기금 조성 $ 5 백만 설립",
           "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-and-lsu-establish-5-million-fostering-the-future-endowment-fund/",
           "date": "2026-11-04"
-        },
-        {
-          "title_en": "Congressional Bills H.R. 1744 and H.R. 8205 Signed into Law",
-          "title_ko": "의회 법안 H.R. 1744 및 H.R. 8205 법률에 서명",
-          "url": "https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-1744-and-h-r-8205-signed-into-law/",
-          "date": "2026-11-03"
-        },
-        {
-          "title_en": "First Lady Melania Trump to Convene Russian and Ukrainian Representatives at the White House",
-          "title_ko": "멜라니아 트럼프 영부인, 러시아와 우크라이나 대표단 백악관 소집",
-          "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-to-convene-russian-and-ukrainian-representatives-at-the-white-house/",
-          "date": "2026-11-03"
         }
       ],
       "note": ""
@@ -68,6 +68,18 @@
       "color": "#0b3d91",
       "list_url": "https://www.state.gov/press-releases/",
       "items": [
+        {
+          "title_en": "Secretary of State Marco Rubio Remarks to the Press",
+          "title_ko": "마르코 루비오 국무장관이 언론에 남긴 말",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-of-state-marco-rubio-remarks-to-the-press-23/",
+          "date": "2026-11-10"
+        },
+        {
+          "title_en": "Secretary Rubio’s Meeting with Ukrainian Foreign Minister Sybiha",
+          "title_ko": "우크라이나 시비하 외무장관과 루비오 장관 면담",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-meeting-with-ukrainian-foreign-minister-sybiha/",
+          "date": "2026-11-10"
+        },
         {
           "title_en": "Secretary of State Marco Rubio Remarks to the Press",
           "title_ko": "마르코 루비오 국무장관이 언론에 남긴 말",
@@ -114,18 +126,6 @@
           "title_en": "Joint Statement on the Launch of Trilateral Technical Planning Groups to Advance the Trump Route for International Peace and Prosperity (TRIPP)",
           "title_ko": "국제평화번영을 위한 트럼프노선 (TRIPP) 발전을 위한 3국 기술기획단 출범에 관한 공동성명",
           "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/joint-statement-on-the-launch-of-trilateral-technical-planning-groups-to-advance-the-trump-route-for-international-peace-and-prosperity-tripp/",
-          "date": "2026-11-06"
-        },
-        {
-          "title_en": "U.S. Sanctions Cripple Financial Networks Sustaining the Iranian Regime",
-          "title_ko": "미국 제재 불구 금융 네트워크 이란 정권 유지",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/u-s-sanctions-cripple-financial-networks-sustaining-the-iranian-regime/",
-          "date": "2026-11-06"
-        },
-        {
-          "title_en": "U.S. Department of State Announces Selection for the 2027 Venice Architecture Biennale",
-          "title_ko": "미국 국무부, 2027년 베니스 건축 비엔날레 선정 발표",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/u-s-department-of-state-announces-selection-for-the-2027-venice-architecture-biennale/",
           "date": "2026-11-06"
         }
       ],
@@ -209,6 +209,12 @@
       "list_url": "https://www.war.gov/News/Releases/",
       "items": [
         {
+          "title_en": "Indiana Guard Unit Receives Presidential Unit Citation for Vietnam Heroism",
+          "title_ko": "인디애나 가드 유닛, 베트남 영웅주의 대통령 부대 표창 수상",
+          "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4646364/indiana-guard-unit-receives-presidential-unit-citation-for-vietnam-heroism/",
+          "date": "2026-11-10"
+        },
+        {
           "title_en": "Brothers in Arms: Cousins by Blood, Marines by Choice",
           "title_ko": "Brothers in Arms: Cousins by Blood, Marines by Choice",
           "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4644855/brothers-in-arms-cousins-by-blood-marines-by-choice/",
@@ -243,76 +249,76 @@
       "list_url": "https://www.justice.gov/news",
       "items": [
         {
+          "title_en": "Idaho Man Sentenced to 18 Years in Prison for Attempting to Provide Material Support to ISIS in Plot to Attack Churches",
+          "title_ko": "아이다호 맨은 교회를 공격하기 위한 음모에서 ISIS에 물질적 지원을 제공하려 한 혐의로 징역 18년을 선고받았습니다.",
+          "url": "https://www.justice.gov/opa/pr/idaho-man-sentenced-18-years-prison-attempting-provide-material-support-isis-plot-attack",
+          "date": "2026-11-10"
+        },
+        {
+          "title_en": "New Jersey Tax Preparer Pleads Guilty to Filing False Tax Returns for Clients",
+          "title_ko": "뉴저지 세금 준비자는 고객을 위해 허위 세금 보고서를 제출하는 것에 대해 유죄를 인정합니다.",
+          "url": "https://www.justice.gov/opa/pr/new-jersey-tax-preparer-pleads-guilty-filing-false-tax-returns-clients",
+          "date": "2026-11-10"
+        },
+        {
+          "title_en": "Bergen County Orthopedic Surgeon Pleads Guilty to Employment Tax Crime",
+          "title_ko": "버겐 카운티 정형외과 의사는 고용세 범죄에 유죄를 인정합니다",
+          "url": "https://www.justice.gov/opa/pr/bergen-county-orthopedic-surgeon-pleads-guilty-employment-tax-crime",
+          "date": "2026-11-10"
+        },
+        {
+          "title_en": "Dual Kazakhstani-Tajikistani Citizen Extradited from Egypt  for Role in Alien Smuggling Conspiracy",
+          "title_ko": "카자흐스탄-타지키스탄 이중 국적자, 외계인 밀입국 음모 혐의로 이집트에서 추방",
+          "url": "https://www.justice.gov/opa/pr/dual-kazakhstani-tajikistani-citizen-extradited-egypt-role-alien-smuggling-conspiracy",
+          "date": "2026-11-10"
+        },
+        {
+          "title_en": "Court Orders Atlanta Area Tax Return Preparer to Permanently Shut Down Tax Preparation Business",
+          "title_ko": "법원 명령 애틀랜타 지역 세금 환급 준비자가 세금 준비 사업을 영구적으로 중단하도록 명령",
+          "url": "https://www.justice.gov/opa/pr/court-orders-atlanta-area-tax-return-preparer-permanently-shut-down-tax-preparation-business",
+          "date": "2026-11-10"
+        },
+        {
+          "title_en": "Court Permanently Bars Florida Tax Return Preparer and Tax Preparation Business and Orders Disgorgement of More Than $550,000",
+          "title_ko": "법원은 영구적으로 플로리다 세금 신고 준비자 및 세금 준비 사업 및 $ 550,000 이상의 명령 불복종을 금지합니다.",
+          "url": "https://www.justice.gov/opa/pr/court-permanently-bars-florida-tax-return-preparer-and-tax-preparation-business-and-orders",
+          "date": "2026-11-10"
+        },
+        {
+          "title_en": "Social Adult Day Care Program Director Pleads Guilty to $127M Medicare and Medicaid Fraud Scheme",
+          "title_ko": "사회 성인 데이 케어 프로그램 디렉터는 $ 127M 메디케어 및 메디케이드 사기 제도에 유죄를 인정합니다",
+          "url": "https://www.justice.gov/opa/pr/social-adult-day-care-program-director-pleads-guilty-127m-medicare-and-medicaid-fraud-scheme",
+          "date": "2026-11-10"
+        },
+        {
+          "title_en": "Illinois Tax Preparer Sentenced for Stealing More than $11M from Taxpayers in COVID-19 Assistance Fraud Scheme",
+          "title_ko": "일리노이주 세금 준비자가 코로나19 지원 사기 제도의 납세자로부터 $ 11M 이상을 훔친 혐의로 선고받음",
+          "url": "https://www.justice.gov/opa/pr/illinois-tax-preparer-sentenced-stealing-more-11m-taxpayers-covid-19-assistance-fraud-scheme",
+          "date": "2026-11-10"
+        },
+        {
+          "title_en": "Three Iranian-Backed Operatives Indicted for Their Roles in Nearly 20 Terrorist Attacks and Attempted Attacks Across Europe and the United States",
+          "title_ko": "유럽과 미국 전역에서 거의 20건의 테러 공격과 공격 시도에서 자신의 역할로 기소된 세 명의 이란 지원 요원",
+          "url": "https://www.justice.gov/opa/pr/three-iranian-backed-operatives-indicted-their-roles-nearly-20-terrorist-attacks-and",
+          "date": "2026-11-10"
+        },
+        {
+          "title_en": "Multi-State Homeland Security Task Force Investigation Leads to 36 Indicted for Drug Trafficking and Money Laundering",
+          "title_ko": "다국적 국토안보 태스크포스 수사팀, 마약 밀매 및 자금세탁 혐의로 36명 기소",
+          "url": "https://www.justice.gov/opa/pr/multi-state-homeland-security-task-force-investigation-leads-36-indicted-drug-trafficking",
+          "date": "2026-11-10"
+        },
+        {
+          "title_en": "Arizona Federal Court Denies Request to Halt Hermosa Critical Minerals Project",
+          "title_ko": "애리조나 연방법원, 헤르모사 중요 광물 프로젝트 중단 요청 거부",
+          "url": "https://www.justice.gov/opa/pr/arizona-federal-court-denies-request-halt-hermosa-critical-minerals-project",
+          "date": "2026-11-10"
+        },
+        {
           "title_en": "Justice Department Sues Lyft for Denying Rides to Passengers with Service Dogs, Wheelchairs",
           "title_ko": "법무부, 장애인 보조견, 휠체어를 동반한 승객에 대한 차량 서비스 거부 혐의로 리프트에 소송 제기",
           "url": "https://www.justice.gov/opa/pr/justice-department-sues-lyft-denying-rides-passengers-service-dogs-wheelchairs",
           "date": "2026-11-09"
-        },
-        {
-          "title_en": "Justice Department Sues the City of Glendale, California for Violating Citizens’ Second Amendment Rights Through Unreasonable Fees and Processes for Legal Firearm Permitting",
-          "title_ko": "법무부, 캘리포니아주 글렌데일시에 법적 총기 허가 절차 및 불합리한 수수료를 통한 시민의 2차 수정권 침해 혐의로 소송 제기",
-          "url": "https://www.justice.gov/opa/pr/justice-department-sues-city-glendale-california-violating-citizens-second-amendment-rights",
-          "date": "2026-11-09"
-        },
-        {
-          "title_en": "Justice Department Awards Jackson, Mississippi, more than $63M to Combat Violent Crime and Restore Law and Order Through Model Cities Initiative",
-          "title_ko": "법무부는 모델 도시 이니셔티브를 통해 폭력 범죄 퇴치 및 법률 및 질서 회복을 위해 미시시피 주 잭슨에게 $ 63M 이상을 수여합니다.",
-          "url": "https://www.justice.gov/opa/pr/justice-department-awards-jackson-mississippi-more-63m-combat-violent-crime-and-restore-law",
-          "date": "2026-11-09"
-        },
-        {
-          "title_en": "Justice Department Awards St. Louis more than $68M to Combat Violent Crime and Restore Law and Order Through Model Cities Initiative",
-          "title_ko": "법무부는 모델 도시 이니셔티브를 통해 폭력 범죄 퇴치 및 법률 및 질서 회복을 위해 세인트루이스에 $ 68M 이상을 수여합니다.",
-          "url": "https://www.justice.gov/opa/pr/justice-department-awards-st-louis-more-68m-combat-violent-crime-and-restore-law-and-order",
-          "date": "2026-11-09"
-        },
-        {
-          "title_en": "AG Blanche and Mississippi Officials Announce Jackson as Winner of the Model Cities Initiative",
-          "title_ko": "AG 블랑쉬와 미시시피 관계자들이 모델 도시 이니셔티브의 우승자로 잭슨을 발표",
-          "url": "https://www.justice.gov/opa/video/ag-blanche-and-mississippi-officials-announce-jackson-winner-model-cities-initiative",
-          "date": "2026-11-09"
-        },
-        {
-          "title_en": "Prolific Human Smuggler Extradited from Brazil Pleads Guilty to Smuggling Aliens into the United States",
-          "title_ko": "브라질에서 인도된 다산 인간 밀수업자는 유죄를 인정하여 외국인을 미국으로 밀수입합니다.",
-          "url": "https://www.justice.gov/opa/pr/prolific-human-smuggler-extradited-brazil-pleads-guilty-smuggling-aliens-united-states",
-          "date": "2026-11-09"
-        },
-        {
-          "title_en": "AG Blanche and Missouri Officials Announce St. Louis as Winner of the Model Cities Initiative",
-          "title_ko": "AG 블랑쉬와 미주리 관리들이 세인트루이스를 모범 도시 이니셔티브의 수상자로 발표했습니다.",
-          "url": "https://www.justice.gov/opa/video/ag-blanche-and-missouri-officials-announce-st-louis-winner-model-cities-initiative",
-          "date": "2026-11-09"
-        },
-        {
-          "title_en": "14 Charged in Deadly Human Smuggling Scheme That Killed 7 Aliens Earlier This Year",
-          "title_ko": "올해 초 7명의 외국인을 살해한 치명적인 인간 밀수 혐의로 기소된 14명",
-          "url": "https://www.justice.gov/opa/pr/14-charged-deadly-human-smuggling-scheme-killed-7-aliens-earlier-year",
-          "date": "2026-11-09"
-        },
-        {
-          "title_en": "Justice Department Awards Jacksonville More Than $73M to Combat Violent Crime and Restore Law and Order Through Model Cities Initiative",
-          "title_ko": "법무부는 모델 도시 이니셔티브를 통해 폭력 범죄 퇴치 및 법률 및 질서 회복을 위해 잭슨빌에 $ 73M 이상을 수여합니다.",
-          "url": "https://www.justice.gov/opa/pr/justice-department-awards-jacksonville-more-73m-combat-violent-crime-and-restore-law-and",
-          "date": "2026-11-06"
-        },
-        {
-          "title_en": "AG Blanche and Florida Officials Announce Jacksonville as Winner of the Model Cities Initiative",
-          "title_ko": "AG 블랑쉬와 플로리다 공무원이 모델 도시 이니셔티브의 우승자로 잭슨빌을 발표했습니다",
-          "url": "https://www.justice.gov/opa/video/ag-blanche-and-florida-officials-announce-jacksonville-winner-model-cities-initiative",
-          "date": "2026-11-06"
-        },
-        {
-          "title_en": "Statement of the Department of Justice Antitrust Division on the Closing of Its Investigation of the Merger of FOX and Roku",
-          "title_ko": "폭스와 로쿠의 합병에 대한 조사의 종결에 관한 법무부 독점금지본부 성명서",
-          "url": "https://www.justice.gov/opa/pr/statement-department-justice-antitrust-division-closing-its-investigation-merger-fox-and",
-          "date": "2026-11-06"
-        },
-        {
-          "title_en": "California Laboratory and Its Owner Pay $1.25M to Settle Allegations of Kickbacks to Marketers",
-          "title_ko": "캘리포니아 연구소와 그 소유주는 마케팅 담당자에게 리베이트 혐의를 해결하기 위해 $ 1.25 M을 지불합니다.",
-          "url": "https://www.justice.gov/opa/pr/california-laboratory-and-its-owner-pay-125m-settle-allegations-kickbacks-marketers",
-          "date": "2026-11-06"
         }
       ],
       "note": ""
@@ -407,10 +413,10 @@
       "list_url": "https://www.energy.gov/news",
       "items": [
         {
-          "title_en": "FACT SHEET: Delivering on President Trump's Promise to Unleash Prosperity and Security for the United States and Venezuela",
-          "title_ko": "팩트 시트: 미국과 베네수엘라의 번영과 안보를 실현하겠다는 트럼프 대통령의 약속 이행",
-          "url": "https://www.energy.gov/articles/fact-sheet-delivering-president-trumps-promise-unleash-prosperity-and-security-united",
-          "date": "2026-11-07"
+          "title_en": "Energy Department Closes $480 Million Loan to Expand American Energy Production and Strengthen Offshore Infrastructure in the Gulf of America",
+          "title_ko": "에너지부, 미국 만의 에너지 생산 확대 및 해양 인프라 강화를 위해 4억 8천만 $ 대출 마감",
+          "url": "https://www.energy.gov/articles/energy-department-closes-480-million-loan-expand-american-energy-production-and-strengthen",
+          "date": "2026-11-10"
         }
       ],
       "note": ""
@@ -431,6 +437,42 @@
       "color": "#00274d",
       "list_url": "https://www.dhs.gov/news-releases",
       "items": [
+        {
+          "title_en": "Secretary Mullin Joins White House Task Force at Drone Security Forum to Protect the Homeland From Unauthorized Drone Threats",
+          "title_ko": "멀린 장관, 무단 드론 위협으로부터 국토를 보호하기 위해 드론 보안 포럼에서 백악관 태스크포스에 합류",
+          "url": "https://www.dhs.gov/news/2026/11/10/secretary-mullin-joins-white-house-task-force-drone-security-forum-protect-homeland",
+          "date": "2026-11-10"
+        },
+        {
+          "title_en": "WORST OF THE WORST: ICE Arrests Murderers, Sexual Predators, and Drug Traffickers",
+          "title_ko": "최악의 상황: ICE, 살인자, 성범죄자, 마약 밀매자 체포",
+          "url": "https://www.dhs.gov/news/2026/11/10/worst-worst-ice-arrests-murderers-sexual-predators-and-drug-traffickers",
+          "date": "2026-11-10"
+        },
+        {
+          "title_en": "DHS Calls on Sanctuary Politicians in Mecklenburg County, North Carolina to Honor ICE Detainer and Not Release a Previously-Deported Rapist",
+          "title_ko": "국토안보부는 노스캐롤라이나 주 메클렌버그 카운티의 성역 정치인들에게 ICE 억류자를 기리고 이전에 추방된 강간범을 석방하지 말 것을 촉구합니다.",
+          "url": "https://www.dhs.gov/news/2026/11/10/dhs-calls-sanctuary-politicians-mecklenburg-county-north-carolina-honor-ice",
+          "date": "2026-11-10"
+        },
+        {
+          "title_en": "SANCTUARY INSANITY: DHS Condemns Sanctuary Politicians in Illinois for Releasing a Violent Criminal Rather Than Honoring ICE Detainer",
+          "title_ko": "성역의 광기: 미국 국토안보부 (DHS) 는 일리노이주의 성역 정치인들이 ICE 억류자를 존중하는 대신 폭력 범죄자를 석방한 것을 규탄합니다.",
+          "url": "https://www.dhs.gov/news/2026/11/10/sanctuary-insanity-dhs-condemns-sanctuary-politicians-illinois-releasing-violent",
+          "date": "2026-11-10"
+        },
+        {
+          "title_en": "DHS Highlights Worst Illegal Aliens Arrested in Austin, Texas",
+          "title_ko": "텍사스주 오스틴에서 체포된 최악의 불법체류 외국인",
+          "url": "https://www.dhs.gov/news/2026/11/10/dhs-highlights-worst-illegal-aliens-arrested-austin-texas",
+          "date": "2026-11-10"
+        },
+        {
+          "title_en": "DHS is Taking Down Asylum Fraudsters",
+          "title_ko": "국토안보부가 망명 사기범을 물리치고 있습니다",
+          "url": "https://www.dhs.gov/news/2026/11/10/dhs-taking-down-asylum-fraudsters",
+          "date": "2026-11-10"
+        },
         {
           "title_en": "WORST OF THE WORST: ICE Arrests Murderers, Pedophiles, and Sexual Predators",
           "title_ko": "최악의 상황: ICE, 살인자, 소아성애자, 성적 약탈자 체포",
@@ -454,42 +496,6 @@
           "title_ko": "미국 비밀경호국이 백악관 근처 차량에 총을 싣고 불법체류자를 체포하다",
           "url": "https://www.dhs.gov/news/2026/11/06/us-secret-service-arrests-illegal-alien-guns-vehicle-near-white-house",
           "date": "2026-11-06"
-        },
-        {
-          "title_en": "WORST OF THE WORST: ICE Arrests Pedophiles, Sexual Assailants, and Drug Traffickers",
-          "title_ko": "최악의 경우: ICE, 소아성애자, 성폭행범, 마약 밀매자 체포",
-          "url": "https://www.dhs.gov/news/2026/11/06/worst-worst-ice-arrests-pedophiles-sexual-assailants-and-drug-traffickers",
-          "date": "2026-11-06"
-        },
-        {
-          "title_en": "SANCTUARY INSANITY: New York Sanctuary Politicians Release Illegal Alien Convicted of Robbery and Assault",
-          "title_ko": "성역의 광기: 뉴욕 성역의 정치인들이 강도와 폭행으로 유죄 판결을 받은 불법 체류자를 석방하다",
-          "url": "https://www.dhs.gov/news/2026/11/06/sanctuary-insanity-new-york-sanctuary-politicians-release-illegal-alien-convicted",
-          "date": "2026-11-06"
-        },
-        {
-          "title_en": "SANCTUARY INSANITY: Sanctuary Minnesota Refuses to Honor ICE Detainer for Somalian Illegal Alien Convicted for Aggravated Assault and Drug Trafficking",
-          "title_ko": "피난처 광기: 피난처 미네소타, 가중 폭행 및 마약 밀매 혐의로 유죄 판결을받은 소말리아 불법 체류 외국인에 대한 ICE 구금자의 명예를 거부합니다.",
-          "url": "https://www.dhs.gov/news/2026/11/05/sanctuary-insanity-sanctuary-minnesota-refuses-honor-ice-detainer-somalian-illegal",
-          "date": "2026-11-05"
-        },
-        {
-          "title_en": "WORST OF THE WORST: ICE Arrests Pedophiles, Sexual Predators, and Drug Traffickers",
-          "title_ko": "최악의 상황: ICE, 소아성애자, 성범죄자, 마약 밀매자 체포",
-          "url": "https://www.dhs.gov/news/2026/11/05/worst-worst-ice-arrests-pedophiles-sexual-predators-and-drug-traffickers",
-          "date": "2026-11-05"
-        },
-        {
-          "title_en": "ICE Lodges Detainer for Illegal Alien Arrested for Rape in New York City",
-          "title_ko": "뉴욕시에서 강간 혐의로 체포된 불법 체류 외국인 얼음 산장 수감자",
-          "url": "https://www.dhs.gov/news/2026/11/05/ice-lodges-detainer-illegal-alien-arrested-rape-new-york-city",
-          "date": "2026-11-05"
-        },
-        {
-          "title_en": "DHS Highlights Worst Illegal Aliens Arrested Across the Country on Election Day",
-          "title_ko": "DHS 하이라이트 선거 당일 전국에서 체포된 최악의 불법 체포 외국인",
-          "url": "https://www.dhs.gov/news/2026/11/04/dhs-highlights-worst-illegal-aliens-arrested-across-country-election-day",
-          "date": "2026-11-04"
         }
       ],
       "note": ""
@@ -502,40 +508,40 @@
       "list_url": "https://news.va.gov/",
       "items": [
         {
-          "title_en": "Caregiver Support Program – VA Clinic Outreach",
-          "title_ko": "간병인 지원 프로그램 – VA 클리닉 지원",
-          "url": "https://discover.va.gov/events/caregiver-support-program-va-clinic-outreach-3/",
-          "date": "2026-11-10"
+          "title_en": "Duty, Honor, Community: Veterans Appreciation and Resource Summit",
+          "title_ko": "의무, 명예, 공동체: 재향 군인 감사 및 자원 정상 회담",
+          "url": "https://discover.va.gov/events/duty-honor-community-veterans-appreciation-and-resource-summit/",
+          "date": "2026-11-12"
         },
         {
-          "title_en": "2nd Annual Veteran and Family Resource Fair",
-          "title_ko": "제2회 참전용사 및 가족 자원 박람회",
-          "url": "https://discover.va.gov/events/2nd-annual-veteran-and-family-resource-fair/",
-          "date": "2026-11-10"
+          "title_en": "Redlands Veterans Day Parade",
+          "title_ko": "레드랜즈 재향군인의 날 퍼레이드",
+          "url": "https://discover.va.gov/events/redlands-veterans-day-parade/",
+          "date": "2026-11-11"
         },
         {
-          "title_en": "Annual CSP Resource Fair FY 27",
-          "title_ko": "27회 회계연도 연례 CSP 자원 박람회",
-          "url": "https://discover.va.gov/events/annual-csp-resource-fair-fy-27/",
-          "date": "2026-11-10"
+          "title_en": "Honor Veterans at Bristol Community College this Veterans Day",
+          "title_ko": "이번 재향 군인의 날 브리스톨 커뮤니티 칼리지 (Bristol Community College) 의 재향 군인 명예",
+          "url": "https://discover.va.gov/events/honor-veterans-at-bristol-community-college-this-veterans-day/",
+          "date": "2026-11-11"
         },
         {
-          "title_en": "Mendocino College Veterans Resource Fair",
-          "title_ko": "멘도시노 대학 재향 군인 자원 박람회",
-          "url": "https://discover.va.gov/events/mendocino-college-veterans-resource-fair/",
-          "date": "2026-11-10"
+          "title_en": "Mono County California Veterans Day Event",
+          "title_ko": "캘리포니아 모노 카운티 재향군인의 날 이벤트",
+          "url": "https://discover.va.gov/events/mono-county-california-veterans-day-event/",
+          "date": "2026-11-11"
         },
         {
-          "title_en": "VA Sierra Nevada Health Care System Veterans Day Ceremony and Resources Fair",
-          "title_ko": "VA Sierra Nevada Health Care System 재향 군인의 날 기념식 및 자원 박람회",
-          "url": "https://discover.va.gov/events/va-sierra-nevada-health-care-system-veterans-day-ceremony-and-resources-fair/",
-          "date": "2026-11-10"
+          "title_en": "Bay Pines VA Hosting Annual Veterans Day Ceremony",
+          "title_ko": "버지니아주 베이파인스에서 매년 재향군인의 날 기념식 개최",
+          "url": "https://discover.va.gov/events/bay-pines-va-hosting-annual-veterans-day-ceremony/",
+          "date": "2026-11-11"
         },
         {
-          "title_en": "Veterans Day Resource Fair",
-          "title_ko": "재향군인의 날 자원 박람회",
-          "url": "https://discover.va.gov/events/veterans-day-resource-fair-2/",
-          "date": "2026-11-10"
+          "title_en": "Veterans Day Celebration",
+          "title_ko": "재향군인의 날 기념",
+          "url": "https://discover.va.gov/events/veterans-day-celebration/",
+          "date": "2026-11-11"
         }
       ],
       "note": ""
