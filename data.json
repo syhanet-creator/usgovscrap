@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11 00:59:13",
+  "generated_at": "2026-11-12 02:06:29",
   "period_days": 7,
   "translation_available": true,
   "agencies": [
@@ -11,52 +11,64 @@
       "list_url": "https://www.whitehouse.gov/briefing-room/statements-releases/",
       "items": [
         {
+          "title_en": "Presidential Message on Victory Day for World War I",
+          "title_ko": "제1차 세계 대전 승전일에 대한 대통령 메시지",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-victory-day-for-world-war-i-dd1e/",
+          "date": "2026-11-11"
+        },
+        {
+          "title_en": "Presidential Message on National Diabetes Month",
+          "title_ko": "전국 당뇨병의 달을 맞아 대통령이 전하는 메시지",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-diabetes-month-a726/",
+          "date": "2026-11-10"
+        },
+        {
+          "title_en": "Presidential Message on the Birthday of the United States Marine Corps",
+          "title_ko": "미국 해병대 창설 기념일에 대한 대통령 메시지",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-the-birthday-of-the-united-states-marine-corps/",
+          "date": "2026-11-10"
+        },
+        {
+          "title_en": "Presidential Message on National Alzheimer’s Disease Awareness Month",
+          "title_ko": "전국 알츠하이머병 인식의 달을 맞아 대통령이 전하는 메시지",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-alzheimers-disease-awareness-month-59dc/",
+          "date": "2026-11-10"
+        },
+        {
+          "title_en": "Presidential Message on Critical Infrastructure Security and Resilience Month",
+          "title_ko": "중요 인프라 보안 및 복원력의 달에 대한 대통령 메시지",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-critical-infrastructure-security-and-resilience-month-aa39/",
+          "date": "2026-11-10"
+        },
+        {
           "title_en": "Congressional Bills H.R. 997, H.R. 1703, H.R. 1945, and H.R. 7730 Signed into Law",
-          "title_ko": "의회 법안 H.R. 997, H.R. 1703, H.R. 1945 및 H.R. 7730 법률에 서명",
+          "title_ko": "의회 법안 H.R. 997, H.R. 1703, H.R. 1945, H.R. 7730이 법률로 제정됨",
           "url": "https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-997-h-r-1703-h-r-1945-and-h-r-7730-signed-into-law/",
           "date": "2026-11-10"
         },
         {
           "title_en": "First Lady Melania Trump’s Fostering the Future Together Grows Its International Momentum Across the United States, Asia, Europe, and the Caribbean",
-          "title_ko": "영부인 멜라니아 트럼프의 함께 미래를 육성하는 것은 미국, 아시아, 유럽 및 카리브해 전역에 걸쳐 국제적인 모멘텀을 성장시킵니다.",
+          "title_ko": "멜라니아 트럼프 여사의 '함께 미래를 키워가는(Fostering the Future Together)' 캠페인이 미국, 아시아, 유럽, 카리브해 전역에서 국제적 영향력을 확대하고 있습니다.",
           "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trumps-fostering-the-future-together-grows-its-international-momentum-across-the-united-states-asia-europe-and-the-caribbean/",
           "date": "2026-11-10"
         },
         {
           "title_en": "Presidential Message on National American History and Founders Month",
-          "title_ko": "국립 미국 역사 및 설립자의 달에 대한 대통령 메시지",
+          "title_ko": "미국 역사 및 건국자 달에 대한 대통령 메시지",
           "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-american-history-and-founders-month/",
           "date": "2026-11-09"
         },
         {
           "title_en": "Presidential Message on Diwali",
-          "title_ko": "디왈리 대통령 메시지",
+          "title_ko": "디왈리(Diwali)를 맞아 대통령이 전하는 메시지",
           "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-diwali-1f71/",
           "date": "2026-11-08"
         },
         {
           "title_en": "Presidential Message on Honoring the American Flag",
-          "title_ko": "미국 국기 기념에 관한 대통령 메시지",
+          "title_ko": "미국 국기 경의에 관한 대통령 메시지",
           "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-honoring-the-american-flag/",
           "date": "2026-11-07"
-        },
-        {
-          "title_en": "First Lady Melania Trump and LSU Establish $7.2 Million Fostering the Future Endowment Fund",
-          "title_ko": "영부인 멜라니아 트럼프와 LSU, 미래 인다우먼트 기금 조성 $ 720만 설립",
-          "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-and-lsu-establish-7-2-million-fostering-the-future-endowment-fund/",
-          "date": "2026-11-07"
-        },
-        {
-          "title_en": "First Lady Melania Trump Unites Russia and Ukraine at The White House Following Historic Ceasefire",
-          "title_ko": "영부인 멜라니아 트럼프, 역사적인 휴전 이후 백악관에서 러시아와 우크라이나를 단결시키다",
-          "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-unites-russia-and-ukraine-at-the-white-house-following-historic-ceasefire/",
-          "date": "2026-11-05"
-        },
-        {
-          "title_en": "First Lady Melania Trump and LSU Establish $5 Million Fostering the Future Endowment Fund",
-          "title_ko": "영부인 멜라니아 트럼프와 LSU, 미래 인다우먼트 기금 조성 $ 5 백만 설립",
-          "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-and-lsu-establish-5-million-fostering-the-future-endowment-fund/",
-          "date": "2026-11-04"
         }
       ],
       "note": ""
@@ -69,64 +81,64 @@
       "list_url": "https://www.state.gov/press-releases/",
       "items": [
         {
+          "title_en": "Secretary Rubio’s Call with China’s Director of the Office of the CCP Central Foreign Affairs CommissionAnd Foreign Minister Wang",
+          "title_ko": "루비오 장관과 중국 공산당 중앙외사위원회 사무국장 및 왕이 외교부장의 통화",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-call-with-chinas-director-of-the-office-of-the-ccp-central-foreign-affairs-commissionand-foreign-minister-wang/",
+          "date": "2026-11-11"
+        },
+        {
+          "title_en": "Angola National Day",
+          "title_ko": "앙골라 건국기념일",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/angola-national-day-2/",
+          "date": "2026-11-11"
+        },
+        {
           "title_en": "Secretary of State Marco Rubio Remarks to the Press",
-          "title_ko": "마르코 루비오 국무장관이 언론에 남긴 말",
+          "title_ko": "마르코 루비오 국무장관의 언론 브리핑 발언",
           "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-of-state-marco-rubio-remarks-to-the-press-23/",
           "date": "2026-11-10"
         },
         {
           "title_en": "Secretary Rubio’s Meeting with Ukrainian Foreign Minister Sybiha",
-          "title_ko": "우크라이나 시비하 외무장관과 루비오 장관 면담",
+          "title_ko": "루비오 장관과 시비하 우크라이나 외무장관의 회담",
           "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-meeting-with-ukrainian-foreign-minister-sybiha/",
           "date": "2026-11-10"
         },
         {
           "title_en": "Secretary of State Marco Rubio Remarks to the Press",
-          "title_ko": "마르코 루비오 국무장관이 언론에 남긴 말",
+          "title_ko": "마르코 루비오 국무장관의 언론 브리핑 발언",
           "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-of-state-marco-rubio-remarks-to-the-press-22/",
           "date": "2026-11-09"
         },
         {
           "title_en": "Under Secretary Helberg’s Travel to Singapore, Indonesia, and Japan",
-          "title_ko": "헬베르크 장관의 싱가포르, 인도네시아, 일본 순방",
+          "title_ko": "헬버그 차관보의 싱가포르, 인도네시아, 일본 방문",
           "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/under-secretary-helbergs-travel-to-singapore-indonesia-and-japan/",
           "date": "2026-11-09"
         },
         {
           "title_en": "Secretary Rubio’s Meeting with French Foreign Minister Barrot",
-          "title_ko": "루비오 장관과 바로트 프랑스 외무장관의 만남",
+          "title_ko": "루비오 장관의 프랑스 바로 외교부 장관과의 회담",
           "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-meeting-with-french-foreign-minister-barrot-2/",
           "date": "2026-11-09"
         },
         {
           "title_en": "Secretary Rubio’s Meeting with German Foreign Minister Wadephul",
-          "title_ko": "와데풀 독일 외무장관과 루비오 장관 면담",
+          "title_ko": "루비오 장관과 독일 외무장관 와데풀의 회담",
           "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-meeting-with-german-foreign-minister-wadephul-4/",
           "date": "2026-11-09"
         },
         {
           "title_en": "Secretary Rubio’s Call with Paraguayan President Alliana",
-          "title_ko": "알리아나 파라과이 대통령과 함께하는 루비오 장관의 통화",
+          "title_ko": "루비오 장관과 파라과이 알리아나 대통령의 통화",
           "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-call-with-paraguayan-president-alliana/",
           "date": "2026-11-09"
         },
         {
           "title_en": "Secretary of State Marco Rubio Remarks to the Press",
-          "title_ko": "마르코 루비오 국무장관이 언론에 남긴 말",
+          "title_ko": "마르코 루비오 국무장관의 언론 브리핑 발언",
           "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-of-state-marco-rubio-remarks-to-the-press-21/",
           "date": "2026-11-08"
-        },
-        {
-          "title_en": "Cambodia National Day",
-          "title_ko": "캄보디아 국경일",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/cambodia-national-day-2/",
-          "date": "2026-11-08"
-        },
-        {
-          "title_en": "Joint Statement on the Launch of Trilateral Technical Planning Groups to Advance the Trump Route for International Peace and Prosperity (TRIPP)",
-          "title_ko": "국제평화번영을 위한 트럼프노선 (TRIPP) 발전을 위한 3국 기술기획단 출범에 관한 공동성명",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/joint-statement-on-the-launch-of-trilateral-technical-planning-groups-to-advance-the-trump-route-for-international-peace-and-prosperity-tripp/",
-          "date": "2026-11-06"
         }
       ],
       "note": ""
@@ -139,64 +151,46 @@
       "list_url": "https://home.treasury.gov/news/press-releases",
       "items": [
         {
+          "title_en": "Remarks from Secretary of the Treasury Scott Bessent at the National Committee on U.S.-China Relations Gala",
+          "title_ko": "미중관계위원회(National Committee on U.S.-China Relations) 갈라 행사에서 스콧 베센트 재무장관의 연설",
+          "url": "https://home.treasury.gov/news/press-releases/sb0688/",
+          "date": "2026-11-11"
+        },
+        {
           "title_en": "FATF Recognizes Effectiveness of U.S. AML/CFT System, Advances Key Illicit Finance Initiatives",
-          "title_ko": "FATF, 미국 AML/CFT 시스템의 효과 인정, 주요 불법 금융 이니셔티브 추진",
+          "title_ko": "FATF, 미국 AML/CFT 시스템의 효과성 인정 및 주요 불법 금융 방지 이니셔티브 추진",
           "url": "https://home.treasury.gov/news/press-releases/sb0687/",
           "date": "2026-11-06"
         },
         {
           "title_en": "Operation Economic Outcast Sanctions Eight Canadian Money Services Businesses Enabling Iranian Regime",
-          "title_ko": "이란 정권을 가능하게 하는 8개의 캐나다 화폐 서비스 사업에 대한 경제 파탄 제재 작전",
+          "title_ko": "'경제적 낙오자' 작전: 이란 정권을 지원하는 캐나다의 8개 송금 서비스 업체에 제재 가함",
           "url": "https://home.treasury.gov/news/press-releases/sb0686/",
           "date": "2026-11-06"
         },
         {
           "title_en": "Operation Economic Outcast Severs MEXC Global’s Access to the U.S. Financial System",
-          "title_ko": "Operation Economic Outcast는 미국 금융 시스템에 대한 MEXC Global의 접근을 차단합니다.",
+          "title_ko": "경제적 배제 조치로 MEXC Global의 미국 금융 시스템 접근 차단",
           "url": "https://home.treasury.gov/news/press-releases/sb0685/",
           "date": "2026-11-06"
         },
         {
           "title_en": "READOUT: Secretary of the Treasury Scott Bessent’s Call with China’s Vice Premier He Lifeng",
-          "title_ko": "참고: Scott Bessent 재무장관이 He Lifeng 중국 부총리와 통화",
+          "title_ko": "브리핑: 스콧 베센트 재무장관과 허리펑 중국 부총리의 통화",
           "url": "https://home.treasury.gov/news/press-releases/sb0684/",
           "date": "2026-11-06"
         },
         {
           "title_en": "Treasury Targets Global Scam Networks and the Corporate Infrastructure That Enables Them",
-          "title_ko": "재무부는 글로벌 사기 네트워크와 이를 가능하게 하는 기업 인프라를 목표로 합니다.",
+          "title_ko": "재무부, 글로벌 사기 네트워크 및 이를 가능하게 하는 기업 인프라를 겨냥",
           "url": "https://home.treasury.gov/news/press-releases/sb0683/",
           "date": "2026-11-05"
         },
         {
           "title_en": "Treasury, IRS Announce Opportunity Zones Designations for Over 6,500 Communities Across America",
-          "title_ko": "재무부, IRS, 미국 전역 6,500개 이상의 커뮤니티를 위한 기회 구역 지정 발표",
+          "title_ko": "미국 재무부, 국세청이 미국 전역 6,500개 이상의 지역사회를 기회지대로 지정한다고 발표",
           "url": "https://home.treasury.gov/news/press-releases/sb0682/",
           "date": "2026-11-05"
-        },
-        {
-          "title_en": "Operation Economic Outcast Targets Global Maritime Fraud Network Supporting Iranian Regime",
-          "title_ko": "Operation Economic Outcast, 이란 정권을 지원하는 글로벌 해양 사기 네트워크 표적",
-          "url": "https://home.treasury.gov/news/press-releases/sb0681/",
-          "date": "2026-11-04"
-        },
-        {
-          "title_en": "Quarterly Refunding Statement of Assistant Secretary for Financial Markets Hunter McMaster",
-          "title_ko": "금융 시장 담당 차관보 분기별 환불 내역서 Hunter McMaster",
-          "url": "https://home.treasury.gov/news/press-releases/sb0678/",
-          "date": "2026-11-04"
-        },
-        {
-          "title_en": "Report to the Secretary of the Treasury from the Treasury Borrowing Advisory Committee",
-          "title_ko": "재무부 차입자문위원회에서 재무부 장관에게 보고",
-          "url": "https://home.treasury.gov/news/press-releases/sb0679/",
-          "date": "2026-11-04"
-        },
-        {
-          "title_en": "Minutes of the Meeting of the Treasury Borrowing Advisory Committee November 3, 2026",
-          "title_ko": "2026년 11월 3일 재무부 차입자문위원회 회의록",
-          "url": "https://home.treasury.gov/news/press-releases/sb0680/",
-          "date": "2026-11-04"
         }
       ],
       "note": ""
@@ -210,33 +204,27 @@
       "items": [
         {
           "title_en": "Indiana Guard Unit Receives Presidential Unit Citation for Vietnam Heroism",
-          "title_ko": "인디애나 가드 유닛, 베트남 영웅주의 대통령 부대 표창 수상",
+          "title_ko": "인디애나주 방위군 부대, 베트남 전쟁에서의 용맹함을 인정받아 대통령 부대 표창 수여",
           "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4646364/indiana-guard-unit-receives-presidential-unit-citation-for-vietnam-heroism/",
           "date": "2026-11-10"
         },
         {
           "title_en": "Brothers in Arms: Cousins by Blood, Marines by Choice",
-          "title_ko": "Brothers in Arms: Cousins by Blood, Marines by Choice",
+          "title_ko": "전우: 혈연으로 맺어진 사촌, 선택으로 맺어진 해병대원",
           "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4644855/brothers-in-arms-cousins-by-blood-marines-by-choice/",
           "date": "2026-11-09"
         },
         {
           "title_en": "Medal of Honor Monday: Marine Corps Lt. Col. Ernest Calvin Williams",
-          "title_ko": "명예 훈장 월요일: 어니스트 캘빈 윌리엄스 중령 해병대",
+          "title_ko": "명예 훈장 월요일: 해병대 어니스트 캘빈 윌리엄스 중령",
           "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4586119/medal-of-honor-monday-marine-corps-lt-col-ernest-calvin-williams/",
           "date": "2026-11-09"
         },
         {
           "title_en": "For Whom the Liberty Bell Tolls",
-          "title_ko": "누구를 위한 리버티 벨 통행료인가",
+          "title_ko": "자유의 종이 울리는 이유",
           "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4588337/for-whom-the-liberty-bell-tolls/",
           "date": "2026-11-06"
-        },
-        {
-          "title_en": "From Vietnam to Afghanistan: A Vermont Guard Member's Lifetime of Service",
-          "title_ko": "베트남에서 아프가니스탄까지: 버몬트 경비대원의 평생 봉사",
-          "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4641139/from-vietnam-to-afghanistan-a-vermont-guard-members-lifetime-of-service/",
-          "date": "2026-11-04"
         }
       ],
       "note": ""
@@ -250,75 +238,75 @@
       "items": [
         {
           "title_en": "Idaho Man Sentenced to 18 Years in Prison for Attempting to Provide Material Support to ISIS in Plot to Attack Churches",
-          "title_ko": "아이다호 맨은 교회를 공격하기 위한 음모에서 ISIS에 물질적 지원을 제공하려 한 혐의로 징역 18년을 선고받았습니다.",
+          "title_ko": "아이다호 남성, 교회 공격 음모를 위해 ISIS에 물질적 지원을 시도한 혐의로 징역 18년 선고",
           "url": "https://www.justice.gov/opa/pr/idaho-man-sentenced-18-years-prison-attempting-provide-material-support-isis-plot-attack",
           "date": "2026-11-10"
         },
         {
+          "title_en": "Justice Department Issues Fact Sheets About Lease Terminations for Servicemembers and their Dependents",
+          "title_ko": "법무부, 군인 및 그 부양가족의 임대차 계약 해지에 관한 팩트 시트 발표",
+          "url": "https://www.justice.gov/opa/pr/justice-department-issues-fact-sheets-about-lease-terminations-servicemembers-and-their",
+          "date": "2026-11-10"
+        },
+        {
           "title_en": "New Jersey Tax Preparer Pleads Guilty to Filing False Tax Returns for Clients",
-          "title_ko": "뉴저지 세금 준비자는 고객을 위해 허위 세금 보고서를 제출하는 것에 대해 유죄를 인정합니다.",
+          "title_ko": "뉴저지주 세무 대리인이 고객을 대신해 허위 세금 신고서를 제출한 혐의를 인정하다",
           "url": "https://www.justice.gov/opa/pr/new-jersey-tax-preparer-pleads-guilty-filing-false-tax-returns-clients",
           "date": "2026-11-10"
         },
         {
           "title_en": "Bergen County Orthopedic Surgeon Pleads Guilty to Employment Tax Crime",
-          "title_ko": "버겐 카운티 정형외과 의사는 고용세 범죄에 유죄를 인정합니다",
+          "title_ko": "버겐 카운티 정형외과 의사가 고용세 관련 범죄에 대해 유죄를 인정하다",
           "url": "https://www.justice.gov/opa/pr/bergen-county-orthopedic-surgeon-pleads-guilty-employment-tax-crime",
           "date": "2026-11-10"
         },
         {
           "title_en": "Dual Kazakhstani-Tajikistani Citizen Extradited from Egypt  for Role in Alien Smuggling Conspiracy",
-          "title_ko": "카자흐스탄-타지키스탄 이중 국적자, 외계인 밀입국 음모 혐의로 이집트에서 추방",
+          "title_ko": "이집트에서 카자흐스탄-타지키스탄 이중 국적자가 외국인 밀입국 공모 혐의로 송환됨",
           "url": "https://www.justice.gov/opa/pr/dual-kazakhstani-tajikistani-citizen-extradited-egypt-role-alien-smuggling-conspiracy",
           "date": "2026-11-10"
         },
         {
           "title_en": "Court Orders Atlanta Area Tax Return Preparer to Permanently Shut Down Tax Preparation Business",
-          "title_ko": "법원 명령 애틀랜타 지역 세금 환급 준비자가 세금 준비 사업을 영구적으로 중단하도록 명령",
+          "title_ko": "법원이 애틀랜타 지역 세금 신고서 작성자에게 세금 신고서 작성 사업을 영구적으로 폐쇄하도록 명령",
           "url": "https://www.justice.gov/opa/pr/court-orders-atlanta-area-tax-return-preparer-permanently-shut-down-tax-preparation-business",
           "date": "2026-11-10"
         },
         {
           "title_en": "Court Permanently Bars Florida Tax Return Preparer and Tax Preparation Business and Orders Disgorgement of More Than $550,000",
-          "title_ko": "법원은 영구적으로 플로리다 세금 신고 준비자 및 세금 준비 사업 및 $ 550,000 이상의 명령 불복종을 금지합니다.",
+          "title_ko": "법원이 플로리다주 세금 신고서 작성자 및 세금 신고서 작성 사업체에 대해 영구적인 금지 명령을 내리고 55만 달러 이상의 불법 수익 환수를 명령하다",
           "url": "https://www.justice.gov/opa/pr/court-permanently-bars-florida-tax-return-preparer-and-tax-preparation-business-and-orders",
           "date": "2026-11-10"
         },
         {
           "title_en": "Social Adult Day Care Program Director Pleads Guilty to $127M Medicare and Medicaid Fraud Scheme",
-          "title_ko": "사회 성인 데이 케어 프로그램 디렉터는 $ 127M 메디케어 및 메디케이드 사기 제도에 유죄를 인정합니다",
+          "title_ko": "사회복지 성인 주간 보호 프로그램 책임자가 1억 2,700만 달러 규모의 메디케어 및 메디케이드 사기 행각 혐의를 인정하다",
           "url": "https://www.justice.gov/opa/pr/social-adult-day-care-program-director-pleads-guilty-127m-medicare-and-medicaid-fraud-scheme",
           "date": "2026-11-10"
         },
         {
           "title_en": "Illinois Tax Preparer Sentenced for Stealing More than $11M from Taxpayers in COVID-19 Assistance Fraud Scheme",
-          "title_ko": "일리노이주 세금 준비자가 코로나19 지원 사기 제도의 납세자로부터 $ 11M 이상을 훔친 혐의로 선고받음",
+          "title_ko": "일리노이주 세무 대리인이 코로나19 지원 사기 수법으로 납세자로부터 1,100만 달러 이상을 가로챈 혐의로 유죄 판결을 받았습니다.",
           "url": "https://www.justice.gov/opa/pr/illinois-tax-preparer-sentenced-stealing-more-11m-taxpayers-covid-19-assistance-fraud-scheme",
           "date": "2026-11-10"
         },
         {
           "title_en": "Three Iranian-Backed Operatives Indicted for Their Roles in Nearly 20 Terrorist Attacks and Attempted Attacks Across Europe and the United States",
-          "title_ko": "유럽과 미국 전역에서 거의 20건의 테러 공격과 공격 시도에서 자신의 역할로 기소된 세 명의 이란 지원 요원",
+          "title_ko": "이란의 지원을 받는 요원 3명이 유럽과 미국 전역에서 발생한 약 20건의 테러 공격 및 공격 시도에 가담한 혐의로 기소됨",
           "url": "https://www.justice.gov/opa/pr/three-iranian-backed-operatives-indicted-their-roles-nearly-20-terrorist-attacks-and",
           "date": "2026-11-10"
         },
         {
           "title_en": "Multi-State Homeland Security Task Force Investigation Leads to 36 Indicted for Drug Trafficking and Money Laundering",
-          "title_ko": "다국적 국토안보 태스크포스 수사팀, 마약 밀매 및 자금세탁 혐의로 36명 기소",
+          "title_ko": "다수 주에 걸친 국토안보 특별수사팀의 수사 결과, 마약 밀매 및 자금 세탁 혐의로 36명이 기소됨",
           "url": "https://www.justice.gov/opa/pr/multi-state-homeland-security-task-force-investigation-leads-36-indicted-drug-trafficking",
           "date": "2026-11-10"
         },
         {
           "title_en": "Arizona Federal Court Denies Request to Halt Hermosa Critical Minerals Project",
-          "title_ko": "애리조나 연방법원, 헤르모사 중요 광물 프로젝트 중단 요청 거부",
+          "title_ko": "애리조나 연방 법원, 에르모사 핵심 광물 프로젝트 중단 요청 기각",
           "url": "https://www.justice.gov/opa/pr/arizona-federal-court-denies-request-halt-hermosa-critical-minerals-project",
           "date": "2026-11-10"
-        },
-        {
-          "title_en": "Justice Department Sues Lyft for Denying Rides to Passengers with Service Dogs, Wheelchairs",
-          "title_ko": "법무부, 장애인 보조견, 휠체어를 동반한 승객에 대한 차량 서비스 거부 혐의로 리프트에 소송 제기",
-          "url": "https://www.justice.gov/opa/pr/justice-department-sues-lyft-denying-rides-passengers-service-dogs-wheelchairs",
-          "date": "2026-11-09"
         }
       ],
       "note": ""
@@ -332,19 +320,19 @@
       "items": [
         {
           "title_en": "Interior Announces Plan to Strengthen Wildlife Habitat Management and Expand Refuge Access",
-          "title_ko": "인테리어, 야생동물 서식지 관리 강화 및 피난처 접근성 확대 계획 발표",
+          "title_ko": "내무부, 야생동물 서식지 관리 강화 및 보호구역 접근성 확대 계획 발표",
           "url": "https://www.doi.gov/pressreleases/interior-announces-plan-strengthen-wildlife-habitat-management-and-expand-refuge",
           "date": "2026-11-06"
         },
         {
           "title_en": "Interior and Partners Promote Events, Outdoor Recreation Ahead of Veterans Day",
-          "title_ko": "인테리어 및 파트너는 재향 군인의 날을 앞두고 이벤트, 야외 레크리에이션을 홍보합니다",
+          "title_ko": "내무부 및 파트너사, 재향군인의 날을 앞두고 행사 및 야외 레크리에이션 홍보",
           "url": "https://www.doi.gov/pressreleases/interior-and-partners-promote-events-outdoor-recreation-ahead-veterans-day",
           "date": "2026-11-05"
         },
         {
           "title_en": "Interior Proposes to Modernize BLM's Outdated Public Land Planning Rules",
-          "title_ko": "인테리어는 BLM의 오래된 공공 토지 계획 규칙을 현대화할 것을 제안합니다",
+          "title_ko": "내무부, BLM의 구시대적인 공공 토지 계획 규정 현대화 제안",
           "url": "https://www.doi.gov/pressreleases/interior-proposes-modernize-blms-outdated-public-land-planning-rules",
           "date": "2026-11-05"
         }
@@ -414,7 +402,7 @@
       "items": [
         {
           "title_en": "Energy Department Closes $480 Million Loan to Expand American Energy Production and Strengthen Offshore Infrastructure in the Gulf of America",
-          "title_ko": "에너지부, 미국 만의 에너지 생산 확대 및 해양 인프라 강화를 위해 4억 8천만 $ 대출 마감",
+          "title_ko": "미국 에너지부, 미국 에너지 생산 확대 및 미국 걸프 지역 해상 인프라 강화에 4억 8천만 달러 규모의 대출을 제공하기로 결정",
           "url": "https://www.energy.gov/articles/energy-department-closes-480-million-loan-expand-american-energy-production-and-strengthen",
           "date": "2026-11-10"
         }
@@ -439,61 +427,61 @@
       "items": [
         {
           "title_en": "Secretary Mullin Joins White House Task Force at Drone Security Forum to Protect the Homeland From Unauthorized Drone Threats",
-          "title_ko": "멀린 장관, 무단 드론 위협으로부터 국토를 보호하기 위해 드론 보안 포럼에서 백악관 태스크포스에 합류",
+          "title_ko": "멀린 장관, 무단 드론 위협으로부터 조국을 보호하기 위한 드론 보안 포럼에서 백악관 태스크포스에 합류",
           "url": "https://www.dhs.gov/news/2026/11/10/secretary-mullin-joins-white-house-task-force-drone-security-forum-protect-homeland",
           "date": "2026-11-10"
         },
         {
           "title_en": "WORST OF THE WORST: ICE Arrests Murderers, Sexual Predators, and Drug Traffickers",
-          "title_ko": "최악의 상황: ICE, 살인자, 성범죄자, 마약 밀매자 체포",
+          "title_ko": "최악 중의 최악: ICE가 살인자, 성범죄자, 마약 밀매자를 체포하다",
           "url": "https://www.dhs.gov/news/2026/11/10/worst-worst-ice-arrests-murderers-sexual-predators-and-drug-traffickers",
           "date": "2026-11-10"
         },
         {
           "title_en": "DHS Calls on Sanctuary Politicians in Mecklenburg County, North Carolina to Honor ICE Detainer and Not Release a Previously-Deported Rapist",
-          "title_ko": "국토안보부는 노스캐롤라이나 주 메클렌버그 카운티의 성역 정치인들에게 ICE 억류자를 기리고 이전에 추방된 강간범을 석방하지 말 것을 촉구합니다.",
+          "title_ko": "미 국토안보부(DHS), 노스캐롤라이나주 메클렌버그 카운티의 이민자 보호 정책을 지지하는 정치인들에게 이민국(ICE)의 구금 명령을 준수하고 이전에 추방된 적이 있는 강간범을 석방하지 말 것을 촉구",
           "url": "https://www.dhs.gov/news/2026/11/10/dhs-calls-sanctuary-politicians-mecklenburg-county-north-carolina-honor-ice",
           "date": "2026-11-10"
         },
         {
           "title_en": "SANCTUARY INSANITY: DHS Condemns Sanctuary Politicians in Illinois for Releasing a Violent Criminal Rather Than Honoring ICE Detainer",
-          "title_ko": "성역의 광기: 미국 국토안보부 (DHS) 는 일리노이주의 성역 정치인들이 ICE 억류자를 존중하는 대신 폭력 범죄자를 석방한 것을 규탄합니다.",
+          "title_ko": "범죄자 은신처 논란: 국토안보부, ICE 구금 명령을 따르지 않고 폭력 범죄자를 석방한 일리노이주 은신처 정책 지지 정치인들을 비난",
           "url": "https://www.dhs.gov/news/2026/11/10/sanctuary-insanity-dhs-condemns-sanctuary-politicians-illinois-releasing-violent",
           "date": "2026-11-10"
         },
         {
           "title_en": "DHS Highlights Worst Illegal Aliens Arrested in Austin, Texas",
-          "title_ko": "텍사스주 오스틴에서 체포된 최악의 불법체류 외국인",
+          "title_ko": "미 국토안보부(DHS), 텍사스주 오스틴에서 체포된 최악의 불법 이민자 사례 소개",
           "url": "https://www.dhs.gov/news/2026/11/10/dhs-highlights-worst-illegal-aliens-arrested-austin-texas",
           "date": "2026-11-10"
         },
         {
           "title_en": "DHS is Taking Down Asylum Fraudsters",
-          "title_ko": "국토안보부가 망명 사기범을 물리치고 있습니다",
+          "title_ko": "미 국토안보부(DHS), 망명 사기범 단속에 나서다",
           "url": "https://www.dhs.gov/news/2026/11/10/dhs-taking-down-asylum-fraudsters",
           "date": "2026-11-10"
         },
         {
           "title_en": "WORST OF THE WORST: ICE Arrests Murderers, Pedophiles, and Sexual Predators",
-          "title_ko": "최악의 상황: ICE, 살인자, 소아성애자, 성적 약탈자 체포",
+          "title_ko": "최악 중의 최악: ICE가 살인자, 소아성애자, 성범죄자를 체포하다",
           "url": "https://www.dhs.gov/news/2026/11/09/worst-worst-ice-arrests-murderers-pedophiles-and-sexual-predators",
           "date": "2026-11-09"
         },
         {
           "title_en": "Meet One of the Media’s ‘Non-Criminals’: ICE Arrests MS-13 Member in Idaho Charged with Terrorism in El Salvador",
-          "title_ko": "미디어의 '비범죄자‘ 중 한 명 만나기: 엘살바도르에서 테러 혐의로 기소된 아이다호에서 MS-13 회원 체포",
+          "title_ko": "언론이 '범죄자가 아니다'라고 말하는 사람 중 한 명을 만나보세요. 이민국(ICE)이 아이다호주에서 테러 혐의로 엘살바도르에 기소된 MS-13 조직원을 체포했습니다.",
           "url": "https://www.dhs.gov/news/2026/11/09/meet-one-medias-non-criminals-ice-arrests-ms-13-member-idaho-charged-terrorism-el",
           "date": "2026-11-09"
         },
         {
           "title_en": "Trump Administration Deepens Interagency Collaboration to Protect the Nation’s Skies From Unmanned Threats",
-          "title_ko": "트럼프 행정부, 무인 위협으로부터 국가의 하늘을 보호하기 위한 기관 간 협력 강화",
+          "title_ko": "트럼프 행정부, 무인기 위협으로부터 국가 영공을 보호하기 위해 부처 간 협력 강화",
           "url": "https://www.dhs.gov/news/2026/11/09/trump-administration-deepens-interagency-collaboration-protect-nations-skies",
           "date": "2026-11-09"
         },
         {
           "title_en": "U.S. Secret Service Arrests Illegal Alien with Guns in Vehicle Near the White House",
-          "title_ko": "미국 비밀경호국이 백악관 근처 차량에 총을 싣고 불법체류자를 체포하다",
+          "title_ko": "미국 비밀경호국, 백악관 인근 차량에서 총기를 소지한 불법 이민자를 체포",
           "url": "https://www.dhs.gov/news/2026/11/06/us-secret-service-arrests-illegal-alien-guns-vehicle-near-white-house",
           "date": "2026-11-06"
         }
@@ -509,39 +497,39 @@
       "items": [
         {
           "title_en": "Duty, Honor, Community: Veterans Appreciation and Resource Summit",
-          "title_ko": "의무, 명예, 공동체: 재향 군인 감사 및 자원 정상 회담",
+          "title_ko": "의무, 명예, 공동체: 재향군인 감사 및 지원 자원 서밋",
           "url": "https://discover.va.gov/events/duty-honor-community-veterans-appreciation-and-resource-summit/",
           "date": "2026-11-12"
         },
         {
-          "title_en": "Redlands Veterans Day Parade",
-          "title_ko": "레드랜즈 재향군인의 날 퍼레이드",
-          "url": "https://discover.va.gov/events/redlands-veterans-day-parade/",
-          "date": "2026-11-11"
+          "title_en": "Veteran Food Distribution at Laredo VA Clinic",
+          "title_ko": "라레도 재향군인회(VA) 클리닉에서 진행되는 재향군인 식료품 배포",
+          "url": "https://discover.va.gov/events/veteran-food-distribution-at-laredo-va-clinic/",
+          "date": "2026-11-12"
         },
         {
-          "title_en": "Honor Veterans at Bristol Community College this Veterans Day",
-          "title_ko": "이번 재향 군인의 날 브리스톨 커뮤니티 칼리지 (Bristol Community College) 의 재향 군인 명예",
-          "url": "https://discover.va.gov/events/honor-veterans-at-bristol-community-college-this-veterans-day/",
-          "date": "2026-11-11"
+          "title_en": "Veteran Food Distribution at McAllen VA Clinic",
+          "title_ko": "맥앨런 재향군인병원(VA Clinic)에서 진행되는 재향군인 식량 배급",
+          "url": "https://discover.va.gov/events/veteran-food-distribution-at-mcallen-va-clinic/",
+          "date": "2026-11-12"
         },
         {
-          "title_en": "Mono County California Veterans Day Event",
-          "title_ko": "캘리포니아 모노 카운티 재향군인의 날 이벤트",
-          "url": "https://discover.va.gov/events/mono-county-california-veterans-day-event/",
-          "date": "2026-11-11"
+          "title_en": "RCS District 3 410 Chicago Vet Center- Metra Career Mini-Resource Fair",
+          "title_ko": "RCS 3지구 410 시카고 재향군인 센터 - 메트라(Metra) 커리어 미니 리소스 박람회",
+          "url": "https://discover.va.gov/events/rcs-district-3-410-chicago-vet-center-metra-career-mini-resource-fair/",
+          "date": "2026-11-12"
         },
         {
-          "title_en": "Bay Pines VA Hosting Annual Veterans Day Ceremony",
-          "title_ko": "버지니아주 베이파인스에서 매년 재향군인의 날 기념식 개최",
-          "url": "https://discover.va.gov/events/bay-pines-va-hosting-annual-veterans-day-ceremony/",
-          "date": "2026-11-11"
+          "title_en": "Warren, Meet Your VA: Real Answers, Close to Home",
+          "title_ko": "워런, 귀하의 VA를 만나보세요: 실질적인 답변, 가까운 곳에서",
+          "url": "https://discover.va.gov/events/warren-meet-your-va-real-answers-close-to-home/",
+          "date": "2026-11-12"
         },
         {
-          "title_en": "Veterans Day Celebration",
-          "title_ko": "재향군인의 날 기념",
-          "url": "https://discover.va.gov/events/veterans-day-celebration/",
-          "date": "2026-11-11"
+          "title_en": "Women Veteran’s Tea Party",
+          "title_ko": "여성 재향군인 티 파티",
+          "url": "https://discover.va.gov/events/women-veterans-tea-party/",
+          "date": "2026-11-12"
         }
       ],
       "note": ""
