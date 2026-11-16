@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15 00:43:35",
+  "generated_at": "2026-11-16 00:43:43",
   "period_days": 7,
   "translation_available": true,
   "agencies": [
@@ -12,13 +12,13 @@
       "items": [
         {
           "title_en": "First Lady Melania Trump Honors America’s Fallen Heroes at the Tomb of The Unknown Soldier",
-          "title_ko": "멜라니아 트럼프 여사가 무명 용사 묘지에서 미국의 전사한 영웅들을 추모했습니다.",
+          "title_ko": "멜라니아 트럼프 영부인이 무명 용사 묘지에서 미국의 전사한 영웅들을 추모했습니다.",
           "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-honors-americas-fallen-heroes-at-the-tomb-of-the-unknown-soldier/",
           "date": "2026-11-12"
         },
         {
           "title_en": "Presidential Message on National Native American Heritage Month",
-          "title_ko": "전국 아메리칸 인디언 문화유산의 달에 대한 대통령 메시지",
+          "title_ko": "전국 아메리카 원주민 문화유산의 달을 맞아 대통령이 전하는 메시지",
           "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-native-american-heritage-month-39c4/",
           "date": "2026-11-12"
         },
@@ -36,13 +36,13 @@
         },
         {
           "title_en": "First Lady Melania Trump Honors America’s Elite Soldiers and the Sacrifices of Military Families",
-          "title_ko": "멜라니아 트럼프 여사가 미국의 정예 군인들과 군인 가족들의 희생을 기리다",
+          "title_ko": "멜라니아 트럼프 영부인이 미국의 정예 군인들과 군인 가족들의 희생을 기리다",
           "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-honors-americas-elite-soldiers-and-the-sacrifices-of-military-families/",
           "date": "2026-11-12"
         },
         {
           "title_en": "Presidential Message on Victory Day for World War I",
-          "title_ko": "제1차 세계대전 승전일에 대한 대통령 메시지",
+          "title_ko": "제1차 세계 대전 승전일에 대한 대통령 메시지",
           "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-victory-day-for-world-war-i-dd1e/",
           "date": "2026-11-11"
         },
@@ -54,7 +54,7 @@
         },
         {
           "title_en": "Presidential Message on the Birthday of the United States Marine Corps",
-          "title_ko": "미국 해병대 창설 기념일에 대한 대통령 메시지",
+          "title_ko": "미국 해병대 창설일을 맞아 대통령이 전하는 메시지",
           "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-the-birthday-of-the-united-states-marine-corps/",
           "date": "2026-11-10"
         },
@@ -113,13 +113,13 @@
       "items": [
         {
           "title_en": "Field Musicians Inspired Americans During, After Revolutionary War",
-          "title_ko": "미국 독립전쟁 중과 후에 미국인들에게 영감을 준 야전 음악가들",
+          "title_ko": "미국 독립 전쟁 중과 후에 미국인들에게 영감을 준 군악대",
           "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4590793/field-musicians-inspired-americans-during-after-revolutionary-war/",
           "date": "2026-11-13"
         },
         {
           "title_en": "World War I Revolutionized U.S. Military Medicine",
-          "title_ko": "제1차 세계 대전은 미국 군의학에 혁명을 일으켰습니다.",
+          "title_ko": "제1차 세계대전은 미국 군의학에 혁명을 일으켰습니다.",
           "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4646902/world-war-i-revolutionized-us-military-medicine/",
           "date": "2026-11-12"
         },
@@ -165,7 +165,7 @@
         },
         {
           "title_en": "Florida Man Pleads Guilty to $42M Durable Medical Equipment and Cancer Genetic Testing Fraud on Medicare",
-          "title_ko": "플로리다 남성, 메디케어에 대한 4,200만 달러 규모의 내구성 의료 장비 및 암 유전자 검사 사기 혐의를 인정",
+          "title_ko": "플로리다 남성, 메디케어에서 4,200만 달러 상당의 내구성 의료 장비 및 암 유전자 검사 사기 혐의로 유죄 인정",
           "url": "https://www.justice.gov/opa/pr/florida-man-pleads-guilty-42m-durable-medical-equipment-and-cancer-genetic-testing-fraud",
           "date": "2026-11-13"
         },
@@ -177,7 +177,7 @@
         },
         {
           "title_en": "DOJ Announces Results of the Largest International Law Enforcement Operation Targeting Opioid and Fentanyl Traffickers on the Dark Web",
-          "title_ko": "미 법무부, 다크웹을 통한 오피오이드 및 펜타닐 밀매 조직을 대상으로 한 최대 규모의 국제 사법기관 합동 단속 결과 발표",
+          "title_ko": "미 법무부, 다크 웹에서 오피오이드 및 펜타닐 밀매업자를 대상으로 한 최대 규모의 국제 사법기관 합동 단속 결과 발표",
           "url": "https://www.justice.gov/opa/video/doj-announces-results-largest-international-law-enforcement-operation-targeting-opioid",
           "date": "2026-11-12"
         },
@@ -189,7 +189,7 @@
         },
         {
           "title_en": "Justice Department Announces Actions to Disrupt North Korea’s Massive Theft of Cryptocurrency",
-          "title_ko": "미 법무부, 북한의 대규모 가상화폐 도난 행위 차단 조치 발표",
+          "title_ko": "미 법무부, 북한의 대규모 가상자산 절도 행위 차단 조치 발표",
           "url": "https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency",
           "date": "2026-11-12"
         },
@@ -201,13 +201,13 @@
         },
         {
           "title_en": "Minnesota Man Pleads Guilty to Conspiring to Defraud IRS",
-          "title_ko": "미네소타 거주 남성, IRS 사기 공모 혐의를 인정하다",
+          "title_ko": "미네소타 남성, IRS 사기 공모 혐의를 인정하다",
           "url": "https://www.justice.gov/opa/pr/minnesota-man-pleads-guilty-conspiring-defraud-irs",
           "date": "2026-11-12"
         },
         {
           "title_en": "International Law Enforcement Operation Targeting Opioid and Fentanyl Traffickers on the Dark Web Results in over 350 Arrests Worldwide and the Seizure of Drugs, Weapons, and over $234 Million",
-          "title_ko": "다크웹에서 오피오이드 및 펜타닐 밀매업자를 대상으로 한 국제 사법기관 합동 단속 결과 전 세계적으로 350명 이상이 체포되고 마약, 무기 및 2억 3,400만 달러 이상의 현금이 압수되었습니다.",
+          "title_ko": "다크웹에서 오피오이드 및 펜타닐 밀매업자를 대상으로 한 국제 사법기관 합동 작전 결과 전 세계적으로 350명 이상이 체포되고 마약, 무기 및 2억 3,400만 달러 이상의 자금이 압수됨",
           "url": "https://www.justice.gov/opa/pr/international-law-enforcement-operation-targeting-opioid-and-fentanyl-traffickers-dark-web",
           "date": "2026-11-12"
         },
@@ -219,7 +219,7 @@
         },
         {
           "title_en": "New York Doctor Charged in $6.8M Medicare Fraud Scheme",
-          "title_ko": "뉴욕의 한 의사가 680만 달러 규모의 메디케어 사기 행각으로 기소됨",
+          "title_ko": "뉴욕의 한 의사가 680만 달러 규모의 메디케어 사기 혐의로 기소됨",
           "url": "https://www.justice.gov/opa/pr/new-york-doctor-charged-68m-medicare-fraud-scheme",
           "date": "2026-11-12"
         }
@@ -235,7 +235,7 @@
       "items": [
         {
           "title_en": "Interior Proposes Rule to Allow Hunting in Castle Mountains, Craters of the Moon National Monuments",
-          "title_ko": "내무부, 캐슬 마운틴스, 크레이터스 오브 더 문 국립기념물에서 사냥을 허용하는 규정 제안",
+          "title_ko": "미국 내무부, 캐슬 마운틴스, 크레이터스 오브 더 문 국립기념물에서 사냥을 허용하는 규정 제안",
           "url": "https://www.doi.gov/pressreleases/interior-proposes-rule-allow-hunting-castle-mountains-craters-moon-national-monuments",
           "date": "2026-11-13"
         },
@@ -311,7 +311,7 @@
       "items": [
         {
           "title_en": "Dow, X-energy Receive Construction Permit for Advanced Nuclear Project in Texas",
-          "title_ko": "Dow, 텍사스주 차세대 원자력 프로젝트를 위한 건설 허가 취득",
+          "title_ko": "Dow, 텍사스주 차세대 원자력 프로젝트 건설 허가 취득",
           "url": "https://www.energy.gov/ne/articles/dow-x-energy-receive-construction-permit-advanced-nuclear-project-texas",
           "date": "2026-11-13"
         }
@@ -336,13 +336,13 @@
       "items": [
         {
           "title_en": "ICYMI: Secretary Mullin and Secretary Duffy Address Nationwide FAA Ground Stop of All Flights",
-          "title_ko": "놓치신 분들을 위해: 멀린 장관과 더피 장관이 모든 항공편의 전국적인 FAA 운항 중단에 대해 언급",
+          "title_ko": "놓치신 분들을 위해: 뮬린 장관과 더피 장관이 모든 항공편의 전국적인 FAA 운항 중단에 대해 언급",
           "url": "https://www.dhs.gov/news/2026/11/13/icymi-secretary-mullin-and-secretary-duffy-address-nationwide-faa-ground-stop-all",
           "date": "2026-11-13"
         },
         {
           "title_en": "SANCTUARY INSANITY: DHS Blasts Sanctuary California for Releasing Illegal Alien Gang Member Arrested for Assault and Robbery",
-          "title_ko": "범죄 피난처의 광기: 국토안보부, 폭행 및 강도 혐의로 체포된 불법 이민자 갱단원을 석방한 캘리포니아주 범죄 피난처에 대해 강하게 비난",
+          "title_ko": "범죄 피난처 사태: 국토안보부, 폭행 및 강도 혐의로 체포된 불법 이민자 갱단원을 석방한 캘리포니아주 범죄 피난처에 대해 강도 높은 비판",
           "url": "https://www.dhs.gov/news/2026/11/13/sanctuary-insanity-dhs-blasts-sanctuary-california-releasing-illegal-alien-gang",
           "date": "2026-11-13"
         },
@@ -354,19 +354,19 @@
         },
         {
           "title_en": "WORST OF THE WORST: ICE Arrests Murderers, Pedophiles, and Drug Traffickers",
-          "title_ko": "최악 중의 최악: ICE가 살인자, 소아성애자, 마약 밀매업자를 체포하다",
+          "title_ko": "최악 중의 최악: 이민국(ICE)이 살인자, 소아성애자, 마약 밀매업자를 체포하다",
           "url": "https://www.dhs.gov/news/2026/11/12/worst-worst-ice-arrests-murderers-pedophiles-and-drug-traffickers",
           "date": "2026-11-12"
         },
         {
           "title_en": "DHS Highlights Worst Illegal Aliens Arrested in Houston, Texas",
-          "title_ko": "미 국토안보부(DHS), 텍사스주 휴스턴에서 체포된 최악의 불법 이민자 사례를 공개",
+          "title_ko": "미 국토안보부(DHS), 텍사스주 휴스턴에서 체포된 최악의 불법 이민자 사례 공개",
           "url": "https://www.dhs.gov/news/2026/11/12/dhs-highlights-worst-illegal-aliens-arrested-houston-texas",
           "date": "2026-11-12"
         },
         {
           "title_en": "ICE Breaks Records in Fiscal Year 2026, With Most Arrests and Deportations in Agency’s History",
-          "title_ko": "ICE, 2026 회계연도에 기관 사상 최다 체포 및 추방 기록 경신",
+          "title_ko": "ICE, 2026 회계연도에 기관 사상 최대의 체포 및 추방 기록 경신",
           "url": "https://www.dhs.gov/news/2026/11/12/ice-breaks-records-fiscal-year-2026-most-arrests-and-deportations-agencys-history",
           "date": "2026-11-12"
         },
@@ -378,19 +378,19 @@
         },
         {
           "title_en": "ICE Requests Local Authorities Not Release Criminal Illegal Alien Who Attempted To Hijack a Plane",
-          "title_ko": "ICE, 현지 당국에 비행기 납치 시도한 불법 체류 범죄자 석방하지 말라고 요청",
+          "title_ko": "ICE, 비행기 납치 시도한 불법 체류 범죄자 석방하지 말라고 지방 당국에 요청",
           "url": "https://www.dhs.gov/news/2026/11/12/ice-requests-local-authorities-not-release-criminal-illegal-alien-who-attempted",
           "date": "2026-11-12"
         },
         {
           "title_en": "Secretary Mullin Joins White House Task Force at Drone Security Forum to Protect the Homeland From Unauthorized Drone Threats",
-          "title_ko": "멀린 장관, 무단 드론 위협으로부터 미국을 보호하기 위한 드론 보안 포럼에서 백악관 태스크포스에 합류",
+          "title_ko": "멀린 장관, 무단 드론 위협으로부터 조국을 보호하기 위한 드론 보안 포럼에서 백악관 태스크포스에 합류",
           "url": "https://www.dhs.gov/news/2026/11/10/secretary-mullin-joins-white-house-task-force-drone-security-forum-protect-homeland",
           "date": "2026-11-10"
         },
         {
           "title_en": "WORST OF THE WORST: ICE Arrests Murderers, Sexual Predators, and Drug Traffickers",
-          "title_ko": "최악 중의 최악: ICE가 살인자, 성범죄자, 마약 밀매업자를 체포하다",
+          "title_ko": "최악 중의 최악: ICE가 살인범, 성범죄자, 마약 밀매업자를 체포하다",
           "url": "https://www.dhs.gov/news/2026/11/10/worst-worst-ice-arrests-murderers-sexual-predators-and-drug-traffickers",
           "date": "2026-11-10"
         }
@@ -412,7 +412,7 @@
         },
         {
           "title_en": "Osage Nation Casino PACT Act Event",
-          "title_ko": "오세이지족 카지노 PACT 법 관련 이벤트",
+          "title_ko": "오세이지족 카지노 PACT 법 행사",
           "url": "https://discover.va.gov/events/osage-nation-casino-pact-act-event/",
           "date": "2026-11-17"
         },
@@ -429,16 +429,16 @@
           "date": "2026-11-17"
         },
         {
-          "title_en": "Veteran Food Distribution at Maverick County, Eagle Pass, Texas",
-          "title_ko": "텍사스주 이글패스 매버릭 카운티에서 진행되는 재향군인 식료품 배분 행사",
-          "url": "https://discover.va.gov/events/veteran-food-distribution-at-maverick-county-eagle-pass-texas/",
-          "date": "2026-11-16"
+          "title_en": "Veteran Resource Fair and Luncheon",
+          "title_ko": "재향군인 지원 박람회 및 오찬",
+          "url": "https://discover.va.gov/events/veteran-resource-fair-and-luncheon/",
+          "date": "2026-11-17"
         },
         {
-          "title_en": "Veterans Sunday – African American Art Unveiling",
-          "title_ko": "재향군인의 날 – 아프리카계 미국인 예술 작품 공개",
-          "url": "https://discover.va.gov/events/veterans-sunday-african-american-art-unveiling/",
-          "date": "2026-11-15"
+          "title_en": "Veteran Food Distribution at Maverick County, Eagle Pass, Texas",
+          "title_ko": "텍사스주 이글패스 매버릭 카운티에서 진행된 재향군인 식료품 배분 행사",
+          "url": "https://discover.va.gov/events/veteran-food-distribution-at-maverick-county-eagle-pass-texas/",
+          "date": "2026-11-16"
         }
       ],
       "note": ""
