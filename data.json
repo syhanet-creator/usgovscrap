@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24 05:07:36",
+  "generated_at": "2026-11-25 03:56:00",
   "period_days": 7,
   "translation_available": true,
   "agencies": [
@@ -45,24 +45,6 @@
           "title_ko": "평화를 위한 미국-러시아-중국 정상 선언",
           "url": "https://www.whitehouse.gov/briefings-statements/2026/11/u-s-russia-china-heads-of-state-declaration-toward-peace/",
           "date": "2026-11-19"
-        },
-        {
-          "title_en": "Presidential Message on American Education Week",
-          "title_ko": "미국 교육 주간을 맞아 대통령이 전하는 메시지",
-          "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-american-education-week-ddcb/",
-          "date": "2026-11-17"
-        },
-        {
-          "title_en": "Quad Leaders’ Summit Joint Press Release",
-          "title_ko": "쿼드 정상회의 공동 보도자료",
-          "url": "https://www.whitehouse.gov/briefings-statements/2026/11/quad-leaders-summit-joint-press-release/",
-          "date": "2026-11-17"
-        },
-        {
-          "title_en": "Joint Statement on an Agreement Between the United States of America and the Kingdom of Thailand on Reciprocal Trade",
-          "title_ko": "미국과 태국 왕국 간 상호 무역 협정에 관한 공동 성명",
-          "url": "https://www.whitehouse.gov/briefings-statements/2026/11/joint-statement-on-an-agreement-between-the-united-states-of-america-and-the-kingdom-of-thailand-on-reciprocal-trade/",
-          "date": "2026-11-17"
         }
       ],
       "note": ""
@@ -85,7 +67,7 @@
       "items": [
         {
           "title_en": "Operation Economic Outcast Disrupts Iran’s Global Shadow Banking Networks",
-          "title_ko": "'경제적 낙오자' 작전, 이란의 글로벌 섀도 뱅킹 네트워크를 와해시키다",
+          "title_ko": "'경제적 낙오자' 작전, 이란의 글로벌 섀도우 뱅킹 네트워크를 와해시키다",
           "url": "https://home.treasury.gov/news/press-releases/sb0699/",
           "date": "2026-11-23"
         },
@@ -97,7 +79,7 @@
         },
         {
           "title_en": "Operation Economic Outcast Targets Corrupt Regime Insiders Exploiting Iran’s Oil Sector for Personal Gain",
-          "title_ko": "개인적 이익을 위해 이란의 석유 부문을 악용하는 부패 정권 내부자를 겨냥한 '경제적 배제' 작전",
+          "title_ko": "개인적 이익을 위해 이란의 석유 부문을 악용하는 부패 정권 내부자를 겨냥한 '경제적 낙오자' 작전",
           "url": "https://home.treasury.gov/news/press-releases/sb0697/",
           "date": "2026-11-20"
         },
@@ -127,21 +109,9 @@
         },
         {
           "title_en": "Operation Economic Outcast Targets Iran’s Proxy Networks",
-          "title_ko": "이란의 대리 세력 네트워크를 겨냥한 '경제적 배척' 작전",
+          "title_ko": "이란의 대리 세력 네트워크를 겨냥한 '경제적 배제' 작전",
           "url": "https://home.treasury.gov/news/press-releases/sb0692/",
           "date": "2026-11-18"
-        },
-        {
-          "title_en": "FinCEN Issues Proposed Rule to Strengthen Customer Due Diligence Requirements for Covered Financial Institutions",
-          "title_ko": "FinCEN, 적용 대상 금융 기관에 대한 고객 실사(CDD) 요건을 강화하기 위한 규정안 발표",
-          "url": "https://home.treasury.gov/news/press-releases/sb0691/",
-          "date": "2026-11-17"
-        },
-        {
-          "title_en": "Treasury, IRS Issue Final Rules to Help Hardworking Americans Build a Financially Secure Retirement",
-          "title_ko": "재무부, IRS가 근면한 미국인들이 경제적으로 안정적인 은퇴 생활을 영위할 수 있도록 돕기 위한 최종 규정을 발표했습니다.",
-          "url": "https://home.treasury.gov/news/press-releases/sb0690/",
-          "date": "2026-11-17"
         }
       ],
       "note": ""
@@ -152,8 +122,21 @@
       "name_en": "Department of War",
       "color": "#3c4a3e",
       "list_url": "https://www.war.gov/News/Releases/",
-      "items": [],
-      "note": "최근 7일간 새 보도자료를 찾지 못했거나 사이트 구조 변경으로 수집에 실패했습니다."
+      "items": [
+        {
+          "title_en": "Medal of Honor Monday: Army Col. Cecil Hamilton Bolton",
+          "title_ko": "명예 훈장 월요일: 세실 해밀턴 볼턴 육군 대령",
+          "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4602973/medal-of-honor-monday-army-col-cecil-hamilton-bolton/",
+          "date": "2026-11-23"
+        },
+        {
+          "title_en": "Hessians Joined British to Fight Patriots in Revolutionary War",
+          "title_ko": "헤센 용병들이 독립 전쟁에서 애국자들과 싸우기 위해 영국군에 합류했습니다.",
+          "url": "https://www.war.gov/News/Feature-Stories/Story/Article/4591368/hessians-joined-british-to-fight-patriots-in-revolutionary-war/",
+          "date": "2026-11-20"
+        }
+      ],
+      "note": ""
     },
     {
       "key": "justice",
@@ -163,20 +146,50 @@
       "list_url": "https://www.justice.gov/news",
       "items": [
         {
+          "title_en": "Federal Grand Jury Returns Indictment Against Greensburg Man for Crop Insurance Fraud",
+          "title_ko": "연방 대배심, 그린스버그 남성을 상대로 한 농작물 보험 사기 혐의 기소",
+          "url": "https://www.justice.gov/opa/pr/federal-grand-jury-returns-indictment-against-greensburg-man-crop-insurance-fraud",
+          "date": "2026-11-24"
+        },
+        {
+          "title_en": "Russian National Pleads Guilty to Evading Economic Sanctions on Russia",
+          "title_ko": "러시아 국적자가 러시아에 대한 경제 제재를 회피한 혐의를 인정하다",
+          "url": "https://www.justice.gov/opa/pr/russian-national-pleads-guilty-evading-economic-sanctions-russia",
+          "date": "2026-11-24"
+        },
+        {
+          "title_en": "Peruvian National Extradited for Overseeing a Transnational Scheme to Impersonate Government Officials and Defraud U.S. Consumers",
+          "title_ko": "정부 관계자를 사칭하고 미국 소비자들을 사기 행각의 대상으로 삼은 다국적 사기 조직을 총괄한 혐의로 페루 국적자가 미국으로 송환됨",
+          "url": "https://www.justice.gov/opa/pr/peruvian-national-extradited-overseeing-transnational-scheme-impersonate-government",
+          "date": "2026-11-24"
+        },
+        {
+          "title_en": "Active-Duty U.S. Army Sergeant Pleads Guilty in Conspiracy to Gather and Transfer National Defense Information",
+          "title_ko": "현역 미 육군 하사, 국방 정보 수집 및 이전 음모 혐의로 유죄 인정",
+          "url": "https://www.justice.gov/opa/pr/active-duty-us-army-sergeant-pleads-guilty-conspiracy-gather-and-transfer-national-defense",
+          "date": "2026-11-24"
+        },
+        {
+          "title_en": "Justice Department Announces Largest-Ever Crackdown on Scammers, Targeting Over 800 Defendants to Protect Americans from Fraud",
+          "title_ko": "미국 법무부, 미국인을 사기 행위로부터 보호하기 위해 800명 이상의 피고인을 대상으로 사상 최대 규모의 사기범 단속 발표",
+          "url": "https://www.justice.gov/opa/pr/justice-department-announces-largest-ever-crackdown-scammers-targeting-over-800-defendants",
+          "date": "2026-11-24"
+        },
+        {
           "title_en": "Department of Justice Announces Nearly $150 Million to Hire Over 1,000 Law Enforcement Officers and Deputies",
-          "title_ko": "법무부, 1,000명 이상의 사법기관 소속 경찰관 및 부관 채용을 위해 약 1억 5천만 달러 지원 발표",
+          "title_ko": "미 법무부, 1,000명 이상의 사법기관 소속 경찰관 및 부관 채용에 약 1억 5,000만 달러 지원 발표",
           "url": "https://www.justice.gov/opa/pr/department-justice-announces-nearly-150-million-hire-over-1000-law-enforcement-officers-and",
           "date": "2026-11-23"
         },
         {
           "title_en": "Adult Day Care Owner Sentenced to 15 Months in Prison for Medicare Fraud",
-          "title_ko": "메디케어 사기로 15개월 징역형을 선고받은 성인 주간 보호 센터 소유주",
+          "title_ko": "메디케어 사기 혐의로 15개월 징역형을 선고받은 성인 주간 보호 센터 소유주",
           "url": "https://www.justice.gov/opa/pr/adult-day-care-owner-sentenced-15-months-prison-medicare-fraud",
           "date": "2026-11-23"
         },
         {
           "title_en": "9 Illegal Aliens from Venezuela Sentenced for Roles in Nashville Sex Trafficking Organization as Part of Homeland Security Task Force Initiative",
-          "title_ko": "국토안보부 태스크포스 이니셔티브의 일환으로 나슈빌 성매매 조직에 가담한 혐의로 베네수엘라 출신 불법 체류자 9명 유죄 판결",
+          "title_ko": "국토안보부 태스크포스 이니셔티브의 일환으로 나슈빌 성매매 조직에서 역할을 한 혐의로 베네수엘라 출신 불법 이민자 9명에 대한 유죄 판결",
           "url": "https://www.justice.gov/opa/pr/9-illegal-aliens-venezuela-sentenced-roles-nashville-sex-trafficking-organization-part",
           "date": "2026-11-23"
         },
@@ -188,13 +201,13 @@
         },
         {
           "title_en": "United States Files Action to Recover More Than $1 Billion in Cryptocurrency Assets Stolen by North Korean Cyber Actors in Binance Hack",
-          "title_ko": "미국, 북한 사이버 범죄자들이 바이낸스 해킹으로 도난당한 10억 달러 이상의 가상자산 회수를 위한 소송 제기",
+          "title_ko": "미국, 북한 사이버 범죄자들이 바이낸스 해킹으로 도난당한 10억 달러 이상의 암호화폐 자산을 회수하기 위한 소송 제기",
           "url": "https://www.justice.gov/opa/pr/united-states-files-action-recover-more-1-billion-cryptocurrency-assets-stolen-north-korean",
           "date": "2026-11-23"
         },
         {
           "title_en": "ISIS Supporter Sentenced to 15 Years in Prison for Concealing His Role in Creating and Disseminating Terrorist Propaganda Via Social Media",
-          "title_ko": "ISIS 지지자, 소셜 미디어를 통한 테러리스트 선전물 제작 및 배포에 관여한 사실을 은폐한 혐의로 징역 15년 선고",
+          "title_ko": "ISIS 지지자, 소셜 미디어를 통해 테러리스트 선전물을 제작하고 유포하는 데 관여한 사실을 은폐한 혐의로 징역 15년 선고",
           "url": "https://www.justice.gov/opa/pr/isis-supporter-sentenced-15-years-prison-concealing-his-role-creating-and-disseminating-0",
           "date": "2026-11-23"
         },
@@ -203,36 +216,6 @@
           "title_ko": "팬데믹 구호 사기 수법으로 징역형을 선고받은 노스캐롤라이나주 세금 신고서 작성자들",
           "url": "https://www.justice.gov/opa/pr/north-carolina-return-preparers-sentenced-prison-pandemic-relief-fraud-scheme",
           "date": "2026-11-23"
-        },
-        {
-          "title_en": "Artifact Spotlight: A Morning Suit That Made History",
-          "title_ko": "유물 스포트라이트: 역사를 만든 모닝 수트",
-          "url": "https://www.justice.gov/history/blog/artifact-spotlight-morning-suit-made-history",
-          "date": "2026-11-23"
-        },
-        {
-          "title_en": "Florida Doctor and Medical Research Employees Convicted of Falsifying Data in Clinical Trials of New Drug Treatments",
-          "title_ko": "플로리다의 의사와 의학 연구 직원들이 신약 치료제의 임상시험에서 데이터를 조작한 혐의로 유죄 판결을 받았습니다.",
-          "url": "https://www.justice.gov/opa/pr/florida-doctor-and-medical-research-employees-convicted-falsifying-data-clinical-trials-new",
-          "date": "2026-11-23"
-        },
-        {
-          "title_en": "Senior Leader of the Sinaloa Cartel and One of FBI’s Ten Most Wanted Fugitives Arrested in Mexico Following a Homeland Security Task Force Investigation",
-          "title_ko": "미국 국토안보부 특별수사팀의 수사 결과에 따라 멕시코에서 시날로아 카르텔의 고위 지도자이자 FBI가 가장 수배 중인 10대 도주자 중 한 명이 체포되었습니다.",
-          "url": "https://www.justice.gov/opa/pr/senior-leader-sinaloa-cartel-and-one-fbis-ten-most-wanted-fugitives-arrested-mexico",
-          "date": "2026-11-21"
-        },
-        {
-          "title_en": "Indian National Sentenced to Over 19 Years in Prison for Plotting to Assassinate U.S. Citizen In New York City",
-          "title_ko": "인도 국적자가 뉴욕시에서 미국 시민을 암살하려 한 혐의로 19년 이상의 징역형을 선고받았습니다.",
-          "url": "https://www.justice.gov/opa/pr/indian-national-sentenced-over-19-years-prison-plotting-assassinate-us-citizen-new-york-city",
-          "date": "2026-11-20"
-        },
-        {
-          "title_en": "DOJ Scores Key Victory in Precedent-Setting Military Attorney Licensing Case",
-          "title_ko": "미 법무부, 선례가 될 군 검찰관 자격 취득 소송에서 중요한 승소",
-          "url": "https://www.justice.gov/opa/pr/doj-scores-key-victory-precedent-setting-military-attorney-licensing-case",
-          "date": "2026-11-20"
         }
       ],
       "note": ""
@@ -244,6 +227,12 @@
       "color": "#6b4423",
       "list_url": "https://www.doi.gov/news",
       "items": [
+        {
+          "title_en": "Bureau of Land Management-Led Investigation Uncovers Marijuana Processing Operation in Northern California, Seizes more than 117 Tons",
+          "title_ko": "미 국토관리국(Bureau of Land Management) 주도 수사에서 북부 캘리포니아의 마리화나 가공 작업장이 적발되고 117톤 이상이 압수됨",
+          "url": "https://www.doi.gov/pressreleases/bureau-land-management-led-investigation-uncovers-marijuana-processing-operation",
+          "date": "2026-11-24"
+        },
         {
           "title_en": "Interior Announces Transformational 60-Year Lease for Rock Creek Tennis Center",
           "title_ko": "미국 내무부, 록크릭 테니스 센터(Rock Creek Tennis Center)에 대한 획기적인 60년 임대 계약 체결 발표",
@@ -340,6 +329,30 @@
       "list_url": "https://www.dhs.gov/news-releases",
       "items": [
         {
+          "title_en": "SANCTUARY CALAMITY: DHS Calls on New York Sanctuary Politicians to Not Release Criminal Illegal Alien Charged with Murdering, Strangling, and Sexually Assaulting a 62-Year-Old Woman",
+          "title_ko": "범죄 은신처의 비극: 국토안보부, 62세 여성을 살해하고, 목 졸라 죽이고, 성폭행한 혐의를 받는 불법 이민자 범죄자를 석방하지 말라고 뉴욕의 범죄 은신처 정책을 지지하는 정치인들에게 촉구",
+          "url": "https://www.dhs.gov/news/2026/11/24/sanctuary-calamity-dhs-calls-new-york-sanctuary-politicians-not-release-criminal",
+          "date": "2026-11-24"
+        },
+        {
+          "title_en": "Human Trafficker, Wife Beater, and MS-13 Gang Member Kilmar Garcia Self-Deports from the United States",
+          "title_ko": "인신매매범, 아내 폭행범, MS-13 갱단 구성원인 킬마르 가르시아가 미국에서 자진 출국",
+          "url": "https://www.dhs.gov/news/2026/11/24/human-trafficker-wife-beater-and-ms-13-gang-member-kilmar-garcia-self-deports",
+          "date": "2026-11-24"
+        },
+        {
+          "title_en": "TSA Is Ready for Thanksgiving Passenger Volumes, Urges Travelers to Plan Ahead",
+          "title_ko": "TSA, 추수감사절 승객 수 증가에 대비 완료, 여행객들에게 사전 계획 수립을 당부",
+          "url": "https://www.dhs.gov/news/2026/11/24/tsa-ready-thanksgiving-passenger-volumes-urges-travelers-plan-ahead",
+          "date": "2026-11-24"
+        },
+        {
+          "title_en": "WORST OF THE WORST: ICE Arrests Murderers, Pedophiles, and Domestic Assailants",
+          "title_ko": "최악 중의 최악: ICE가 살인범, 소아성애자, 가정폭력 가해자를 체포하다",
+          "url": "https://www.dhs.gov/news/2026/11/24/worst-worst-ice-arrests-murderers-pedophiles-and-domestic-assailants",
+          "date": "2026-11-24"
+        },
+        {
           "title_en": "ICE Arrests Illegal Alien MS-13 Member in California Whose Criminal History Includes Cruelty Toward Child and DUI",
           "title_ko": "ICE, 아동 학대 및 음주 운전 전과가 있는 불법 체류 MS-13 조직원을 캘리포니아에서 체포",
           "url": "https://www.dhs.gov/news/2026/11/23/ice-arrests-illegal-alien-ms-13-member-california-whose-criminal-history-includes",
@@ -353,51 +366,27 @@
         },
         {
           "title_en": "WORST OF THE WORST: ICE Arrests Pedophiles, Sexual Predators, and Domestic Abusers Over the Weekend",
-          "title_ko": "최악 중의 최악: ICE가 주말에 소아성애자, 성범죄자, 가정폭력 가해자를 체포했습니다.",
+          "title_ko": "최악 중의 최악: ICE가 주말에 소아성애자, 성범죄자, 가정폭력 가해자를 체포하다",
           "url": "https://www.dhs.gov/news/2026/11/23/worst-worst-ice-arrests-pedophiles-sexual-predators-and-domestic-abusers-over",
           "date": "2026-11-23"
         },
         {
           "title_en": "ICE Lodges Detainer Asking Virginia Sanctuary Politicians to Not Release Illegal Alien Arrested for Raping 12-Year-Old Girl",
-          "title_ko": "ICE, 버지니아주 보호구역 정치인들에게 12세 소녀를 강간한 혐의로 체포된 불법 이민자를 석방하지 말라고 요청하는 구금 요청서 제출",
+          "title_ko": "ICE, 버지니아주 보호구역 정치인들에게 12세 소녀를 강간한 혐의로 체포된 불법 이민자를 석방하지 말 것을 요청하는 구금 요청서 제출",
           "url": "https://www.dhs.gov/news/2026/11/23/ice-lodges-detainer-asking-virginia-sanctuary-politicians-not-release-illegal-alien",
           "date": "2026-11-23"
         },
         {
           "title_en": "HSTF Investigation Leads to Venezuelan National and Alleged Tren de Aragua Gang Member Pleading Guilty to New England “Jackpotting” Scheme",
-          "title_ko": "HSTF 수사 결과, 베네수엘라 국적의 트렌 데 아라과 갱단원으로 추정되는 인물이 뉴잉글랜드 '잭팟팅' 사기 사건에서 유죄를 인정하다",
+          "title_ko": "HSTF 수사 결과, 베네수엘라 국적의 트렌 데 아라과 갱단원으로 추정되는 인물이 뉴잉글랜드 '잭팟팅' 사기 수법에 대해 유죄를 인정하다",
           "url": "https://www.dhs.gov/news/2026/11/23/hstf-investigation-leads-venezuelan-national-and-alleged-tren-de-aragua-gang-member",
           "date": "2026-11-23"
         },
         {
           "title_en": "SANCTUARY INSANITY: DHS Slams Minnesota Sanctuary Politicians for Releasing Illegal Alien Sex Offender from Jail",
-          "title_ko": "피난처 정책의 광기: 국토안보부, 불법 이민자 성범죄자를 석방한 미네소타주 피난처 정책 지지 정치인들을 비난",
+          "title_ko": "피난처의 광기: 국토안보부, 불법 이민자 성범죄자를 석방한 미네소타주 피난 도시 정치인들을 비난",
           "url": "https://www.dhs.gov/news/2026/11/20/sanctuary-insanity-dhs-slams-minnesota-sanctuary-politicians-releasing-illegal",
           "date": "2026-11-20"
-        },
-        {
-          "title_en": "ICE HSI, Nebraska State Patrol Secure 50-Year Sentence for Child Exploitation Offender",
-          "title_ko": "ICE HSI, 네브래스카주 고속도로 순찰대, 아동 성착취 범죄자에 대해 50년형 선고 확보",
-          "url": "https://www.dhs.gov/news/2026/11/20/ice-hsi-nebraska-state-patrol-secure-50-year-sentence-child-exploitation-offender",
-          "date": "2026-11-20"
-        },
-        {
-          "title_en": "WORST OF THE WORST: ICE Protects American Families by Arresting Child Sex Offenders, Violent Assailants, and Drug Traffickers",
-          "title_ko": "최악 중의 최악: ICE가 아동 성범죄자, 폭력적인 공격자, 마약 밀매업자를 체포하여 미국 내 가정을 보호합니다",
-          "url": "https://www.dhs.gov/news/2026/11/20/worst-worst-ice-protects-american-families-arresting-child-sex-offenders-violent",
-          "date": "2026-11-20"
-        },
-        {
-          "title_en": "WORST OF THE WORST: ICE Arrests Sexual Deviants, Violent Assailants, Drug Dealers, and Other Public Safety Threats",
-          "title_ko": "최악 중의 최악: ICE가 성적 일탈자, 폭력적인 공격자, 마약상 및 기타 공공 안전 위협 요소를 체포하다",
-          "url": "https://www.dhs.gov/news/2026/11/19/worst-worst-ice-arrests-sexual-deviants-violent-assailants-drug-dealers-and-other",
-          "date": "2026-11-19"
-        },
-        {
-          "title_en": "SANCTUARY INSANITY: ICE Arrests Previously-Deported Pedophile After He was RELEASED by California Sanctuary Politicians",
-          "title_ko": "범죄자 보호구역의 광기: 캘리포니아 범죄자 보호구역 정치인들이 석방한 전과 있는 소아성애자를 ICE가 체포",
-          "url": "https://www.dhs.gov/news/2026/11/19/sanctuary-insanity-ice-arrests-previously-deported-pedophile-after-he-was-released",
-          "date": "2026-11-19"
         }
       ],
       "note": ""
@@ -428,6 +417,12 @@
           "date": "2026-12-01"
         },
         {
+          "title_en": "Veteran Connect Sharp Park Library",
+          "title_ko": "베테랑 커넥트 샤프 파크 도서관",
+          "url": "https://discover.va.gov/events/veteran-connect-sharp-park-library/",
+          "date": "2026-12-01"
+        },
+        {
           "title_en": "Salisbury VA Veteran Town Hall (Q1 FY27)",
           "title_ko": "솔즈베리 VA 재향군인 타운홀 미팅(2027 회계연도 1분기)",
           "url": "https://discover.va.gov/events/salisbury-va-veteran-town-hall-q1-fy27/",
@@ -435,15 +430,9 @@
         },
         {
           "title_en": "WInter Enrollment and Resource Fair",
-          "title_ko": "겨울학기 등록 및 자원 박람회",
+          "title_ko": "겨울학기 등록 및 자료 박람회",
           "url": "https://discover.va.gov/events/winter-enrollment-and-resource-fair/",
           "date": "2026-12-01"
-        },
-        {
-          "title_en": "Ocean County Senior Expo",
-          "title_ko": "오션 카운티 시니어 엑스포",
-          "url": "https://discover.va.gov/events/ocean-county-senior-expo/",
-          "date": "2026-11-24"
         }
       ],
       "note": ""
@@ -463,7 +452,7 @@
     "gemini_model": "gemini-3.8-flash",
     "gemini_translate_batches": {
       "translate_ok": 0,
-      "translate_fail": 7
+      "translate_fail": 8
     },
     "last_gemini_error": "summary: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceede"
   }
